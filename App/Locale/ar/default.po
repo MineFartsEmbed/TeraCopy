@@ -1,0 +1,934 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-06-04 07:21\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+
+#. mode
+msgid "Copying"
+msgstr "نسخ"
+
+msgid "Moving"
+msgstr "جاري النقل"
+
+msgid "Testing"
+msgstr "اختبار"
+
+msgid "Verifying"
+msgstr "تحقق"
+
+msgid "Deleting"
+msgstr "جار الحذف"
+
+#. results
+msgid "Added"
+msgstr "أضيف بنجاح"
+
+msgid "OK"
+msgstr "موافق"
+
+msgid "Verified"
+msgstr "تم التحقق"
+
+msgid "Error"
+msgstr "خطأ"
+
+#. File list filter
+msgid "Skipped"
+msgstr "تخطي"
+
+msgid "Deleted"
+msgstr "محذوف"
+
+msgid "Moved"
+msgstr "نقل"
+
+msgid "Absent"
+msgstr "غير موجود"
+
+#. File list filter
+msgid "Ignored"
+msgstr "مُتجاهَل"
+
+msgid "File list"
+msgstr "قائمة الملفات"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "الهدف"
+
+msgid "Options"
+msgstr "الخيارات"
+
+msgid "Status"
+msgstr "الحالة"
+
+msgid "Log"
+msgstr "السجل"
+
+#. File list filter
+msgid "All items"
+msgstr "كافة العناصر"
+
+#. File list filter
+msgid "Successful"
+msgstr "تم بنجاح"
+
+#. File list filter
+msgid "Failed"
+msgstr "فشلت"
+
+msgid "No files added"
+msgstr "لا توجد ملفات مضافة"
+
+msgid "No target"
+msgstr "لا يوجد هدف"
+
+#. foder
+msgid "Folder"
+msgstr "مجلد"
+
+msgid "Category"
+msgstr "قسم"
+
+msgid "Files"
+msgstr "الملفات"
+
+msgid "Bytes"
+msgstr "بايت"
+
+msgid "Time"
+msgstr "الوقت"
+
+msgid "Total"
+msgstr "الإجمالي"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "days"
+
+msgid "hours"
+msgstr "hours"
+
+#. minutes
+msgid "min"
+msgstr "min"
+
+#. seconds
+msgid "s"
+msgstr "s"
+
+#. millions
+msgid "m"
+msgstr "m"
+
+msgid "Prompt on filename collision"
+msgstr "Prompt on filename collision"
+
+msgid "Overwrite"
+msgstr "استبدال"
+
+msgid "Overwrite all"
+msgstr "استبدال الكل"
+
+msgid "Skip"
+msgstr "تخطي"
+
+msgid "Skip all"
+msgstr "تخطي الكل"
+
+msgid "Keep both"
+msgstr "الاحتفاظ بكليهما"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "الكتابة فوق جميع الملفات"
+
+msgid "Replace all smaller files"
+msgstr "استبدال جميع الملفات الأصغر"
+
+msgid "Replace all files if size different"
+msgstr "استبدال جميع الملفات إذا كان الحجم مختلف"
+
+msgid "Rename all copied files"
+msgstr "إعادة تسمية جميع الملفات المنسوخة"
+
+msgid "Rename all target files"
+msgstr "إعادة تسمية جميع الملفات المستهدفة"
+
+msgid "Rename all older target files"
+msgstr "إعادة تسمية جميع الملفات المستهدفة"
+
+#. replace dialog
+msgid "More"
+msgstr "المزيد"
+
+#. tooltips
+msgid "Select target path"
+msgstr "حدد المسار المستهدف"
+
+msgid "Add files or folders"
+msgstr "إضافة ملفات أو مجلدات"
+
+msgid "Expanded view"
+msgstr "عرض موسع"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "حذف جميع الملفات في القائمة"
+
+msgid "Read target files and compare checksums"
+msgstr "قراءة ملفات المصدر وإنشاء خلاصات الاختبار"
+
+msgid "Read source files and create checksums"
+msgstr "قراءة ملفات المصدر وإنشاء خلاصات الاختبار"
+
+msgid "Create a new list"
+msgstr "إنشاء قائمة جديدة"
+
+msgid "Transfers history"
+msgstr "تاريخ عمليات النقل"
+
+msgid "Running with administrator priviledges"
+msgstr "تشغيل بدون أذونات المسؤول"
+
+msgid "Run as administrator"
+msgstr "تشغيل كمسؤول"
+
+#. export dialog
+msgid "Print/export"
+msgstr "طباعة/تصدير"
+
+msgid "Preferences"
+msgstr "الإعدادات"
+
+msgid "About"
+msgstr "حول"
+
+msgid "Order license"
+msgstr "طلب الترخيص"
+
+msgid "Enter key"
+msgstr "أدخل المفتاح"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(يتطلب هذا امتيازات مدفوعة)"
+
+msgid "Toggle row"
+msgstr "تبديل الصف"
+
+msgid "Create folders"
+msgstr "إنشاء مجلدات"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "الحفاظ على سمات المجلد (القراءة فقط، الأرشيف...)"
+
+msgid "Keep folder timestamps"
+msgstr "احتفظ بطابع الوقت للمجلد"
+
+msgid "Keep folder alternate data streams"
+msgstr "الاحتفاظ بمجلد تدفقات البيانات البديلة"
+
+msgid "Copy files"
+msgstr "نسخ الملفات"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "الاحتفاظ بسمات الملف (القراءة فقط، الأرشيف...)"
+
+msgid "Keep file timestamps"
+msgstr "الاحتفاظ بالملفات الزمنية"
+
+msgid "Keep file alternate data streams"
+msgstr "الاحتفاظ بتدفق البيانات البديل للملف"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "الحفاظ على ACLs للمجلدات"
+
+msgid "Keep owner information for folders"
+msgstr "الاحتفاظ بمعلومات المالك للمجلدات"
+
+msgid "Keep audit information for folders"
+msgstr "الحفاظ على معلومات المراجعة للمجلدات"
+
+msgid "Keep ACLs for files"
+msgstr "الاحتفاظ بـ ACLs للملفات"
+
+msgid "Keep owner information for files"
+msgstr "الاحتفاظ بمعلومات المالك للملفات"
+
+msgid "Keep audit information for files"
+msgstr "الاحتفاظ بمعلومات المالك للملفات"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "حجم التخزين المؤقت لجميع العمليات"
+
+msgid "Action to take on filename conflict"
+msgstr "الإجراء الذي يجب اتخاذه بشأن تعارض اسم الملف"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "طريقة حساب المبالغ الاختبارية أثناء نقل أو اختبار الملفات"
+
+msgid "Save the checksum file to the target folder"
+msgstr "حفظ ملف المجموع الاختباري إلى المجلد المستهدف"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "حفظ ملف المجموع الاختباري إلى المجلد المستهدف"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "تخزين المجموع الاختباري المحسوب داخل الملف باستخدام بث البيانات البديل"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "إيقاف جميع العمليات؟"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "إغلاق التطبيق"
+
+msgid "Keep app open"
+msgstr "إبقاء التطبيق مفتوح"
+
+msgid "Shutdown"
+msgstr "إيقاف التشغيل"
+
+msgid "Sleep"
+msgstr "السكون"
+
+msgid "Hibernate"
+msgstr "الإسبات"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "في النهاية: %s"
+
+msgid "Always On Top"
+msgstr "البقاء فوق النوافذ الأخرى"
+
+msgid "Shell integration"
+msgstr "تكامل Shell"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "التعامل مع ملفات السحب والإسقاط باستخدام زر الماوس الأيسر وكذلك نسخ وأوامر اللصق في المستكشف."
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Adds Copy and Move buttons to the Total Commander default buttons bar."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Read how to add Copy and Move buttons to the Directory Opus."
+
+msgid "Misc"
+msgstr "خصائص أخرى"
+
+msgid "Interface"
+msgstr "واجهة المستخدم"
+
+msgid "Register Copy Handler"
+msgstr "Register Copy Handler"
+
+msgid "Unregister Copy Handler"
+msgstr "Unregister Copy Handler"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "استخدام TeraCopy كمعالج افتراضي للنسخ"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "فقط عندما يكون قفل التمرير متوقف"
+
+msgid "Add to Explorer context menu"
+msgstr "إضافة إلى قائمة سياق المستكشف"
+
+msgid "Play sound"
+msgstr "تشغيل الصوت"
+
+msgid "Check free space"
+msgstr "تحقق من المساحة الحرة"
+
+msgid "Always test after copy"
+msgstr "الاختبار دائمًا بعد النسخ"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Disable asynchronous file transfer"
+
+msgid "Use system write cache"
+msgstr "استخدام ذاكرة التخزين المؤقت للكتابة في النظام"
+
+msgid "Confirm drag and drop"
+msgstr "تأكيد السحب والإسقاط"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "اختبار الملفات الفردية مقابل المجموع الاختباري في الحافظة"
+
+#. / file managers
+msgid "File managers"
+msgstr "إدارة الملفات"
+
+msgid "Window"
+msgstr "النافذة"
+
+msgid "Show notifications"
+msgstr "عرض الإشعارات"
+
+msgid "Automatic updates"
+msgstr "التحديثات التلقائية"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+#. Window mode
+msgid "Expanded"
+msgstr "توسيع"
+
+msgid "Stacks"
+msgstr "حزمة"
+
+msgid "Auto"
+msgstr "تلقائي"
+
+msgid "Not registered for Commercial Use"
+msgstr "غير مسجل للاستخدام التجاري"
+
+msgid "Free for Home Users"
+msgstr "مجاني لمستخدمي المنزلي"
+
+#. cancel timer
+msgid "Close"
+msgstr "إغلاق"
+
+msgid "Check for updates"
+msgstr "التحقق من وجود تحديثات"
+
+#. history options
+msgid "Never keep history"
+msgstr "لا تبقي على التاريخ"
+
+msgid "Keep history for 1 day"
+msgstr "الحفاظ على المحفوظات لمدة يوم واحد"
+
+msgid "Keep history for 1 week"
+msgstr "الاحتفاظ بالتاريخ لمدة أسبوع واحد"
+
+msgid "Keep history permanently"
+msgstr "الاحتفاظ بالتاريخ بشكل دائم"
+
+msgid "Clean history now"
+msgstr "مسح السجل الآن"
+
+msgid "Delete"
+msgstr "حذف"
+
+#. date
+msgid "Created"
+msgstr "تم الإنشاء"
+
+msgid "Unattended"
+msgstr "غير مراقب"
+
+msgid "Hash"
+msgstr "الهاش"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "المصدر"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "الملف"
+
+msgid "Not calculated"
+msgstr "لم يتم حسابها"
+
+msgid "Modified"
+msgstr "التغيير الأخير"
+
+msgid "File info"
+msgstr "معلومات الملف"
+
+#. select
+msgid "This item"
+msgstr "هذا العنصر"
+
+#. space bar key
+msgid "Space"
+msgstr "المساحة"
+
+msgid "Inverse selection"
+msgstr "اعكس التحديد"
+
+#. select
+msgid "Same folder"
+msgstr "نفس المجلد"
+
+#. select
+msgid "Same extension"
+msgstr "نفس التمديد"
+
+msgid "Deselect all"
+msgstr "إلغاء الكل"
+
+msgid "Select"
+msgstr "إختيار"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "حذف المحدد"
+
+#. ignore
+msgid "Ignore"
+msgstr "تجاهل"
+
+msgid "Extension"
+msgstr "الإضافات"
+
+msgid "Select ignore list"
+msgstr "حدد قائمة التجاهل"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "إضافة إلى: %s"
+
+msgid "New file list"
+msgstr "قائمة ملفات جديدة"
+
+msgid "Close all panels"
+msgstr "إغلاق جميع اللوحات"
+
+msgid "Add files"
+msgstr "إضافة الملفات"
+
+msgid "Add folders"
+msgstr "إضافة مجلدات"
+
+msgid "Save checksums"
+msgstr "حفظ خلاصات الفحص"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "الحصول على النسخة الاحترافية"
+
+msgid "Export as"
+msgstr "تصدير كـ"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (مع الأعمدة القابلة للفرز)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (للاستيراد في Excel، إلخ)"
+
+msgid "Export only"
+msgstr "تصدير فقط"
+
+msgid "Reset list"
+msgstr "إعادة تعيين القائمة"
+
+#. ignore always
+msgid "Empty"
+msgstr "فارغة"
+
+#. always
+msgid "Edit"
+msgstr "تعديل"
+
+msgid "Download"
+msgstr "تحميل"
+
+msgid "On every operation"
+msgstr "في كل عملية"
+
+msgid "Browse"
+msgstr "تصفح"
+
+msgid "Favorites & recent"
+msgstr "المفضلة و الحديثة"
+
+msgid "No open windows"
+msgstr "لا توجد نوافذ مفتوحة"
+
+msgid "Checksum copied"
+msgstr "تم نسخ المجموع الاختباري"
+
+msgid "Copy"
+msgstr "نسخ"
+
+msgid "Move"
+msgstr "نقل"
+
+#. 3rd line
+msgid "Filter"
+msgstr "تصفية"
+
+msgid "Process files:"
+msgstr "الملفات التي تمت معالجتها:"
+
+msgid "Start Now"
+msgstr "ابدأ الآن"
+
+msgid "Adding files..."
+msgstr "إضافة ملفات..."
+
+msgid "Stop"
+msgstr "إيقاف"
+
+msgid "Pause"
+msgstr "إيقاف مؤقت"
+
+msgid "Resume"
+msgstr "استئناف"
+
+msgid "Applying attributes and removing folders..."
+msgstr "تطبيق السمات وإزالة المجلدات..."
+
+msgid "Applying folder attributes..."
+msgstr "جارٍ تطبيق سمات المجلد..."
+
+#. result
+msgid "Result"
+msgstr "النتيجة"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: اكتمل"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Verify"
+msgstr "التحقق"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "حفظ Hash"
+
+#. operation buttons
+msgid "Test"
+msgstr "اختبار"
+
+msgid "Opening via service:"
+msgstr "فتح عبر الخدمة:"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "%s ملف حفظ hash"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "لا توجد مقادير فحص متاحة، يرجى نسخ أو اختبار الملفات أولاً."
+
+#. check sizes before
+msgid "No target file"
+msgstr "لا يوجد ملف مستهدف"
+
+msgid "Sizes mismatch"
+msgstr "عدم تطابق الأحجام"
+
+msgid "Hashes mismatch"
+msgstr "عدم تطابق Hashes"
+
+msgid "Waiting for other transfers..."
+msgstr "في انتظار عمليات نقل أخرى..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "إعادة تعيين المكتملة ومعالجة جميع الملفات المضافة؟"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "مطلوب مساحة أكبر: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "المصدر هو نفس الهدف"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "مجلد الوجهة هو مجلد فرعي للمجلد المصدر!"
+
+msgid "Destination File Already Exists"
+msgstr "ملف الوجهة موجود بالفعل"
+
+msgid "Open file"
+msgstr "فتح الملف"
+
+msgid "Open folder"
+msgstr "فتح المجلد"
+
+msgid "Bigger"
+msgstr "أكبر"
+
+msgid "Smaller"
+msgstr "أصغر"
+
+msgid "Same size"
+msgstr "نفس الحجم"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "تخطي الكل في %d ثانية"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "المزيد من الخيارات، قابلة للتطبيق على جميع الملفات"
+
+msgid "Older"
+msgstr "الأقدم"
+
+msgid "Newer"
+msgstr "الأحدث"
+
+msgid "Same date"
+msgstr "نفس التاريخ"
+
+msgid "File is offline, waiting..."
+msgstr "الملف غير متصل، بانتظار..."
+
+msgid "Cancelled"
+msgstr "تم إلغاؤه"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "الملف متاح مرة أخرى، استئناف النقل..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "القرص ممتلئ، يرجى تحرير %s"
+
+msgid "File is too large for this file system"
+msgstr "الملف كبير جدا لنظام الملفات هذا"
+
+msgid "Error reading file."
+msgstr "خطأ في قراءة الملف."
+
+msgid "Error writing file."
+msgstr "خطأ في كتابة الملف."
+
+msgid "File skipped"
+msgstr "تم تخطي الملف"
+
+msgid "Stopped"
+msgstr "الموقوف"
+
+msgid "Error creating folder."
+msgstr "خطأ في إنشاء مجلد."
+
+msgid "Edit in Notepad"
+msgstr "عرض في محرر النصوص"
+
+msgid "Remove from favorites"
+msgstr "إزالة من المفضلة"
+
+msgid "Add to favorites"
+msgstr "إضافة إلى المفضلة"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] "%d عنصر"
+msgstr[2] "%d عناصر"
+msgstr[3] ""
+msgstr[4] "%d عناصر"
+msgstr[5] "%d عناصر"
+
+msgid "Skip requested by user"
+msgstr "تخطي الطلب من المستخدم"
+
+msgid "Stop requested by user"
+msgstr "طلب التوقف من قبل المستخدم"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] ""
+msgstr[1] "حذف %d ملف من القرص؟"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "حذف %d ملفات من القرص؟"
+
+msgid "Move to Recycle Bin"
+msgstr "نقل إلى سلة المحذوفات"
+
+msgid "Delete from disk"
+msgstr "حذف من القرص"
+
+msgid "Wipe data"
+msgstr "مسح البيانات"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "بطيء, سهولة الاستعادة."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "أسرع, صعوبة الاستعادة."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "بطيء جداً، يمر واحد مع بيانات عشوائية، غير مجد للادوات الصلبة."
+
+msgid "Delete ALL files in the list?"
+msgstr "حذف جميع الملفات في القائمة؟"
+
+msgid "Folder not found"
+msgstr "لم يتم العثور على المجلد"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "%s هاش في الحافظة مطابقة: #10%s"
+
+msgid "Error opening file."
+msgstr "حدث خطأ أثناء فتح الملف."
+
+msgid "Error deleting file."
+msgstr "حدث خطأ أثناء حذف الملف."
+
+msgid "Paused"
+msgstr "متوقف مؤقتا"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "الأخطاء: %d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "تخطي: %d"
+
+msgid "Append path"
+msgstr "إلحاق مسار"
+
+msgid "File list is empty"
+msgstr "قائمة الملفات فارغة"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "المساحة الحرة: %s"
+
+msgid "Unavailable"
+msgstr "غير متوفر"
+
+msgid "Querying..."
+msgstr "جاري الإستعلام..."
+
+msgid "Drag files or folders here"
+msgstr "اسحب الملفات أو المجلدات هنا"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "لا توجد عناصر لإظهارها. قم بإزالة الفلاتر لمشاهدة جميع الملفات."
+
+msgid "Verify files after transfer"
+msgstr "التحقق من الملفات بعد التحويل"
+
+msgid "Save checksum file on finish"
+msgstr "حفظ ملف المجموع الاختباري عند الانتهاء"
+
+msgid "Auto-scroll"
+msgstr "تمرير تلقائي"
+
+#. menu
+msgid "Menu"
+msgstr "القائمة الرئيسية"
+
+msgid "Shared options"
+msgstr "خيارات المشاركة"
+
+msgid "buffer size"
+msgstr "حجم المخزن المؤقت"
+
+#. captions
+msgid "Transfer"
+msgstr "نقل"
+
+msgid "Transfer options"
+msgstr "خيارات التحويل"
+
+msgid "Files & folders"
+msgstr "الملفات والمجلدات"
+
+msgid "Data"
+msgstr "البيانات"
+
+msgid "Attributes"
+msgstr "السمات"
+
+msgid "Timestamps"
+msgstr "التوقيت الزمني"
+
+msgid "Streams"
+msgstr "البث"
+
+msgid "Security"
+msgstr "حماية"
+
+msgid "ACL"
+msgstr ""
+
+msgid "Owner"
+msgstr "المالك"
+
+msgid "Audit"
+msgstr "التدقيق"
+
+msgid "Test options"
+msgstr "خيارات الاختبار"
+
+msgid "Store/verify checksum in ADS"
+msgstr ""
+
+msgid "Save as default"
+msgstr "حفظ كإعداد افتراضي"
+
+msgid "Reset to default"
+msgstr "إعادة التعيين إلى الافتراضي"
+
+msgid "Done"
+msgstr "أكتمل"
+

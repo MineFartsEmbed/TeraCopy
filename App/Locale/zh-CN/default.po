@@ -1,0 +1,924 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-07-13 08:18\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+
+#. mode
+msgid "Copying"
+msgstr "复制中"
+
+msgid "Moving"
+msgstr "移动中"
+
+msgid "Testing"
+msgstr "测试中"
+
+msgid "Verifying"
+msgstr "验证中"
+
+msgid "Deleting"
+msgstr "删除中"
+
+#. results
+msgid "Added"
+msgstr "已添加"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "Verified"
+msgstr "已验证"
+
+msgid "Error"
+msgstr "错误"
+
+#. File list filter
+msgid "Skipped"
+msgstr "已跳过"
+
+msgid "Deleted"
+msgstr "已删除"
+
+msgid "Moved"
+msgstr "已移动"
+
+msgid "Absent"
+msgstr "缺失"
+
+#. File list filter
+msgid "Ignored"
+msgstr "已忽略"
+
+msgid "File list"
+msgstr "文件列表"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "目标"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Log"
+msgstr "日志"
+
+#. File list filter
+msgid "All items"
+msgstr "所有项目"
+
+#. File list filter
+msgid "Successful"
+msgstr "成功"
+
+#. File list filter
+msgid "Failed"
+msgstr "失败"
+
+msgid "No files added"
+msgstr "未添加文件"
+
+msgid "No target"
+msgstr "无目标"
+
+#. foder
+msgid "Folder"
+msgstr "文件夹"
+
+msgid "Category"
+msgstr "类别"
+
+msgid "Files"
+msgstr "文件"
+
+msgid "Bytes"
+msgstr "字节"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "Total"
+msgstr "总计"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "天"
+
+msgid "hours"
+msgstr "时"
+
+#. minutes
+msgid "min"
+msgstr "分"
+
+#. seconds
+msgid "s"
+msgstr "秒"
+
+#. millions
+msgid "m"
+msgstr "百万"
+
+msgid "Prompt on filename collision"
+msgstr "当文件名冲突时提示"
+
+msgid "Overwrite"
+msgstr "覆盖"
+
+msgid "Overwrite all"
+msgstr "全部覆盖"
+
+msgid "Skip"
+msgstr "跳过"
+
+msgid "Skip all"
+msgstr "全部跳过"
+
+msgid "Keep both"
+msgstr "保留两者"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "覆盖所有更旧的文件"
+
+msgid "Replace all smaller files"
+msgstr "覆盖所有更小的文件"
+
+msgid "Replace all files if size different"
+msgstr "覆盖所有文件大小不同的文件"
+
+msgid "Rename all copied files"
+msgstr "重命名所有已复制的文件"
+
+msgid "Rename all target files"
+msgstr "重命名所有目标文件"
+
+msgid "Rename all older target files"
+msgstr "重命名所有更旧的目标文件"
+
+#. replace dialog
+msgid "More"
+msgstr "更多"
+
+#. tooltips
+msgid "Select target path"
+msgstr "选择目标路径"
+
+msgid "Add files or folders"
+msgstr "添加文件或文件夹"
+
+msgid "Expanded view"
+msgstr "展开视图"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "从列表移除所有文件"
+
+msgid "Read target files and compare checksums"
+msgstr "读取目标文件并比较校验和"
+
+msgid "Read source files and create checksums"
+msgstr "读取源文件并创建校验和"
+
+msgid "Create a new list"
+msgstr "新建列表"
+
+msgid "Transfers history"
+msgstr "传输历史"
+
+msgid "Running with administrator priviledges"
+msgstr "正在使用管理员权限运行"
+
+msgid "Run as administrator"
+msgstr "以管理员身份运行"
+
+#. export dialog
+msgid "Print/export"
+msgstr "打印/导出"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Order license"
+msgstr "购买许可证"
+
+msgid "Enter key"
+msgstr "输入注册码"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(这需要更高的权限)"
+
+msgid "Toggle row"
+msgstr "切换行模式"
+
+msgid "Create folders"
+msgstr "创建文件夹"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "保留文件夹属性 (只读，存档...)"
+
+msgid "Keep folder timestamps"
+msgstr "保留文件夹时间戳"
+
+msgid "Keep folder alternate data streams"
+msgstr "保留文件夹备用数据流"
+
+msgid "Copy files"
+msgstr "复制文件"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "保留文件属性 (只读，存档...)"
+
+msgid "Keep file timestamps"
+msgstr "保留文件时间戳"
+
+msgid "Keep file alternate data streams"
+msgstr "保留文件备用数据流"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "为文件夹保留访问控制列表(ACL)"
+
+msgid "Keep owner information for folders"
+msgstr "保留文件夹的所有者信息"
+
+msgid "Keep audit information for folders"
+msgstr "保留文件夹的审计信息"
+
+msgid "Keep ACLs for files"
+msgstr "为文件保留访问控制列表（ACLs）"
+
+msgid "Keep owner information for files"
+msgstr "保留文件的所有者信息"
+
+msgid "Keep audit information for files"
+msgstr "保留文件的审计信息"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "所有操作的缓存大小"
+
+msgid "Action to take on filename conflict"
+msgstr "处理文件名冲突的操作"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "传输或测试文件时计算校验和的方法"
+
+msgid "Save the checksum file to the target folder"
+msgstr "将校验和文件保存到目标文件夹"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "将校验和文件保存到源文件夹"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "使用备用数据流将计算出的校验和存储在文件中"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "停止所有操作？"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "关闭应用"
+
+msgid "Keep app open"
+msgstr "保持应用打开"
+
+msgid "Shutdown"
+msgstr "关机"
+
+msgid "Sleep"
+msgstr "睡眠"
+
+msgid "Hibernate"
+msgstr "休眠"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "完成后：%s"
+
+msgid "Always On Top"
+msgstr "窗口置顶"
+
+msgid "Shell integration"
+msgstr "右键菜单集成"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "在资源管理器中处理鼠标左键拖拽以及复制粘贴命令。"
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "添加复制和移动按钮到 Total Commander 默认按钮栏。"
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "查看如何添加复制和移动按钮到 Directory Opus."
+
+msgid "Misc"
+msgstr "杂项"
+
+msgid "Interface"
+msgstr "界面"
+
+msgid "Register Copy Handler"
+msgstr "集成复制功能"
+
+msgid "Unregister Copy Handler"
+msgstr "取消集成复制功能"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "默认使用 TeraCopy 复制文件"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "仅当 Scroll Lock 关闭时"
+
+msgid "Add to Explorer context menu"
+msgstr "添加至右键菜单"
+
+msgid "Play sound"
+msgstr "播放提示音"
+
+msgid "Check free space"
+msgstr "检查可用空间"
+
+msgid "Always test after copy"
+msgstr "复制后总是测试"
+
+msgid "Disable asynchronous file transfer"
+msgstr "禁用异步文件传输"
+
+msgid "Use system write cache"
+msgstr "使用系统写入缓存"
+
+msgid "Confirm drag and drop"
+msgstr "接管拖放操作"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "将单个文件与剪贴板中的校验和比较"
+
+#. / file managers
+msgid "File managers"
+msgstr "文件管理器"
+
+msgid "Window"
+msgstr "窗口"
+
+msgid "Show notifications"
+msgstr "显示通知"
+
+msgid "Automatic updates"
+msgstr "自动更新"
+
+msgid "Cancel"
+msgstr "取消"
+
+#. Window mode
+msgid "Expanded"
+msgstr "展开模式"
+
+msgid "Stacks"
+msgstr "堆叠模式"
+
+msgid "Auto"
+msgstr "自动"
+
+msgid "Not registered for Commercial Use"
+msgstr "未注册为商业使用"
+
+msgid "Free for Home Users"
+msgstr "家庭用户免费使用"
+
+#. cancel timer
+msgid "Close"
+msgstr "关闭"
+
+msgid "Check for updates"
+msgstr "检查更新"
+
+#. history options
+msgid "Never keep history"
+msgstr "永不保留传输历史"
+
+msgid "Keep history for 1 day"
+msgstr "保留传输历史 1 天"
+
+msgid "Keep history for 1 week"
+msgstr "保留传输历史 1 周"
+
+msgid "Keep history permanently"
+msgstr "永久保留传输历史"
+
+msgid "Clean history now"
+msgstr "立即清理传输历史"
+
+msgid "Delete"
+msgstr "删除"
+
+#. date
+msgid "Created"
+msgstr "已创建"
+
+msgid "Unattended"
+msgstr "自动化操作"
+
+msgid "Hash"
+msgstr "哈希值"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "源"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "文件"
+
+msgid "Not calculated"
+msgstr "未计算"
+
+msgid "Modified"
+msgstr "已修改"
+
+msgid "File info"
+msgstr "文件信息"
+
+#. select
+msgid "This item"
+msgstr "此项目"
+
+#. space bar key
+msgid "Space"
+msgstr "空间"
+
+msgid "Inverse selection"
+msgstr "反向选择"
+
+#. select
+msgid "Same folder"
+msgstr "相同文件夹"
+
+#. select
+msgid "Same extension"
+msgstr "相同扩展名"
+
+msgid "Deselect all"
+msgstr "全部取消选中"
+
+msgid "Select"
+msgstr "选择"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "移除所选"
+
+#. ignore
+msgid "Ignore"
+msgstr "忽略"
+
+msgid "Extension"
+msgstr "扩展名"
+
+msgid "Select ignore list"
+msgstr "选择忽略列表"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "添加到：%s"
+
+msgid "New file list"
+msgstr "新建文件列表"
+
+msgid "Close all panels"
+msgstr "关闭所有面板"
+
+msgid "Add files"
+msgstr "添加文件"
+
+msgid "Add folders"
+msgstr "添加文件夹"
+
+msgid "Save checksums"
+msgstr "保存校验和"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "获取专业版"
+
+msgid "Export as"
+msgstr "导出为"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (包含可排序的列表)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (可在 Excel 等软件中导入)"
+
+msgid "Export only"
+msgstr "仅导出"
+
+msgid "Reset list"
+msgstr "重置列表"
+
+#. ignore always
+msgid "Empty"
+msgstr "空"
+
+#. always
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "On every operation"
+msgstr "每次操作"
+
+msgid "Browse"
+msgstr "浏览"
+
+msgid "Favorites & recent"
+msgstr "收藏和最近使用的目录"
+
+msgid "No open windows"
+msgstr "没有打开的窗口"
+
+msgid "Checksum copied"
+msgstr "已复制校验和"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Move"
+msgstr "移动"
+
+#. 3rd line
+msgid "Filter"
+msgstr "筛选器"
+
+msgid "Process files:"
+msgstr "处理文件："
+
+msgid "Start Now"
+msgstr "立即开始"
+
+msgid "Adding files..."
+msgstr "正在添加文件..."
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "Resume"
+msgstr "继续"
+
+msgid "Applying attributes and removing folders..."
+msgstr "正在应用属性并删除文件夹..."
+
+msgid "Applying folder attributes..."
+msgstr "正在应用文件夹属性..."
+
+#. result
+msgid "Result"
+msgstr "结果"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s：已完成"
+
+msgid "Next"
+msgstr "下一步"
+
+msgid "Verify"
+msgstr "校验"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "保存哈希值"
+
+#. operation buttons
+msgid "Test"
+msgstr "测试"
+
+msgid "Opening via service:"
+msgstr "通过服务打开:"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "%s 哈希文件已保存"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "没有校验和可用，请先复制或测试文件。"
+
+#. check sizes before
+msgid "No target file"
+msgstr "没有目标文件"
+
+msgid "Sizes mismatch"
+msgstr "文件大小不匹配"
+
+msgid "Hashes mismatch"
+msgstr "哈希值不匹配"
+
+msgid "Waiting for other transfers..."
+msgstr "正在等待其它传输..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "重置已完成并处理所有已添加的文件？"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "需要更多空间: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "目标与源相同"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "目标文件夹是源文件夹的子文件夹！"
+
+msgid "Destination File Already Exists"
+msgstr "目标文件已存在"
+
+msgid "Open file"
+msgstr "打开文件"
+
+msgid "Open folder"
+msgstr "打开文件夹"
+
+msgid "Bigger"
+msgstr "更大"
+
+msgid "Smaller"
+msgstr "更小"
+
+msgid "Same size"
+msgstr "大小相同"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "跳过 %d 中所有的"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "更多选项，适用于所有文件"
+
+msgid "Older"
+msgstr "更旧"
+
+msgid "Newer"
+msgstr "更新"
+
+msgid "Same date"
+msgstr "时间相同"
+
+msgid "File is offline, waiting..."
+msgstr "文件离线，等待中..."
+
+msgid "Cancelled"
+msgstr "已取消"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "该文件再次可用，正在恢复传输..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "磁盘已满，请释放 %s"
+
+msgid "File is too large for this file system"
+msgstr "文件对于此文件系统过大"
+
+msgid "Error reading file."
+msgstr "读取文件时出错。"
+
+msgid "Error writing file."
+msgstr "写入文件时出错。"
+
+msgid "File skipped"
+msgstr "已跳过文件"
+
+msgid "Stopped"
+msgstr "已停止"
+
+msgid "Error creating folder."
+msgstr "创建文件夹时出错。"
+
+msgid "Edit in Notepad"
+msgstr "在记事本中编辑"
+
+msgid "Remove from favorites"
+msgstr "从收藏夹中移除"
+
+msgid "Add to favorites"
+msgstr "添加到收藏夹"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d 个项目"
+
+msgid "Skip requested by user"
+msgstr "用户请求跳过操作"
+
+msgid "Stop requested by user"
+msgstr "用户请求停止操作"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "从磁盘删除 %d 个文件吗？"
+
+msgid "Move to Recycle Bin"
+msgstr "移至回收站"
+
+msgid "Delete from disk"
+msgstr "从磁盘删除"
+
+msgid "Wipe data"
+msgstr "擦除数据"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "较慢，容易恢复。"
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "较快，难以恢复。"
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "非常慢，使用随机数据覆盖一次，对于固态驱动器没有作用。"
+
+msgid "Delete ALL files in the list?"
+msgstr "要删除列表中的所有文件吗?"
+
+msgid "Folder not found"
+msgstr "找不到文件夹"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "与剪贴板中的 %s 哈希值匹配：#10%s"
+
+msgid "Error opening file."
+msgstr "打开文件时出错。"
+
+msgid "Error deleting file."
+msgstr "删除文件时出错。"
+
+msgid "Paused"
+msgstr "已暂停"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "错误： %d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "跳过： %d"
+
+msgid "Append path"
+msgstr "附加路径"
+
+msgid "File list is empty"
+msgstr "文件列表为空"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "可用空间： %s"
+
+msgid "Unavailable"
+msgstr "不可用"
+
+msgid "Querying..."
+msgstr "查询中..."
+
+msgid "Drag files or folders here"
+msgstr "将文件或文件夹拖到这里"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "没有要显示的项目。移除过滤器以查看所有文件。"
+
+msgid "Verify files after transfer"
+msgstr "传输后验证文件"
+
+msgid "Save checksum file on finish"
+msgstr "完成后保存校验文件"
+
+msgid "Auto-scroll"
+msgstr "自动滚动"
+
+#. menu
+msgid "Menu"
+msgstr "菜单"
+
+msgid "Shared options"
+msgstr "通用选项"
+
+msgid "buffer size"
+msgstr "缓存大小"
+
+#. captions
+msgid "Transfer"
+msgstr "传输"
+
+msgid "Transfer options"
+msgstr "传输选项"
+
+msgid "Files & folders"
+msgstr "文件和文件夹"
+
+msgid "Data"
+msgstr "数据"
+
+msgid "Attributes"
+msgstr "属性"
+
+msgid "Timestamps"
+msgstr "时间戳"
+
+msgid "Streams"
+msgstr "流"
+
+msgid "Security"
+msgstr "安全"
+
+msgid "ACL"
+msgstr "访问控制列表(ACL)"
+
+msgid "Owner"
+msgstr "所有者"
+
+msgid "Audit"
+msgstr "审计"
+
+msgid "Test options"
+msgstr "测试选项"
+
+msgid "Store/verify checksum in ADS"
+msgstr "在备用数据流中存储/验证校验和"
+
+msgid "Save as default"
+msgstr "保存为默认值"
+
+msgid "Reset to default"
+msgstr "重置为默认值"
+
+msgid "Done"
+msgstr "已完成"
+

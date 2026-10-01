@@ -1,0 +1,930 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-12-28 05:44\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n%100==4 ? 3 : 0);\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: sl\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Slovenian\n"
+"Language: sl_SI\n"
+
+#. mode
+msgid "Copying"
+msgstr "Kopiranje"
+
+msgid "Moving"
+msgstr "Premikanje"
+
+msgid "Testing"
+msgstr "Testiranje"
+
+msgid "Verifying"
+msgstr "Preverjanje"
+
+msgid "Deleting"
+msgstr "Brisanje"
+
+#. results
+msgid "Added"
+msgstr "Dodano"
+
+msgid "OK"
+msgstr "V redu"
+
+msgid "Verified"
+msgstr "Preverjeno"
+
+msgid "Error"
+msgstr "Napaka"
+
+#. File list filter
+msgid "Skipped"
+msgstr "Preskočeno"
+
+msgid "Deleted"
+msgstr "Izbrisano"
+
+msgid "Moved"
+msgstr "Premaknjeno"
+
+msgid "Absent"
+msgstr "Odsotno"
+
+#. File list filter
+msgid "Ignored"
+msgstr "Prezrto"
+
+msgid "File list"
+msgstr "Seznam datotek"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "Cilj"
+
+msgid "Options"
+msgstr "Možnosti"
+
+msgid "Status"
+msgstr "Stanje"
+
+msgid "Log"
+msgstr "Dnevnik"
+
+#. File list filter
+msgid "All items"
+msgstr "Vse postavke"
+
+#. File list filter
+msgid "Successful"
+msgstr "Uspelo"
+
+#. File list filter
+msgid "Failed"
+msgstr "Spodletelo"
+
+msgid "No files added"
+msgstr "Nobena datoteka ni bila dodana"
+
+msgid "No target"
+msgstr "Brez cilja"
+
+#. foder
+msgid "Folder"
+msgstr "Mapa"
+
+msgid "Category"
+msgstr "Kategorija"
+
+msgid "Files"
+msgstr "Datoteke"
+
+msgid "Bytes"
+msgstr "Bajtov"
+
+msgid "Time"
+msgstr "Čas"
+
+msgid "Total"
+msgstr "Skupaj"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "dni"
+
+msgid "hours"
+msgstr "ur"
+
+#. minutes
+msgid "min"
+msgstr "min"
+
+#. seconds
+msgid "s"
+msgstr "s"
+
+#. millions
+msgid "m"
+msgstr "m"
+
+msgid "Prompt on filename collision"
+msgstr "Opozorilo na nasprotje v imenu datoteke"
+
+msgid "Overwrite"
+msgstr "Prepiši"
+
+msgid "Overwrite all"
+msgstr "Prepiši vse"
+
+msgid "Skip"
+msgstr "Preskoči"
+
+msgid "Skip all"
+msgstr "Preskoči vse"
+
+msgid "Keep both"
+msgstr "Obdrži obe"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "Prepiši vse starejše datoteke"
+
+msgid "Replace all smaller files"
+msgstr "Zamenjaj vse manjše datoteke"
+
+msgid "Replace all files if size different"
+msgstr "Zamenjaj vse datoteke, če je velikost različna"
+
+msgid "Rename all copied files"
+msgstr "Preimenuj vse kopirane datoteke"
+
+msgid "Rename all target files"
+msgstr "Preimenuj vse ciljne datoteke"
+
+msgid "Rename all older target files"
+msgstr "Preimenuj vse starejše ciljne datoteke"
+
+#. replace dialog
+msgid "More"
+msgstr "Več"
+
+#. tooltips
+msgid "Select target path"
+msgstr "Izberi ciljno pot"
+
+msgid "Add files or folders"
+msgstr "Dodaj datoteke ali mape"
+
+msgid "Expanded view"
+msgstr "Razširjen pogled"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "Izbriši vse datoteke iz seznama"
+
+msgid "Read target files and compare checksums"
+msgstr "Preberi ciljne datoteke in primerjaj kontrolne vsote"
+
+msgid "Read source files and create checksums"
+msgstr "Preberi izvorne datoteke in ustvari kontrolne vsote"
+
+msgid "Create a new list"
+msgstr "Ustvari nov seznam"
+
+msgid "Transfers history"
+msgstr "Zgodovina prenosov"
+
+msgid "Running with administrator priviledges"
+msgstr "Deluje s skrbniškimi pravicami"
+
+msgid "Run as administrator"
+msgstr "Zaženi kot skrbnik"
+
+#. export dialog
+msgid "Print/export"
+msgstr "Tiskanje/izvoz"
+
+msgid "Preferences"
+msgstr "Nastavitve"
+
+msgid "About"
+msgstr "Vizitka"
+
+msgid "Order license"
+msgstr "Naroči licenco"
+
+msgid "Enter key"
+msgstr "Vnesi ključ"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(to zahteva višja dovoljenja)"
+
+msgid "Toggle row"
+msgstr "Preklopi vrstico"
+
+msgid "Create folders"
+msgstr "Ustvari mape"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "Ohrani atribute mape (samo za branje, arhiv ...)"
+
+msgid "Keep folder timestamps"
+msgstr "Ohrani časovne žige map"
+
+msgid "Keep folder alternate data streams"
+msgstr "Ohrani nadomestne podatkovne tokove mape"
+
+msgid "Copy files"
+msgstr "Kopiraj datoteke"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "Ohrani atribute mape (samo za branje, arhiv ...)"
+
+msgid "Keep file timestamps"
+msgstr "Ohrani časovne žige datotek"
+
+msgid "Keep file alternate data streams"
+msgstr "Ohrani nadomestne podatkovne tokove datoteke"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "Ohrani sezname nadzora dostopa za mape"
+
+msgid "Keep owner information for folders"
+msgstr "Ohranite podatke o lastniku za mape"
+
+msgid "Keep audit information for folders"
+msgstr "Ohrani revizijske podatke za mape"
+
+msgid "Keep ACLs for files"
+msgstr "Ohrani seznam nadzora dostopa za datoteke"
+
+msgid "Keep owner information for files"
+msgstr "Ohrani podatke o lastniku za datoteke"
+
+msgid "Keep audit information for files"
+msgstr "Ohrani revizijske podatke za datoteke"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "Velikost medpomnilnika za vse operacije"
+
+msgid "Action to take on filename conflict"
+msgstr "Ukrep, ki ga je treba izvesti v primeru spora v imenu datoteke"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "Metoda za izračun kontrolnih vsot med prenosom ali preskušanjem datotek"
+
+msgid "Save the checksum file to the target folder"
+msgstr "Datoteko s kontrolno vsoto shrani v ciljno mapo"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "Datoteko s kontrolno vsoto shrani v izvorno mapo"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "Shrani izračunano kontrolno vsoto v datoteko z uporabo nadomestnih podatkovnih tokov"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "Ustavim vsa opravila?"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "Zapri aplikacijo"
+
+msgid "Keep app open"
+msgstr "Obdrži aplikacijo odprto"
+
+msgid "Shutdown"
+msgstr "Izklopi"
+
+msgid "Sleep"
+msgstr "Spanje"
+
+msgid "Hibernate"
+msgstr "Mirovanje"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "Na zaključku: %s"
+
+msgid "Always On Top"
+msgstr "Vedno na vrhu"
+
+msgid "Shell integration"
+msgstr "Integracija lupine"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Omogoči vlečenje in spuščanje datotek z uporabo levega gumba miške, kot tudi kopiranje in lepljenje v Raziskovalcu."
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Doda gumbe Kopiraj in Premakni v privzeto vrstico z gumbi aplikacije Total Commander."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Preberi, kako dodati gumba Kopiraj in Premakni v aplikacijo Directory Opus."
+
+msgid "Misc"
+msgstr "Razno"
+
+msgid "Interface"
+msgstr "Vmesnik"
+
+msgid "Register Copy Handler"
+msgstr "Registriraj upravljalca kopiranja"
+
+msgid "Unregister Copy Handler"
+msgstr "Odregistriraj upravljalca kopiranja"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "Uporabi TeraCopy kot privzeti program za kopiranje"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "Samo ko je Scroll Lock IZKLJUČEN"
+
+msgid "Add to Explorer context menu"
+msgstr "Dodaj v priročni meni Raziskovalca"
+
+msgid "Play sound"
+msgstr "Predvajaj zvok"
+
+msgid "Check free space"
+msgstr "Preveri prazen prostor"
+
+msgid "Always test after copy"
+msgstr "Vedno preveri po kopiranju"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Onemogoči asinhroni prenos datotek"
+
+msgid "Use system write cache"
+msgstr "Uporabi sistemski predpomnilnik za zapisovanje"
+
+msgid "Confirm drag and drop"
+msgstr "Potrdi povleci in spusti"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "Preizkusite posamezne datoteke s kontrolno vsoto v odložišču"
+
+#. / file managers
+msgid "File managers"
+msgstr "Upravitelji datotek"
+
+msgid "Window"
+msgstr "Okno"
+
+msgid "Show notifications"
+msgstr "Prikaži obvestila"
+
+msgid "Automatic updates"
+msgstr "Samodejne posodobitve"
+
+msgid "Cancel"
+msgstr "Prekliči"
+
+#. Window mode
+msgid "Expanded"
+msgstr "Razširjen"
+
+msgid "Stacks"
+msgstr "Zloženke"
+
+msgid "Auto"
+msgstr "Samodejno"
+
+msgid "Not registered for Commercial Use"
+msgstr "Ni registriran za komercialno uporabo"
+
+msgid "Free for Home Users"
+msgstr "Brezplačen za domače uporabnike"
+
+#. cancel timer
+msgid "Close"
+msgstr "Zapri"
+
+msgid "Check for updates"
+msgstr "Preveri za posodobitve"
+
+#. history options
+msgid "Never keep history"
+msgstr "Nikoli ne hrani zgodovine"
+
+msgid "Keep history for 1 day"
+msgstr "Hrani zgodovino za 1 dan"
+
+msgid "Keep history for 1 week"
+msgstr "Hrani zgodovino za 1 teden"
+
+msgid "Keep history permanently"
+msgstr "Trajno hrani zgodovino"
+
+msgid "Clean history now"
+msgstr "Izbriši zgodovino zdaj"
+
+msgid "Delete"
+msgstr "Izbriši"
+
+#. date
+msgid "Created"
+msgstr "Ustvarjeno"
+
+msgid "Unattended"
+msgstr "Nenadzorovano"
+
+msgid "Hash"
+msgstr "Hash"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "Izvor"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "Datoteka"
+
+msgid "Not calculated"
+msgstr "Ne izračunava"
+
+msgid "Modified"
+msgstr "Spremenjeno"
+
+msgid "File info"
+msgstr "Informacije o datoteki"
+
+#. select
+msgid "This item"
+msgstr "Ta postavka"
+
+#. space bar key
+msgid "Space"
+msgstr "Presledek"
+
+msgid "Inverse selection"
+msgstr "Obrni izbor"
+
+#. select
+msgid "Same folder"
+msgstr "Ista mapa"
+
+#. select
+msgid "Same extension"
+msgstr "Ista končnica"
+
+msgid "Deselect all"
+msgstr "Prekliči izbor"
+
+msgid "Select"
+msgstr "Izberi"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "Odstrani izbrano"
+
+#. ignore
+msgid "Ignore"
+msgstr "Prezri"
+
+msgid "Extension"
+msgstr "Pripona"
+
+msgid "Select ignore list"
+msgstr "Izberi seznam prezrtih"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "Dodaj v: %s"
+
+msgid "New file list"
+msgstr "Nov seznam datotek"
+
+msgid "Close all panels"
+msgstr "Zapri vsa okna"
+
+msgid "Add files"
+msgstr "Dodaj datoteke"
+
+msgid "Add folders"
+msgstr "Dodaj mape"
+
+msgid "Save checksums"
+msgstr "Shrani kontrolno vsoto"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "Kupi različico Pro"
+
+msgid "Export as"
+msgstr "Izvozi kot"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (s stolpci za razvrščanje)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (za uvoz v Excel, itd)"
+
+msgid "Export only"
+msgstr "Samo izvozi"
+
+msgid "Reset list"
+msgstr "Ponastavi seznam"
+
+#. ignore always
+msgid "Empty"
+msgstr "Prazno"
+
+#. always
+msgid "Edit"
+msgstr "Uredi"
+
+msgid "Download"
+msgstr "Prenos"
+
+msgid "On every operation"
+msgstr "Pri vsaki operaciji"
+
+msgid "Browse"
+msgstr "Brskaj"
+
+msgid "Favorites & recent"
+msgstr "Priljubljeno in nedavno"
+
+msgid "No open windows"
+msgstr "Brez odprtih oken"
+
+msgid "Checksum copied"
+msgstr "Kontrolna vsota je kopirana"
+
+msgid "Copy"
+msgstr "Kopiraj"
+
+msgid "Move"
+msgstr "Premakni"
+
+#. 3rd line
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Process files:"
+msgstr "Datoteke obdelave:"
+
+msgid "Start Now"
+msgstr "Začni zdaj"
+
+msgid "Adding files..."
+msgstr "Dodajanje datotek..."
+
+msgid "Stop"
+msgstr "Ustavi"
+
+msgid "Pause"
+msgstr "Premor"
+
+msgid "Resume"
+msgstr "Nadaljuj"
+
+msgid "Applying attributes and removing folders..."
+msgstr "Uveljavljanje atributov in odstranjevanje map..."
+
+msgid "Applying folder attributes..."
+msgstr "Uveljavljanje atributov mape..."
+
+#. result
+msgid "Result"
+msgstr "Rezultat"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: dokončano"
+
+msgid "Next"
+msgstr "Naslednji"
+
+msgid "Verify"
+msgstr "Preveri"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Shrani hash"
+
+#. operation buttons
+msgid "Test"
+msgstr "Preveri"
+
+msgid "Opening via service:"
+msgstr "Odpiranje preko storitve:"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "%s hash datoteka je shranjena"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "Nobena kontrolna vsota ni na voljo. Prosim, najprej kopiraj ali testiraj datoteke."
+
+#. check sizes before
+msgid "No target file"
+msgstr "Ni ciljne datoteke"
+
+msgid "Sizes mismatch"
+msgstr "Neujemanje velikosti"
+
+msgid "Hashes mismatch"
+msgstr "Neujemanje Hash"
+
+msgid "Waiting for other transfers..."
+msgstr "Čakanje na druge prenose..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "Ali ste ponastavili in obdelali vse dodane datoteke?"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "Potrebnega je več prostora: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "Vir je enak cilju"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "Ciljna mapa je podmapa izvorne mape!"
+
+msgid "Destination File Already Exists"
+msgstr "Ciljna datoteka že obstaja"
+
+msgid "Open file"
+msgstr "Odpri datoteko"
+
+msgid "Open folder"
+msgstr "Odpri mapo"
+
+msgid "Bigger"
+msgstr "Večja"
+
+msgid "Smaller"
+msgstr "Manjša"
+
+msgid "Same size"
+msgstr "Enaka velikost"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "preskoči vse v %d s"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Več možnosti, ki veljajo za vse datoteke"
+
+msgid "Older"
+msgstr "Starejše"
+
+msgid "Newer"
+msgstr "Novejše"
+
+msgid "Same date"
+msgstr "Isti datum"
+
+msgid "File is offline, waiting..."
+msgstr "Datoteka je brez povezave, čakam..."
+
+msgid "Cancelled"
+msgstr "Preklicano"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "Datoteka je spet na voljo, nadaljevanje prenosa ..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "Disk je poln, prosimo sprostite %s"
+
+msgid "File is too large for this file system"
+msgstr "Datoteka je prevelika za ta datotečni sistem"
+
+msgid "Error reading file."
+msgstr "Napaka pri branju datoteke."
+
+msgid "Error writing file."
+msgstr "Napaka pri pisanju datoteke."
+
+msgid "File skipped"
+msgstr "Preskočena datoteka"
+
+msgid "Stopped"
+msgstr "Ustavljeno"
+
+msgid "Error creating folder."
+msgstr "Napaka pri ustvarjanju mape."
+
+msgid "Edit in Notepad"
+msgstr "Uredi v Beležnici"
+
+msgid "Remove from favorites"
+msgstr "Odstrani iz priljubljenih"
+
+msgid "Add to favorites"
+msgstr "Dodaj med priljubljene"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d postavka"
+msgstr[1] ""
+msgstr[2] "%d postavk"
+msgstr[3] "%d postavk"
+
+msgid "Skip requested by user"
+msgstr "Preskočena zahteva od uporabnika"
+
+msgid "Stop requested by user"
+msgstr "Zaustavljena zahteva od uporabnika"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "Izbrišem %d datoteko iz diska?"
+msgstr[1] ""
+msgstr[2] "Izbrišem %d datotek iz diska?"
+msgstr[3] ""
+
+msgid "Move to Recycle Bin"
+msgstr "Premakni v koš"
+
+msgid "Delete from disk"
+msgstr "Izbriši iz diska"
+
+msgid "Wipe data"
+msgstr "Brisanje podatkov"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "Počasneje, enostavneje za obnovitev."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "Hitreje, težje za obnovitev."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Zelo počasi, v enem prehodu z naključnimi podatki, neuporabno za SSD diske."
+
+msgid "Delete ALL files in the list?"
+msgstr "Izbrišem VSE datoteke na seznamu?"
+
+msgid "Folder not found"
+msgstr "Mape ni mogoče najti"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "%s hash v odložišču ustreza: #10%s"
+
+msgid "Error opening file."
+msgstr "Napaka pri odpiranju datoteke."
+
+msgid "Error deleting file."
+msgstr "Napaka pri brisanju datoteke."
+
+msgid "Paused"
+msgstr "Zaustavljeno"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "napake: %d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "preskočeno: %d"
+
+msgid "Append path"
+msgstr "Dodaj pot"
+
+msgid "File list is empty"
+msgstr "Seznam datotek je prazen"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "Prosti prostor: %s"
+
+msgid "Unavailable"
+msgstr "Ni na voljo"
+
+msgid "Querying..."
+msgstr "Poizvedovanje..."
+
+msgid "Drag files or folders here"
+msgstr "Povleci datoteke ali mape sem"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "Ni elementov za prikaz. Odstranite filtre za ogled vseh datotek."
+
+msgid "Verify files after transfer"
+msgstr "Preveri datoteke po prenosu"
+
+msgid "Save checksum file on finish"
+msgstr "Na zaključku shrani datoteko kontrolnih vsot"
+
+msgid "Auto-scroll"
+msgstr "Samodejno pomikanje"
+
+#. menu
+msgid "Menu"
+msgstr "Meni"
+
+msgid "Shared options"
+msgstr "Možnosti skupne rabe"
+
+msgid "buffer size"
+msgstr "velikost medpomnilnika"
+
+#. captions
+msgid "Transfer"
+msgstr "Prenos"
+
+msgid "Transfer options"
+msgstr "Možnosti prenosa"
+
+msgid "Files & folders"
+msgstr "Datoteke in mape"
+
+msgid "Data"
+msgstr "Podatki"
+
+msgid "Attributes"
+msgstr "Atributi"
+
+msgid "Timestamps"
+msgstr "Časovni žig"
+
+msgid "Streams"
+msgstr "Tokovi"
+
+msgid "Security"
+msgstr "Varnost"
+
+msgid "ACL"
+msgstr "Seznam kontrole dostopa"
+
+msgid "Owner"
+msgstr "Lastnik"
+
+msgid "Audit"
+msgstr "Revizija"
+
+msgid "Test options"
+msgstr "Testne možnosti"
+
+msgid "Store/verify checksum in ADS"
+msgstr "Shranjevanje/preverjanje kontrolne vsote v nadomestnih podatkovnih tokovih"
+
+msgid "Save as default"
+msgstr "Shrani kot privzeto"
+
+msgid "Reset to default"
+msgstr "Ponastavi na privzeto"
+
+msgid "Done"
+msgstr "Opravljeno"
+

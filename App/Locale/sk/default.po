@@ -1,0 +1,930 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2023-11-19 07:45\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: sk\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Slovak\n"
+"Language: sk_SK\n"
+
+#. mode
+msgid "Copying"
+msgstr "Kopírovanie"
+
+msgid "Moving"
+msgstr "Presúvanie"
+
+msgid "Testing"
+msgstr "Testovanie"
+
+msgid "Verifying"
+msgstr "Overovanie"
+
+msgid "Deleting"
+msgstr "Odstraňovanie"
+
+#. results
+msgid "Added"
+msgstr "Pridané"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Verified"
+msgstr "Overené"
+
+msgid "Error"
+msgstr "Chyba"
+
+#. File list filter
+msgid "Skipped"
+msgstr "Vynechané"
+
+msgid "Deleted"
+msgstr "Odstránené"
+
+msgid "Moved"
+msgstr "Presunuté"
+
+msgid "Absent"
+msgstr "Chýbajúce"
+
+#. File list filter
+msgid "Ignored"
+msgstr "Ignorované"
+
+msgid "File list"
+msgstr "Zoznam súborov"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "Cieľ"
+
+msgid "Options"
+msgstr "Možnosti"
+
+msgid "Status"
+msgstr "Stav"
+
+msgid "Log"
+msgstr "Záznam"
+
+#. File list filter
+msgid "All items"
+msgstr "Všetky položky"
+
+#. File list filter
+msgid "Successful"
+msgstr "Úspešné"
+
+#. File list filter
+msgid "Failed"
+msgstr "Neúspešné"
+
+msgid "No files added"
+msgstr "Žiadne pridané súbory"
+
+msgid "No target"
+msgstr "Žiadny cieľ"
+
+#. foder
+msgid "Folder"
+msgstr "Priečinok"
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "Files"
+msgstr "Súbory"
+
+msgid "Bytes"
+msgstr "bajtov"
+
+msgid "Time"
+msgstr "Čas"
+
+msgid "Total"
+msgstr "Celkom"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "dni"
+
+msgid "hours"
+msgstr "hodín"
+
+#. minutes
+msgid "min"
+msgstr "minút"
+
+#. seconds
+msgid "s"
+msgstr "s"
+
+#. millions
+msgid "m"
+msgstr "m"
+
+msgid "Prompt on filename collision"
+msgstr "Upozorniť pri kolízii názvov"
+
+msgid "Overwrite"
+msgstr "Prepísať"
+
+msgid "Overwrite all"
+msgstr "Prepísať všetko"
+
+msgid "Skip"
+msgstr "Preskočiť"
+
+msgid "Skip all"
+msgstr "Preskočiť všetko"
+
+msgid "Keep both"
+msgstr "Ponechať oba súbory"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "Prepísať všetky staré súbory"
+
+msgid "Replace all smaller files"
+msgstr "Prepísať všetky menšie súbory"
+
+msgid "Replace all files if size different"
+msgstr "Prepísať všetky súbory s odlišnou veľkosťou"
+
+msgid "Rename all copied files"
+msgstr "Premenovať všetky skopírované súbory"
+
+msgid "Rename all target files"
+msgstr "Premenovať všetky cieľové súbory"
+
+msgid "Rename all older target files"
+msgstr "Premenovať všetky staršie cieľové súbory"
+
+#. replace dialog
+msgid "More"
+msgstr "Viac"
+
+#. tooltips
+msgid "Select target path"
+msgstr "Vybrať cieľovú cestu"
+
+msgid "Add files or folders"
+msgstr "Pridať súbory alebo priečinky"
+
+msgid "Expanded view"
+msgstr "Rozšírené zobrazenie"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "Vymazať všetky súbory v zozname"
+
+msgid "Read target files and compare checksums"
+msgstr "Načítať cieľové súbory a porovnať kontrolné súčty"
+
+msgid "Read source files and create checksums"
+msgstr "Načítať zdrojové súbory a vytvoriť kontrolný súčet"
+
+msgid "Create a new list"
+msgstr "Vytvoriť nový zoznam"
+
+msgid "Transfers history"
+msgstr "História presunov"
+
+msgid "Running with administrator priviledges"
+msgstr "Spustiť s právami administrátora"
+
+msgid "Run as administrator"
+msgstr "Spustiť ako správca"
+
+#. export dialog
+msgid "Print/export"
+msgstr "Tlač a export"
+
+msgid "Preferences"
+msgstr "Nastavenia"
+
+msgid "About"
+msgstr "O programe"
+
+msgid "Order license"
+msgstr "Objednať licenciu"
+
+msgid "Enter key"
+msgstr "Vložiť kľúč"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(sú vyžadované zvýšené privilégiá)"
+
+msgid "Toggle row"
+msgstr "Prepnúť riadok"
+
+msgid "Create folders"
+msgstr "Vytvoriť priečinky"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "Zachovať atribúty priečinkov (iba na čítanie, archivácia...)"
+
+msgid "Keep folder timestamps"
+msgstr "Zachovať časové pečiatky priečinkov"
+
+msgid "Keep folder alternate data streams"
+msgstr "Zachovať alternatívne dátové toky priečinka"
+
+msgid "Copy files"
+msgstr "Kopírovať súbory"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "Zachovať atribúty priečinkov (iba na čítanie, archivácia...)"
+
+msgid "Keep file timestamps"
+msgstr "Zachovať časové značky súboru"
+
+msgid "Keep file alternate data streams"
+msgstr "Zachovať alternatívne dátové streamy súboru"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "Zachovať ACL pre priečinky"
+
+msgid "Keep owner information for folders"
+msgstr "Zachovať vlastnícke informácie priečinkov"
+
+msgid "Keep audit information for folders"
+msgstr "Zachovať informácie auditu priečinkov"
+
+msgid "Keep ACLs for files"
+msgstr "Zachovať ACL pre súbory"
+
+msgid "Keep owner information for files"
+msgstr "Zachovať vlastnícke informácie pre súbory"
+
+msgid "Keep audit information for files"
+msgstr "Zachovať informácie auditu súborov"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "Veľkosť vyrovnávajúcej pamäte pre všetky operácie"
+
+msgid "Action to take on filename conflict"
+msgstr "Akcia pri konflikte názvov súborov"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "Metóda výpočtu kontrolného súčtu počas prenosu alebo testovania súboru"
+
+msgid "Save the checksum file to the target folder"
+msgstr "Uložiť kontrolný súčet súboru do cieľového priečinka"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "Uložiť kontrolný súčet súboru do zdrojového priečinka"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "Uložiť vypočítaný kontrolný súčet pomocou alternatívnych dátový tokov"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "Zastaviť všetky operácie?"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "Zavrieť aplikáciu"
+
+msgid "Keep app open"
+msgstr "Nezatvárať aplikáciu"
+
+msgid "Shutdown"
+msgstr "Vypnúť"
+
+msgid "Sleep"
+msgstr "Uspať"
+
+msgid "Hibernate"
+msgstr "Režim dlhodobého spánku"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "Akcia po ukončení: %s"
+
+msgid "Always On Top"
+msgstr "Vždy na vrchu"
+
+msgid "Shell integration"
+msgstr "Integrácia systému"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Pracujte so súbormi presúvaním pomocou ľavého tlačidla myši alebo aj príkazmi na kopírovanie a vkladanie v Prieskumníkovi."
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Pridá tlačidlá Kopírovať a Premiestniť do panela tlačidiel programu Total Commander."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Prečítajte si ako pridať tlačidlá Kopírovať a Premiestniť do Directory Opus."
+
+msgid "Misc"
+msgstr "Rôzne nastavenia"
+
+msgid "Interface"
+msgstr "Rozhranie"
+
+msgid "Register Copy Handler"
+msgstr "Zaregistrovať obslužný program pre kopírovanie"
+
+msgid "Unregister Copy Handler"
+msgstr "Zrušiť registráciu ovládač kopírovania"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "Použiť program TeraCopy ako predvolený nástroj na kopírovanie"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "Iba ak je vypnutý Scroll Lock"
+
+msgid "Add to Explorer context menu"
+msgstr "Pridať do kontextového menu"
+
+msgid "Play sound"
+msgstr "Prehrať zvuk"
+
+msgid "Check free space"
+msgstr "Skontrolovať voľné miesto"
+
+msgid "Always test after copy"
+msgstr "Vždy po kopírovaní overiť"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Zakázať asynchrónny prenos súborov"
+
+msgid "Use system write cache"
+msgstr "Použiť systémovú vyrovnávajúcu pamäť pre zápis"
+
+msgid "Confirm drag and drop"
+msgstr "Zobraziť potvrdenie pre ťahať a pustiť"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "Otestovať súbory a porovnať s kontrolným súčtom v schránke"
+
+#. / file managers
+msgid "File managers"
+msgstr "Správca súborov"
+
+msgid "Window"
+msgstr "Okno"
+
+msgid "Show notifications"
+msgstr "Zobraziť upozornenia"
+
+msgid "Automatic updates"
+msgstr "Automatické aktualizácie"
+
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#. Window mode
+msgid "Expanded"
+msgstr "Rozšírené zobrazenie"
+
+msgid "Stacks"
+msgstr "Minimálne zobrazenie"
+
+msgid "Auto"
+msgstr "Automaticky"
+
+msgid "Not registered for Commercial Use"
+msgstr "Nie je registrované pre komerčné použitie"
+
+msgid "Free for Home Users"
+msgstr "Zdarma pre domáce použitie"
+
+#. cancel timer
+msgid "Close"
+msgstr "Zatvoriť"
+
+msgid "Check for updates"
+msgstr "Skontrolovať aktualizácie"
+
+#. history options
+msgid "Never keep history"
+msgstr "Neukladať históriu"
+
+msgid "Keep history for 1 day"
+msgstr "Ukladať históriu 1 deň"
+
+msgid "Keep history for 1 week"
+msgstr "Ukladať históriu 1 týždeň"
+
+msgid "Keep history permanently"
+msgstr "Ukladať históriu nepretržite"
+
+msgid "Clean history now"
+msgstr "Vymazať históriu"
+
+msgid "Delete"
+msgstr "Odstrániť"
+
+#. date
+msgid "Created"
+msgstr "Vytvorené"
+
+msgid "Unattended"
+msgstr "Bez dozoru"
+
+msgid "Hash"
+msgstr "Hash"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "Zdroj"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "Súbor"
+
+msgid "Not calculated"
+msgstr "Neprepočítané"
+
+msgid "Modified"
+msgstr "Upravené"
+
+msgid "File info"
+msgstr "Informácie o súbore"
+
+#. select
+msgid "This item"
+msgstr "Táto položka"
+
+#. space bar key
+msgid "Space"
+msgstr "Medzera"
+
+msgid "Inverse selection"
+msgstr "Obrátiť výber"
+
+#. select
+msgid "Same folder"
+msgstr "Rovnaký priečinok"
+
+#. select
+msgid "Same extension"
+msgstr "Rovnaká prípona"
+
+msgid "Deselect all"
+msgstr "Zrušiť výber"
+
+msgid "Select"
+msgstr "Vybrať"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "Odstrániť vybraté"
+
+#. ignore
+msgid "Ignore"
+msgstr "Ignorovať"
+
+msgid "Extension"
+msgstr "Prípona"
+
+msgid "Select ignore list"
+msgstr "Vybrať ignorovací zoznam"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "Pridať do: %s"
+
+msgid "New file list"
+msgstr "Nový zoznam súborov"
+
+msgid "Close all panels"
+msgstr "Zatvoriť všetky panely"
+
+msgid "Add files"
+msgstr "Pridať súbory"
+
+msgid "Add folders"
+msgstr "Pridať priečinky"
+
+msgid "Save checksums"
+msgstr "Uložiť kontrolný súčet"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "Získať Pro verziu"
+
+msgid "Export as"
+msgstr "Exportovať vo formáte"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (s triediteľnými stĺpcami)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (import do Excelu atď.)"
+
+msgid "Export only"
+msgstr "Položky pre export"
+
+msgid "Reset list"
+msgstr "Zrušiť zoznem"
+
+#. ignore always
+msgid "Empty"
+msgstr "Prázdne"
+
+#. always
+msgid "Edit"
+msgstr "Upraviť"
+
+msgid "Download"
+msgstr "Stiahnuť"
+
+msgid "On every operation"
+msgstr "Pri každej operácii"
+
+msgid "Browse"
+msgstr "Prehliadať"
+
+msgid "Favorites & recent"
+msgstr "Obľúbené a nedávne"
+
+msgid "No open windows"
+msgstr "Žiadne otvorené okná"
+
+msgid "Checksum copied"
+msgstr "Kontrolný súčet skopírovaný"
+
+msgid "Copy"
+msgstr "Kopírovať"
+
+msgid "Move"
+msgstr "Premiestniť"
+
+#. 3rd line
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Process files:"
+msgstr "Spracované súbory:"
+
+msgid "Start Now"
+msgstr "Spustiť teraz"
+
+msgid "Adding files..."
+msgstr "Pridávanie súborov..."
+
+msgid "Stop"
+msgstr "Zastaviť"
+
+msgid "Pause"
+msgstr "Pauza"
+
+msgid "Resume"
+msgstr "Pokračovať"
+
+msgid "Applying attributes and removing folders..."
+msgstr "Prebieha aplikovanie atribútov a odstraňovanie priečinkov..."
+
+msgid "Applying folder attributes..."
+msgstr "Aplikujú sa atribúty priečinka..."
+
+#. result
+msgid "Result"
+msgstr "Výsledok"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: dokončené"
+
+msgid "Next"
+msgstr "Ďalej"
+
+msgid "Verify"
+msgstr "Overiť"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Uložiť hash"
+
+#. operation buttons
+msgid "Test"
+msgstr "Testovať"
+
+msgid "Opening via service:"
+msgstr "Otvoriť použitím služby:"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "%s hash súbor uložený"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "Žiadny kontrolný súčet nie je dostupný, spustite najprv kopírovanie alebo kontrolu."
+
+#. check sizes before
+msgid "No target file"
+msgstr "Žiadny cieľový súbor"
+
+msgid "Sizes mismatch"
+msgstr "Veľkosti sa nezhodujú"
+
+msgid "Hashes mismatch"
+msgstr "Hash kontroly sa nezhodujú"
+
+msgid "Waiting for other transfers..."
+msgstr "Čakanie na iný prevod..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "Obnoviť dokončené a spracovať pridané súbory?"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "Je potrebné uvoľniť viac miesta na disku: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "Zdroj je rovnaký ako cieľ"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "Cieľový priečinok je podpriečinkom zdrojového priečinka!"
+
+msgid "Destination File Already Exists"
+msgstr "Cieľový priečinok už existuje"
+
+msgid "Open file"
+msgstr "Otvoriť súbor"
+
+msgid "Open folder"
+msgstr "Otvoriť priečinok"
+
+msgid "Bigger"
+msgstr "Väčší"
+
+msgid "Smaller"
+msgstr "Menší"
+
+msgid "Same size"
+msgstr "Rovnaká veľkosť"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "preskočiť všetko za %d sek"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Viac nastavení, použiteľné na všetky súbory"
+
+msgid "Older"
+msgstr "Staršie"
+
+msgid "Newer"
+msgstr "Novšie"
+
+msgid "Same date"
+msgstr "Rovnaký dátum"
+
+msgid "File is offline, waiting..."
+msgstr "Súbor je offline, čakanie..."
+
+msgid "Cancelled"
+msgstr "Zrušené"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "Súbor je opäť dostupný, pokračovanie prenosu..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "Disk je plný, je potrebné z neho uvoľniť %s"
+
+msgid "File is too large for this file system"
+msgstr "Súbor je príliš veľký pre daný súborový systém"
+
+msgid "Error reading file."
+msgstr "Vyskytla sa chyba pri čítaní súboru."
+
+msgid "Error writing file."
+msgstr "Vyskytla sa chyba pri zapisovaní súboru."
+
+msgid "File skipped"
+msgstr "File skipped"
+
+msgid "Stopped"
+msgstr "Zastavené"
+
+msgid "Error creating folder."
+msgstr "Chyba pri vytváraní priečinka."
+
+msgid "Edit in Notepad"
+msgstr "Upraviť v programe Notepad"
+
+msgid "Remove from favorites"
+msgstr "Odstrániť z obľúbených"
+
+msgid "Add to favorites"
+msgstr "Pridať do obľúbených"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d položka"
+msgstr[1] "%d položky"
+msgstr[2] "%d položiek"
+msgstr[3] "položiek (%d)"
+
+msgid "Skip requested by user"
+msgstr "Preskočenie vyžiadané používateľom"
+
+msgid "Stop requested by user"
+msgstr "Zastavenie vyžiadané používateľom"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "Prajete si vymazať %d súbor z disku?"
+msgstr[1] "Chcete z disku odstrániť %d súbory?"
+msgstr[2] "Chcete z disku odstrániť %d súborov?"
+msgstr[3] "Chcete z disku odstrániť %d súborov?"
+
+msgid "Move to Recycle Bin"
+msgstr "Premiestniť do koša"
+
+msgid "Delete from disk"
+msgstr "Odstrániť z disku"
+
+msgid "Wipe data"
+msgstr "Vymazať údaje"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "Pomalšie, ľahšie obnoviteľné."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "Rýchlejšie, ťažšie obnoviteľné."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Veľmi pomalé, jeden náhodný prechod cez údaje, použiteľné pre SSD disky."
+
+msgid "Delete ALL files in the list?"
+msgstr "Naozaj chcete vymazať VŠETKY súbory zo zoznamu?"
+
+msgid "Folder not found"
+msgstr "Priečinok nebol nájdený"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "%s hash v schránke sa zhoduje: #10%s"
+
+msgid "Error opening file."
+msgstr "Vyskytla sa chyba pri otváraní súboru."
+
+msgid "Error deleting file."
+msgstr "Vyskytla sa chyba pri odstraňovaní súboru."
+
+msgid "Paused"
+msgstr "Pozastavené"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "chyby: %d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "preskočené: %d"
+
+msgid "Append path"
+msgstr "Pripojiť cestu"
+
+msgid "File list is empty"
+msgstr "Zoznam súborov je prázdny"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "Voľné miesto na disku: %s"
+
+msgid "Unavailable"
+msgstr "Nedostupné"
+
+msgid "Querying..."
+msgstr "Zisťovanie..."
+
+msgid "Drag files or folders here"
+msgstr "Ťahajte a pustite súbory sem"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "Žiadne položky na zobrazenie. Odstráňte filtre, ak chcete vidieť všetky súbory."
+
+msgid "Verify files after transfer"
+msgstr "Overiť súbory po dokončení prenosu"
+
+msgid "Save checksum file on finish"
+msgstr "Uložiť súbor kontr. súčtu po dokončení"
+
+msgid "Auto-scroll"
+msgstr "Automatický posun"
+
+#. menu
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Shared options"
+msgstr "Ďalšie možnosti"
+
+msgid "buffer size"
+msgstr "veľkosť cache"
+
+#. captions
+msgid "Transfer"
+msgstr "Prenos"
+
+msgid "Transfer options"
+msgstr "Nastavenia prenosu"
+
+msgid "Files & folders"
+msgstr "Súbory a priečinky"
+
+msgid "Data"
+msgstr "Údaje"
+
+msgid "Attributes"
+msgstr "Atribúty"
+
+msgid "Timestamps"
+msgstr "Časové značky"
+
+msgid "Streams"
+msgstr "Toky"
+
+msgid "Security"
+msgstr "Bezpečnosť"
+
+msgid "ACL"
+msgstr "ACL"
+
+msgid "Owner"
+msgstr "Vlastník"
+
+msgid "Audit"
+msgstr "Audit"
+
+msgid "Test options"
+msgstr "Nastavenia testovania"
+
+msgid "Store/verify checksum in ADS"
+msgstr "Uložiť/overiť kontrolný súčet v ADS"
+
+msgid "Save as default"
+msgstr "Uložiť ako predvolené"
+
+msgid "Reset to default"
+msgstr "Obnoviť predvolené"
+
+msgid "Done"
+msgstr "Dokončené"
+

@@ -1,0 +1,926 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-06-04 07:21\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: no\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Norwegian\n"
+"Language: no_NO\n"
+
+#. mode
+msgid "Copying"
+msgstr "Kopierer"
+
+msgid "Moving"
+msgstr "Flytter"
+
+msgid "Testing"
+msgstr "Tester"
+
+msgid "Verifying"
+msgstr "Validerer"
+
+msgid "Deleting"
+msgstr "Sletter"
+
+#. results
+msgid "Added"
+msgstr "Lagt til"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Verified"
+msgstr "Bekreftet"
+
+msgid "Error"
+msgstr "Feil"
+
+#. File list filter
+msgid "Skipped"
+msgstr "Utelatt"
+
+msgid "Deleted"
+msgstr "Slettet"
+
+msgid "Moved"
+msgstr "Flyttet"
+
+msgid "Absent"
+msgstr "Fraværende"
+
+#. File list filter
+msgid "Ignored"
+msgstr "Ignorert"
+
+msgid "File list"
+msgstr "Filliste"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "Mål"
+
+msgid "Options"
+msgstr "Alternativer"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Log"
+msgstr "Logg"
+
+#. File list filter
+msgid "All items"
+msgstr "Alle elementer"
+
+#. File list filter
+msgid "Successful"
+msgstr "Vellykket"
+
+#. File list filter
+msgid "Failed"
+msgstr "Mislykket"
+
+msgid "No files added"
+msgstr "Ingen filer lagt til"
+
+msgid "No target"
+msgstr "Ikke noe mål"
+
+#. foder
+msgid "Folder"
+msgstr "Mappe"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Files"
+msgstr "Filer"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "Time"
+msgstr "Tid"
+
+msgid "Total"
+msgstr "Totalt"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "dager"
+
+msgid "hours"
+msgstr "timer"
+
+#. minutes
+msgid "min"
+msgstr "min"
+
+#. seconds
+msgid "s"
+msgstr "s"
+
+#. millions
+msgid "m"
+msgstr "m"
+
+msgid "Prompt on filename collision"
+msgstr "Spør etter filnavn kollisjon"
+
+msgid "Overwrite"
+msgstr "Overskriv"
+
+msgid "Overwrite all"
+msgstr "Overskriv alle"
+
+msgid "Skip"
+msgstr "Hopp over"
+
+msgid "Skip all"
+msgstr "Hopp over alle"
+
+msgid "Keep both"
+msgstr "Behold begge"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "Skriv over alle eldre filer"
+
+msgid "Replace all smaller files"
+msgstr "Erstatt alle mindre filer"
+
+msgid "Replace all files if size different"
+msgstr "Erstatt alle filer hvis ulik størrelse"
+
+msgid "Rename all copied files"
+msgstr "Gi nytt navn til alle kopierte filer"
+
+msgid "Rename all target files"
+msgstr "Gi nytt navn til alle målfiler"
+
+msgid "Rename all older target files"
+msgstr "Gi nytt navn til alle eldre valgte filer"
+
+#. replace dialog
+msgid "More"
+msgstr "Mer"
+
+#. tooltips
+msgid "Select target path"
+msgstr "Velg mål bane"
+
+msgid "Add files or folders"
+msgstr "Legg til filer eller kataloger"
+
+msgid "Expanded view"
+msgstr "Utvidet visning"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "Slett alle filer i listen"
+
+msgid "Read target files and compare checksums"
+msgstr "Les mål filene og sjekk sjekksum"
+
+msgid "Read source files and create checksums"
+msgstr "Les mål filene og lag sjekksum"
+
+msgid "Create a new list"
+msgstr "Lag en ny liste"
+
+msgid "Transfers history"
+msgstr "Overfør historikk"
+
+msgid "Running with administrator priviledges"
+msgstr "Start med administrator rettigheter"
+
+msgid "Run as administrator"
+msgstr "Kjør som administrator"
+
+#. export dialog
+msgid "Print/export"
+msgstr "Skriv ut/eksport"
+
+msgid "Preferences"
+msgstr "Innstillinger"
+
+msgid "About"
+msgstr "Om"
+
+msgid "Order license"
+msgstr "Kjøp lisens"
+
+msgid "Enter key"
+msgstr "Legg inn nøkkel"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(dette trenger opphøyet rettigheter)"
+
+msgid "Toggle row"
+msgstr "Veksle rad"
+
+msgid "Create folders"
+msgstr "Lag kataloger"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "Behold katalog atributter (Kun les, arkiver...)"
+
+msgid "Keep folder timestamps"
+msgstr "Behold katalog tidskode"
+
+msgid "Keep folder alternate data streams"
+msgstr "Behold katalog data strøm"
+
+msgid "Copy files"
+msgstr "Kopier filer"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "Behold fil atributter (Kun les, arkiver...)"
+
+msgid "Keep file timestamps"
+msgstr "Behold fil tidsstempel"
+
+msgid "Keep file alternate data streams"
+msgstr "Behold alternativ datastrøm i filen"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "Behold ACLs for kataloger"
+
+msgid "Keep owner information for folders"
+msgstr "Behold eier informasjon for kataloger"
+
+msgid "Keep audit information for folders"
+msgstr "Behold revidert informasjon for kataloger"
+
+msgid "Keep ACLs for files"
+msgstr "Behold ACLs for filer"
+
+msgid "Keep owner information for files"
+msgstr "Behold eierinformasjon for filer"
+
+msgid "Keep audit information for files"
+msgstr "Behold revidert informasjon for filer"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "Buffer størrelse for alle opersjoner"
+
+msgid "Action to take on filename conflict"
+msgstr "Hvilket valg skal taes ved filnavn konflikt"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "Metode for beregning av kontrollsum under overføring eller prøving av filer"
+
+msgid "Save the checksum file to the target folder"
+msgstr "Lagre kontrollsumfilen i målmappen"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "Lagre kontrollsumfilen i kildemappen"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "Lagre kalkulerte kontrollsum inne i filen ved hjelp av alternative datastrømminger"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "Stoppe alle opersjoner?"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "Avslutt applikasjon"
+
+msgid "Keep app open"
+msgstr "Hold applikasjon åpen"
+
+msgid "Shutdown"
+msgstr "Avslutt"
+
+msgid "Sleep"
+msgstr "Sov"
+
+msgid "Hibernate"
+msgstr "Hvilemodus"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "Ved avsluttning: %s"
+
+msgid "Always On Top"
+msgstr "Alltid fremme"
+
+msgid "Shell integration"
+msgstr "Shell integrering"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Håndter dra og slipp filer ved å bruke venstre museknapp, samt kopier og lim inn kommandoer i Explorer."
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Legg til Kopier og Flytt knapper til Total Commander standard knapperad."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Les hvordan du legger til Kopier og Flytt knapper til Katalogens Opus."
+
+msgid "Misc"
+msgstr "Diverse"
+
+msgid "Interface"
+msgstr "Grensesnitt"
+
+msgid "Register Copy Handler"
+msgstr "Registrer Kopier håndtaker"
+
+msgid "Unregister Copy Handler"
+msgstr "Avregistrer Kopi Handler"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "Bruk TeraKopier som standardhåndteringsbehandler"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "Bare når rullelås er AV"
+
+msgid "Add to Explorer context menu"
+msgstr "Legg til i Utforsker-kontekstmeny"
+
+msgid "Play sound"
+msgstr "Spill av lyd"
+
+msgid "Check free space"
+msgstr "Sjekk ledig plass"
+
+msgid "Always test after copy"
+msgstr "Test alltid etter kopi"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Deaktiver asynkron filoverføring"
+
+msgid "Use system write cache"
+msgstr "Bruk systemskrive-mellomlager"
+
+msgid "Confirm drag and drop"
+msgstr "Bekreft dra og slipp"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "Test enkeltfiler mot en sjekksum i utklippstavlen"
+
+#. / file managers
+msgid "File managers"
+msgstr "Filbehandlerer"
+
+msgid "Window"
+msgstr "Vindu"
+
+msgid "Show notifications"
+msgstr "Vis varsler"
+
+msgid "Automatic updates"
+msgstr "Automatiske oppdateringer"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+#. Window mode
+msgid "Expanded"
+msgstr "Utvidet"
+
+msgid "Stacks"
+msgstr "Stack"
+
+msgid "Auto"
+msgstr "Automatisk"
+
+msgid "Not registered for Commercial Use"
+msgstr "Ikke registrert for kommersiell bruk"
+
+msgid "Free for Home Users"
+msgstr "Gratis for hjemmebrukere"
+
+#. cancel timer
+msgid "Close"
+msgstr "Lukk"
+
+msgid "Check for updates"
+msgstr "Se etter oppdateringer"
+
+#. history options
+msgid "Never keep history"
+msgstr "Aldri behold historikk"
+
+msgid "Keep history for 1 day"
+msgstr "Behold loggen i 1 dag"
+
+msgid "Keep history for 1 week"
+msgstr "Behold loggen i 1 uke"
+
+msgid "Keep history permanently"
+msgstr "Behold historikk permanent"
+
+msgid "Clean history now"
+msgstr "Tømme historikk nå"
+
+msgid "Delete"
+msgstr "Slett"
+
+#. date
+msgid "Created"
+msgstr "Opprettet"
+
+msgid "Unattended"
+msgstr "Ubetjent"
+
+msgid "Hash"
+msgstr "Nummer"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "Kilde"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "Fil"
+
+msgid "Not calculated"
+msgstr "Ikke beregnet"
+
+msgid "Modified"
+msgstr "Endret"
+
+msgid "File info"
+msgstr "Fil info"
+
+#. select
+msgid "This item"
+msgstr "Dette elementet"
+
+#. space bar key
+msgid "Space"
+msgstr "Mellomrom"
+
+msgid "Inverse selection"
+msgstr "Inverter merking"
+
+#. select
+msgid "Same folder"
+msgstr "Samme mappe"
+
+#. select
+msgid "Same extension"
+msgstr "Samme utvidelse"
+
+msgid "Deselect all"
+msgstr "Fjern all merking"
+
+msgid "Select"
+msgstr "Velg"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "Fjern valgte"
+
+#. ignore
+msgid "Ignore"
+msgstr "Ignorer"
+
+msgid "Extension"
+msgstr "Utvidelse"
+
+msgid "Select ignore list"
+msgstr "Velg ignoreringsliste"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "Legg til %s"
+
+msgid "New file list"
+msgstr "Ny filliste"
+
+msgid "Close all panels"
+msgstr "Lukk alle paneler"
+
+msgid "Add files"
+msgstr "Legg til filer"
+
+msgid "Add folders"
+msgstr "Legg til mapper"
+
+msgid "Save checksums"
+msgstr "Lagre kontrollsum"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "Få Pro versjon"
+
+msgid "Export as"
+msgstr "Eksporter som"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (med sorterbare kolonner)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (for import i Excel, etc)"
+
+msgid "Export only"
+msgstr "Bare eksport"
+
+msgid "Reset list"
+msgstr "Tilbakestill liste"
+
+#. ignore always
+msgid "Empty"
+msgstr "Tom"
+
+#. always
+msgid "Edit"
+msgstr "Rediger"
+
+msgid "Download"
+msgstr "Nedlasting"
+
+msgid "On every operation"
+msgstr "For hver operasjon"
+
+msgid "Browse"
+msgstr "Bla igjennom"
+
+msgid "Favorites & recent"
+msgstr "Favoritter og nylige"
+
+msgid "No open windows"
+msgstr "Ingen åpne vinduer"
+
+msgid "Checksum copied"
+msgstr "Sjekksum kopiert"
+
+msgid "Copy"
+msgstr "Kopier"
+
+msgid "Move"
+msgstr "Flytt"
+
+#. 3rd line
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Process files:"
+msgstr "Behandle filer:"
+
+msgid "Start Now"
+msgstr "Start nå"
+
+msgid "Adding files..."
+msgstr "Legger til filer..."
+
+msgid "Stop"
+msgstr "Stopp"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Resume"
+msgstr "Gjenoppta"
+
+msgid "Applying attributes and removing folders..."
+msgstr "Legger til attributter og fjerner mapper..."
+
+msgid "Applying folder attributes..."
+msgstr "Legger til mappeattributter..."
+
+#. result
+msgid "Result"
+msgstr "Resultat"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: fullført"
+
+msgid "Next"
+msgstr "Neste"
+
+msgid "Verify"
+msgstr "Verifiser"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Lagre Hash"
+
+#. operation buttons
+msgid "Test"
+msgstr "Test"
+
+msgid "Opening via service:"
+msgstr "Åpner via tjeneste:"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "%s hash-fil lagret"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "Ingen kontrollsum er tilgjengelig, vennligst kopier eller test filer først."
+
+#. check sizes before
+msgid "No target file"
+msgstr "Ingen målfil"
+
+msgid "Sizes mismatch"
+msgstr "Størrelser stemmer ikke"
+
+msgid "Hashes mismatch"
+msgstr "Usamsvarende hasher"
+
+msgid "Waiting for other transfers..."
+msgstr "Venter på andre overføringer..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "Vil du tilbakestille og behandle all filer som ble lagt til?"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "Det er ikke nok plass: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "Kilden er det samme som målet"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "Målmappen er en undermappe til kildemappen!"
+
+msgid "Destination File Already Exists"
+msgstr "Målfil eksisterer allerede"
+
+msgid "Open file"
+msgstr "Åpne fil"
+
+msgid "Open folder"
+msgstr "Åpne mappe"
+
+msgid "Bigger"
+msgstr "Større"
+
+msgid "Smaller"
+msgstr "Mindre"
+
+msgid "Same size"
+msgstr "Samme størrelse"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "hopp over alle om %d s"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Flere alternativer, gjelder for alle filer"
+
+msgid "Older"
+msgstr "Eldre"
+
+msgid "Newer"
+msgstr "Nyere"
+
+msgid "Same date"
+msgstr "Samme dato"
+
+msgid "File is offline, waiting..."
+msgstr "Filen er frakoblet, venter..."
+
+msgid "Cancelled"
+msgstr "Avbrutt"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "Filen er tilgjengelig igjen, gjenopptar overføring..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "Disk er full, vennligst frigi %s"
+
+msgid "File is too large for this file system"
+msgstr "Filen er for stor for denne filsystemet"
+
+msgid "Error reading file."
+msgstr "Feil ved lesing av fil."
+
+msgid "Error writing file."
+msgstr "Feil ved skriving av fil."
+
+msgid "File skipped"
+msgstr "Filen ble hoppet over"
+
+msgid "Stopped"
+msgstr "Stoppet"
+
+msgid "Error creating folder."
+msgstr "Feil ved opprettelse av mappe."
+
+msgid "Edit in Notepad"
+msgstr "Rediger i Notatblokk"
+
+msgid "Remove from favorites"
+msgstr "Fjernet fra favoritter"
+
+msgid "Add to favorites"
+msgstr "Legg til i favoritter"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d element"
+msgstr[1] "%d elementer"
+
+msgid "Skip requested by user"
+msgstr "Hopp over forespurt av bruker"
+
+msgid "Stop requested by user"
+msgstr "Stopp forespurt av bruker"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "Slette %d filen fra disk?"
+msgstr[1] "Slette %d filer fra disk?"
+
+msgid "Move to Recycle Bin"
+msgstr "Flytt til papirkurv"
+
+msgid "Delete from disk"
+msgstr "Slett fra disk"
+
+msgid "Wipe data"
+msgstr "Tøm Data"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "Tregere, lett å gjenopprette."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "Raskere, vanskelig å gjenvinne."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Veldig langsomt, en passering med tilfeldige data, ubrukelig for SSD."
+
+msgid "Delete ALL files in the list?"
+msgstr "Slett ALLE filer i listen?"
+
+msgid "Folder not found"
+msgstr "Mappe ikke funnet"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "%s hash i utklippstavlen ser ut som: #10%s"
+
+msgid "Error opening file."
+msgstr "Feil ved åpning av fil."
+
+msgid "Error deleting file."
+msgstr "Feil ved sletting av fil."
+
+msgid "Paused"
+msgstr "Satt På Pause"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "feil: %d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "hoppet over: %d"
+
+msgid "Append path"
+msgstr "Legg til sti"
+
+msgid "File list is empty"
+msgstr "Fillisten er tom"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "Ledig plass: %s"
+
+msgid "Unavailable"
+msgstr "Ikke tilgjengelig"
+
+msgid "Querying..."
+msgstr "Spørrer..."
+
+msgid "Drag files or folders here"
+msgstr "Dra filer eller mapper hit"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "Ingen elementer å vise. Fjern filtre for å se alle filer."
+
+msgid "Verify files after transfer"
+msgstr "Verifiser filer etter overføring"
+
+msgid "Save checksum file on finish"
+msgstr "Lagre kontrollsum-filen ved ferdigmelding"
+
+msgid "Auto-scroll"
+msgstr "Auto-rull"
+
+#. menu
+msgid "Menu"
+msgstr "Meny"
+
+msgid "Shared options"
+msgstr "Delte valg"
+
+msgid "buffer size"
+msgstr "bufferstørrelse"
+
+#. captions
+msgid "Transfer"
+msgstr "Overfør"
+
+msgid "Transfer options"
+msgstr "Overføringsvalg"
+
+msgid "Files & folders"
+msgstr "Filer og Mapper"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "Attributes"
+msgstr "Attributter"
+
+msgid "Timestamps"
+msgstr "Tidsstempel"
+
+msgid "Streams"
+msgstr "Strømmer"
+
+msgid "Security"
+msgstr "Sikkerhet"
+
+msgid "ACL"
+msgstr "OK"
+
+msgid "Owner"
+msgstr "Eier"
+
+msgid "Audit"
+msgstr "Revider"
+
+msgid "Test options"
+msgstr "Alternativer for test"
+
+msgid "Store/verify checksum in ADS"
+msgstr "Lagre/verifiser sjekksum i ADS"
+
+msgid "Save as default"
+msgstr "Lagre som standard"
+
+msgid "Reset to default"
+msgstr "Tilbakestill til standard"
+
+msgid "Done"
+msgstr "Ferdig"
+

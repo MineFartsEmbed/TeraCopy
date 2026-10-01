@@ -1,0 +1,924 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2023-11-19 07:45\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+
+#. mode
+msgid "Copying"
+msgstr "복사 중"
+
+msgid "Moving"
+msgstr "이동"
+
+msgid "Testing"
+msgstr "테스트 중"
+
+msgid "Verifying"
+msgstr "확인 중"
+
+msgid "Deleting"
+msgstr "확인 중"
+
+#. results
+msgid "Added"
+msgstr "추가"
+
+msgid "OK"
+msgstr "확인"
+
+msgid "Verified"
+msgstr "확인됨"
+
+msgid "Error"
+msgstr "오류"
+
+#. File list filter
+msgid "Skipped"
+msgstr "건너뜀"
+
+msgid "Deleted"
+msgstr "삭제됨"
+
+msgid "Moved"
+msgstr "이동됨"
+
+msgid "Absent"
+msgstr "없음"
+
+#. File list filter
+msgid "Ignored"
+msgstr "무시됨"
+
+msgid "File list"
+msgstr "파일 목록"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "대상"
+
+msgid "Options"
+msgstr "옵션"
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Log"
+msgstr "로그"
+
+#. File list filter
+msgid "All items"
+msgstr "모든 항목"
+
+#. File list filter
+msgid "Successful"
+msgstr "성공"
+
+#. File list filter
+msgid "Failed"
+msgstr "실패"
+
+msgid "No files added"
+msgstr "추가된 파일 없음"
+
+msgid "No target"
+msgstr "대상 없음"
+
+#. foder
+msgid "Folder"
+msgstr "폴더"
+
+msgid "Category"
+msgstr "범주"
+
+msgid "Files"
+msgstr "파일"
+
+msgid "Bytes"
+msgstr "바이트"
+
+msgid "Time"
+msgstr "시간"
+
+msgid "Total"
+msgstr "전체"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "일"
+
+msgid "hours"
+msgstr "시"
+
+#. minutes
+msgid "min"
+msgstr "분"
+
+#. seconds
+msgid "s"
+msgstr "초"
+
+#. millions
+msgid "m"
+msgstr "밀리초"
+
+msgid "Prompt on filename collision"
+msgstr "파일 이름 충돌 시 프롬프트"
+
+msgid "Overwrite"
+msgstr "덮어쓰기"
+
+msgid "Overwrite all"
+msgstr "모두 덮어쓰기"
+
+msgid "Skip"
+msgstr "건너뛰기"
+
+msgid "Skip all"
+msgstr "모두 건너뛰기"
+
+msgid "Keep both"
+msgstr "모두 유지"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "오래된 파일 모두 덮어쓰기"
+
+msgid "Replace all smaller files"
+msgstr "작은 파일 모두 바꾸기"
+
+msgid "Replace all files if size different"
+msgstr "크기가 다를 경우 모든 파일 바꾸기"
+
+msgid "Rename all copied files"
+msgstr "복사된 모든 파일 이름 바꾸기"
+
+msgid "Rename all target files"
+msgstr "모든 대상 파일 이름 바꾸기"
+
+msgid "Rename all older target files"
+msgstr "오래된 모든 대상 파일 이름 바꾸기"
+
+#. replace dialog
+msgid "More"
+msgstr "더 보기"
+
+#. tooltips
+msgid "Select target path"
+msgstr "대상 경로 선택"
+
+msgid "Add files or folders"
+msgstr "파일 또는 폴더 추가"
+
+msgid "Expanded view"
+msgstr "확장 보기"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "목록의 모든 파일 삭제"
+
+msgid "Read target files and compare checksums"
+msgstr "대상 파일 읽기 및 체크섬 비교"
+
+msgid "Read source files and create checksums"
+msgstr "원본 파일 읽기 및 체크섬 만들기"
+
+msgid "Create a new list"
+msgstr "새 목록 만들기"
+
+msgid "Transfers history"
+msgstr "전송 기록"
+
+msgid "Running with administrator priviledges"
+msgstr "관리자 권한으로 실행"
+
+msgid "Run as administrator"
+msgstr "관리자로 실행"
+
+#. export dialog
+msgid "Print/export"
+msgstr "인쇄/내보내기"
+
+msgid "Preferences"
+msgstr "환경 설정"
+
+msgid "About"
+msgstr "정보 - 한국어: VᴇɴᴜꜱGɪʀʟ"
+
+msgid "Order license"
+msgstr "라이선스 주문"
+
+msgid "Enter key"
+msgstr "등록키 입력"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(높은 권한 필요)"
+
+msgid "Toggle row"
+msgstr "행 전환"
+
+msgid "Create folders"
+msgstr "폴더 만들기"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "폴더 속성 유지 (읽기 전용, 보관...)"
+
+msgid "Keep folder timestamps"
+msgstr "폴더 타임스탬프 유지"
+
+msgid "Keep folder alternate data streams"
+msgstr "폴더 대체 데이터 스트림 유지"
+
+msgid "Copy files"
+msgstr "파일 복사"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "파일 속성 유지 (읽기 전용, 보관...)"
+
+msgid "Keep file timestamps"
+msgstr "파일 타임스탬프 유지"
+
+msgid "Keep file alternate data streams"
+msgstr "파일 대체 데이터 스트림 유지"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "폴더의 ACL 유지"
+
+msgid "Keep owner information for folders"
+msgstr "폴더의 소유자 정보 유지"
+
+msgid "Keep audit information for folders"
+msgstr "폴더에 대한 감사 정보 유지"
+
+msgid "Keep ACLs for files"
+msgstr "파일의 ACL 유지"
+
+msgid "Keep owner information for files"
+msgstr "파일의 소유자 정보 유지"
+
+msgid "Keep audit information for files"
+msgstr "파일에 대한 감사 정보 유지"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "모든 작업에 대한 버퍼 크기"
+
+msgid "Action to take on filename conflict"
+msgstr "파일 이름 충돌 시 수행할 작업"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "파일을 전송하거나 테스트하는 동안 체크섬을 계산하는 방법"
+
+msgid "Save the checksum file to the target folder"
+msgstr "체크섬 파일을 대상 폴더에 저장"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "체크섬 파일을 원본 폴더에 저장"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "대체 데이터 스트림을 사용하여 계산된 체크섬을 파일 내에 저장"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "모든 작업을 중지하시겠습니까?"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "앱 닫기"
+
+msgid "Keep app open"
+msgstr "앱 열어 놓기"
+
+msgid "Shutdown"
+msgstr "시스템 종료"
+
+msgid "Sleep"
+msgstr "절전"
+
+msgid "Hibernate"
+msgstr "최대 절전"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "마치면: %s"
+
+msgid "Always On Top"
+msgstr "항상 맨 위에"
+
+msgid "Shell integration"
+msgstr "셸 통합"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "왼쪽 마우스 단추를 사용하여 끌어서 놓기로 파일을 처리하고 탐색기에서 복사 및 붙여넣기 명령을 사용할 수 있습니다."
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Total Commander 기본 단추 막대에 복사 및 이동 단추를 추가합니다."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Directory Opus에 복사 및 이동 버튼을 추가하는 방법을 읽어 보십시오."
+
+msgid "Misc"
+msgstr "기타"
+
+msgid "Interface"
+msgstr "인터페이스"
+
+msgid "Register Copy Handler"
+msgstr "파일 복사 핸들러 등록"
+
+msgid "Unregister Copy Handler"
+msgstr "파일 복사 핸들러 해제"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "TeraCopy를 기본 복사 처리기로 사용"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "Scroll Lock이 꺼져 있을 때만"
+
+msgid "Add to Explorer context menu"
+msgstr "탐색기 상황에 맞는 메뉴에 추가"
+
+msgid "Play sound"
+msgstr "소리 재생"
+
+msgid "Check free space"
+msgstr "사용 가능한 공간 확인"
+
+msgid "Always test after copy"
+msgstr "복사 후 항상 테스트"
+
+msgid "Disable asynchronous file transfer"
+msgstr "비동기 파일 전송 사용 안 함"
+
+msgid "Use system write cache"
+msgstr "시스템 쓰기 캐시 사용"
+
+msgid "Confirm drag and drop"
+msgstr "끌어서 놓기 확인"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "클립보드의 체크섬에 대해 단일 파일 테스트"
+
+#. / file managers
+msgid "File managers"
+msgstr "파일 관리자"
+
+msgid "Window"
+msgstr "창"
+
+msgid "Show notifications"
+msgstr "알림 표시"
+
+msgid "Automatic updates"
+msgstr "자동 업데이트"
+
+msgid "Cancel"
+msgstr "취소"
+
+#. Window mode
+msgid "Expanded"
+msgstr "확장"
+
+msgid "Stacks"
+msgstr "스택"
+
+msgid "Auto"
+msgstr "자동"
+
+msgid "Not registered for Commercial Use"
+msgstr "상업용으로 등록되지 않았습니다"
+
+msgid "Free for Home Users"
+msgstr "가정용 사용자는 무료입니다"
+
+#. cancel timer
+msgid "Close"
+msgstr "닫기"
+
+msgid "Check for updates"
+msgstr "업데이트 확인"
+
+#. history options
+msgid "Never keep history"
+msgstr "기록 유지 안함"
+
+msgid "Keep history for 1 day"
+msgstr "1일 동안 기록 유지"
+
+msgid "Keep history for 1 week"
+msgstr "1주일 동안 기록 유지"
+
+msgid "Keep history permanently"
+msgstr "기록 영구 보관"
+
+msgid "Clean history now"
+msgstr "기록 지금 지우기"
+
+msgid "Delete"
+msgstr "삭제"
+
+#. date
+msgid "Created"
+msgstr "생성"
+
+msgid "Unattended"
+msgstr "무인"
+
+msgid "Hash"
+msgstr "해시"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "원본"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "파일"
+
+msgid "Not calculated"
+msgstr "계산 안됨"
+
+msgid "Modified"
+msgstr "수정"
+
+msgid "File info"
+msgstr "파일 정보"
+
+#. select
+msgid "This item"
+msgstr "이 항목"
+
+#. space bar key
+msgid "Space"
+msgstr "스페이스"
+
+msgid "Inverse selection"
+msgstr "선택 반전"
+
+#. select
+msgid "Same folder"
+msgstr "같은 폴더"
+
+#. select
+msgid "Same extension"
+msgstr "같은 확장자"
+
+msgid "Deselect all"
+msgstr "선택 모두 해제"
+
+msgid "Select"
+msgstr "선택"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "선택된 것 제거"
+
+#. ignore
+msgid "Ignore"
+msgstr "무시"
+
+msgid "Extension"
+msgstr "확장자"
+
+msgid "Select ignore list"
+msgstr "무시 목록 선택"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "추가 대상: %s"
+
+msgid "New file list"
+msgstr "새 파일 목록"
+
+msgid "Close all panels"
+msgstr "모든 패널 닫기"
+
+msgid "Add files"
+msgstr "파일 추가"
+
+msgid "Add folders"
+msgstr "폴더 추가"
+
+msgid "Save checksums"
+msgstr "체크섬 저장"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "프로 버전 구매"
+
+msgid "Export as"
+msgstr "다음으로 내보내기"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML(정렬 가능한 열 포함)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (Excel 등으로 가져오기)"
+
+msgid "Export only"
+msgstr "내보내기만"
+
+msgid "Reset list"
+msgstr "목록 재설정"
+
+#. ignore always
+msgid "Empty"
+msgstr "비어 있음"
+
+#. always
+msgid "Edit"
+msgstr "편집"
+
+msgid "Download"
+msgstr "다운로드"
+
+msgid "On every operation"
+msgstr "모든 작업에서"
+
+msgid "Browse"
+msgstr "찾아보기"
+
+msgid "Favorites & recent"
+msgstr "즐겨찾기 및 최근"
+
+msgid "No open windows"
+msgstr "열려 있는 창 없음"
+
+msgid "Checksum copied"
+msgstr "체크섬 복사"
+
+msgid "Copy"
+msgstr "복사"
+
+msgid "Move"
+msgstr "이동"
+
+#. 3rd line
+msgid "Filter"
+msgstr "필터"
+
+msgid "Process files:"
+msgstr "파일 처리:"
+
+msgid "Start Now"
+msgstr "지금 시작"
+
+msgid "Adding files..."
+msgstr "파일 추가 중..."
+
+msgid "Stop"
+msgstr "중지"
+
+msgid "Pause"
+msgstr "일시중지"
+
+msgid "Resume"
+msgstr "재개"
+
+msgid "Applying attributes and removing folders..."
+msgstr "속성을 적용하고 폴더를 제거 중......"
+
+msgid "Applying folder attributes..."
+msgstr "폴더 속성을 적용하는 중......"
+
+#. result
+msgid "Result"
+msgstr "결과"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: 완료됨"
+
+msgid "Next"
+msgstr "다음"
+
+msgid "Verify"
+msgstr "검증"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "해시 저장"
+
+#. operation buttons
+msgid "Test"
+msgstr "검사"
+
+msgid "Opening via service:"
+msgstr "서비스를 통해 여는 중:"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "%s 해시 파일이 저장됨"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "사용할 수 있는 체크섬이 없습니다. 먼저 파일을 복사하거나 테스트해 보십시오."
+
+#. check sizes before
+msgid "No target file"
+msgstr "대상 파일 없음"
+
+msgid "Sizes mismatch"
+msgstr "크기가 일치하지 않습니다"
+
+msgid "Hashes mismatch"
+msgstr "해시 불일치"
+
+msgid "Waiting for other transfers..."
+msgstr "다른 전송을 기다리는 중..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "재설정이 완료되고 추가된 모든 파일을 처리하시겠습니까?"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "더 많은 공간이 필요: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "원본이 대상과 같은 경우"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "대상 폴더가 원본 폴더의 하위 폴더입니다!"
+
+msgid "Destination File Already Exists"
+msgstr "대상 파일이 이미 있습니다"
+
+msgid "Open file"
+msgstr "파일 열기"
+
+msgid "Open folder"
+msgstr "폴더 열기"
+
+msgid "Bigger"
+msgstr "클 경우"
+
+msgid "Smaller"
+msgstr "작을 경우"
+
+msgid "Same size"
+msgstr "같은 크기"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "%d초 안에 모두 건너뛰기"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "모든 파일에 적용되는 추가 옵션"
+
+msgid "Older"
+msgstr "오래된 경우"
+
+msgid "Newer"
+msgstr "새로운 경우"
+
+msgid "Same date"
+msgstr "같은 날짜"
+
+msgid "File is offline, waiting..."
+msgstr "파일 상태가 오프라인입니다, 기다리는 중......."
+
+msgid "Cancelled"
+msgstr "취소됨"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "파일을 다시 사용할 수 있습니다. 전송을 다시 시작합니다..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "디스크가 꽉 찼습니다. %s을 확보하십시오"
+
+msgid "File is too large for this file system"
+msgstr "이 파일 시스템에 복사하기에는 파일이 너무 큽니다"
+
+msgid "Error reading file."
+msgstr "파일을 읽는 중 오류가 있습니다."
+
+msgid "Error writing file."
+msgstr "파일을 쓰는 중 오류가 있습니다."
+
+msgid "File skipped"
+msgstr "파일 건너뜀"
+
+msgid "Stopped"
+msgstr "멈춤"
+
+msgid "Error creating folder."
+msgstr "폴더를 만드는 동안 오류가 발생했습니다."
+
+msgid "Edit in Notepad"
+msgstr "메모장에서 편집"
+
+msgid "Remove from favorites"
+msgstr "즐겨찾기에서 제거"
+
+msgid "Add to favorites"
+msgstr "즐겨찾기에 추가"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d 항목"
+
+msgid "Skip requested by user"
+msgstr "사용자가 요청한 건너뛰기"
+
+msgid "Stop requested by user"
+msgstr "사용자가 요청한 중지"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "%d 파일을 디스크에서 삭제하시겠습니까?"
+
+msgid "Move to Recycle Bin"
+msgstr "휴지통으로 이동"
+
+msgid "Delete from disk"
+msgstr "디스크에서 삭제"
+
+msgid "Wipe data"
+msgstr "데이터 지우기"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "더 느리고, 복구하기 쉽습니다."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "더 빠르고 복구하기 어렵습니다."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "속도가 매우 느리고 랜덤 데이터로 한 번 통과하면 솔리드 스테이트 드라이브에는 쓸모가 없습니다."
+
+msgid "Delete ALL files in the list?"
+msgstr "목록의 모든 파일을 삭제하시겠습니까?"
+
+msgid "Folder not found"
+msgstr "폴더를 찾을 수 없습니다"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "클립보드의 %s 해시 일치: #10%s"
+
+msgid "Error opening file."
+msgstr "파일 열기 오류입니다."
+
+msgid "Error deleting file."
+msgstr "파일 삭제 오류입니다."
+
+msgid "Paused"
+msgstr "일시중지됨"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "오류: %d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "건너뜀: %d"
+
+msgid "Append path"
+msgstr "경로 추가"
+
+msgid "File list is empty"
+msgstr "파일 목록이 비어 있습니다"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "여유 공간: %s"
+
+msgid "Unavailable"
+msgstr "사용할 수 없음"
+
+msgid "Querying..."
+msgstr "쿼리 중..."
+
+msgid "Drag files or folders here"
+msgstr "파일 또는 폴더를 여기로 끌어다 놓으십시오"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "표시할 항목이 없습니다. 모든 파일을 보려면 필터를 제거하십시오."
+
+msgid "Verify files after transfer"
+msgstr "전송 후 파일 확인"
+
+msgid "Save checksum file on finish"
+msgstr "완료 시 체크섬 파일 저장"
+
+msgid "Auto-scroll"
+msgstr "자동 스크롤"
+
+#. menu
+msgid "Menu"
+msgstr "메뉴"
+
+msgid "Shared options"
+msgstr "공유 옵션"
+
+msgid "buffer size"
+msgstr "버퍼 크기"
+
+#. captions
+msgid "Transfer"
+msgstr "전송"
+
+msgid "Transfer options"
+msgstr "전송 옵션"
+
+msgid "Files & folders"
+msgstr "파일 및 폴더"
+
+msgid "Data"
+msgstr "데이터"
+
+msgid "Attributes"
+msgstr "속성"
+
+msgid "Timestamps"
+msgstr "타임스탬프"
+
+msgid "Streams"
+msgstr "스트림"
+
+msgid "Security"
+msgstr "보안"
+
+msgid "ACL"
+msgstr "ACL"
+
+msgid "Owner"
+msgstr "소유자"
+
+msgid "Audit"
+msgstr "감사"
+
+msgid "Test options"
+msgstr "테스트 옵션"
+
+msgid "Store/verify checksum in ADS"
+msgstr "ADS에서 체크섬 저장/검증"
+
+msgid "Save as default"
+msgstr "기본값으로 저장"
+
+msgid "Reset to default"
+msgstr "기본값으로 재설정"
+
+msgid "Done"
+msgstr "완료"
+

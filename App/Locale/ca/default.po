@@ -1,0 +1,926 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-12-28 05:44\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: ca\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Catalan\n"
+"Language: ca_ES\n"
+
+#. mode
+msgid "Copying"
+msgstr "Copiant"
+
+msgid "Moving"
+msgstr "Movent"
+
+msgid "Testing"
+msgstr "Provant"
+
+msgid "Verifying"
+msgstr "Verificant"
+
+msgid "Deleting"
+msgstr "Esborrant"
+
+#. results
+msgid "Added"
+msgstr "Afegit"
+
+msgid "OK"
+msgstr "D'acord"
+
+msgid "Verified"
+msgstr "Verificat"
+
+msgid "Error"
+msgstr "Error"
+
+#. File list filter
+msgid "Skipped"
+msgstr "Omès"
+
+msgid "Deleted"
+msgstr "Esborrat"
+
+msgid "Moved"
+msgstr "Mogut"
+
+msgid "Absent"
+msgstr "Absent"
+
+#. File list filter
+msgid "Ignored"
+msgstr "Ignorat"
+
+msgid "File list"
+msgstr "Llista de fitxers"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "Destí"
+
+msgid "Options"
+msgstr "Opcions"
+
+msgid "Status"
+msgstr "Estat"
+
+msgid "Log"
+msgstr "Registre"
+
+#. File list filter
+msgid "All items"
+msgstr "Tots els elements"
+
+#. File list filter
+msgid "Successful"
+msgstr "Completat amb èxit"
+
+#. File list filter
+msgid "Failed"
+msgstr "Ha fallat"
+
+msgid "No files added"
+msgstr "No s'ha afegit cap fitxer"
+
+msgid "No target"
+msgstr "Sense destí"
+
+#. foder
+msgid "Folder"
+msgstr "Carpeta"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Files"
+msgstr "Fitxers"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "Time"
+msgstr "Hora"
+
+msgid "Total"
+msgstr "Total"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "dies"
+
+msgid "hours"
+msgstr "hores"
+
+#. minutes
+msgid "min"
+msgstr "min"
+
+#. seconds
+msgid "s"
+msgstr "s"
+
+#. millions
+msgid "m"
+msgstr "m"
+
+msgid "Prompt on filename collision"
+msgstr "Preguntar en cas que coincidència de nom de fitxer"
+
+msgid "Overwrite"
+msgstr "Sobreescriure"
+
+msgid "Overwrite all"
+msgstr "Sobreescriure-ho tot"
+
+msgid "Skip"
+msgstr "Omet"
+
+msgid "Skip all"
+msgstr "Omet-ho tot"
+
+msgid "Keep both"
+msgstr "Conserva els dos"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "Sobreescriu tots els fitxers més antics"
+
+msgid "Replace all smaller files"
+msgstr "Substitueix tots els fitxers més petits"
+
+msgid "Replace all files if size different"
+msgstr "Substitueix tots els fitxers si la seva mida és diferent"
+
+msgid "Rename all copied files"
+msgstr "Canvia el nom de tots els fitxers copiats"
+
+msgid "Rename all target files"
+msgstr "Canvieu el nom de tots els fitxers de destinació"
+
+msgid "Rename all older target files"
+msgstr "Canvieu el nom de tots els fitxers de destinació antics"
+
+#. replace dialog
+msgid "More"
+msgstr "Més"
+
+#. tooltips
+msgid "Select target path"
+msgstr "Seleccioneu el camí objectiu"
+
+msgid "Add files or folders"
+msgstr "Afegiu fitxers o carpetes"
+
+msgid "Expanded view"
+msgstr "Vista ampliada"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "Suprimeix tots els fitxers de la llista"
+
+msgid "Read target files and compare checksums"
+msgstr "Llegiu els fitxers de destinació i compareu les sumes de control"
+
+msgid "Read source files and create checksums"
+msgstr "Llegir fitxers font i crear sumes de control"
+
+msgid "Create a new list"
+msgstr "Crea una llista nova"
+
+msgid "Transfers history"
+msgstr "Historial de transferències"
+
+msgid "Running with administrator priviledges"
+msgstr "S'executa amb privilegis d'administrador"
+
+msgid "Run as administrator"
+msgstr "Executa com administrador"
+
+#. export dialog
+msgid "Print/export"
+msgstr "Imprimir/exportar"
+
+msgid "Preferences"
+msgstr "Preferències"
+
+msgid "About"
+msgstr "Quant a"
+
+msgid "Order license"
+msgstr "Llicència de comanda"
+
+msgid "Enter key"
+msgstr "Introduix clau"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(això requereix privilegis elevats)"
+
+msgid "Toggle row"
+msgstr "Alterna la fila"
+
+msgid "Create folders"
+msgstr "Crea carpetes"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "Mantenir els atributs de la carpeta (només de lectura, arxivar...)"
+
+msgid "Keep folder timestamps"
+msgstr "Conserveu les marques de temps de la carpeta"
+
+msgid "Keep folder alternate data streams"
+msgstr "Mantenir fluxos de dades alternatius de la carpeta"
+
+msgid "Copy files"
+msgstr "Copiar fitxers"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "Mantenir els atributs del fitxer (només de lectura, arxivar...)"
+
+msgid "Keep file timestamps"
+msgstr "Conserveu les marques de temps dels fitxers"
+
+msgid "Keep file alternate data streams"
+msgstr "Mantenir fluxos de dades alternatius dels fitxers"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "Conserveu les ACL per a les carpetes"
+
+msgid "Keep owner information for folders"
+msgstr "Conserveu la informació del propietari de les carpetes"
+
+msgid "Keep audit information for folders"
+msgstr "Conserveu la informació d'auditoria de les carpetes"
+
+msgid "Keep ACLs for files"
+msgstr "Conserveu les ACL per als fitxers"
+
+msgid "Keep owner information for files"
+msgstr "Conserveu la informació del propietari dels fitxers"
+
+msgid "Keep audit information for files"
+msgstr "Conserveu la informació d'auditoria dels fitxers"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "Mida del buffer per a totes les operacions"
+
+msgid "Action to take on filename conflict"
+msgstr "Acció a prendre en cas de conflicte de noms de fitxer"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "Mètode per calcular les sumes de control durant la transferència o prova de fitxers"
+
+msgid "Save the checksum file to the target folder"
+msgstr "Deseu el fitxer de suma de comprovació a la carpeta de destinació"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "Deseu el fitxer de suma de comprovació a la carpeta font"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "Emmagatzemeu la suma de comprovació calculada dins del fitxer mitjançant fluxos de dades alternatius"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "Aturar totes les operacions?"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "Tanca l'aplicació"
+
+msgid "Keep app open"
+msgstr "Mantenir l'aplicació oberta"
+
+msgid "Shutdown"
+msgstr "Atura"
+
+msgid "Sleep"
+msgstr "Dormir"
+
+msgid "Hibernate"
+msgstr "Hibernar"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "En acabar: %s"
+
+msgid "Always On Top"
+msgstr "Sempre a la part superior"
+
+msgid "Shell integration"
+msgstr "Integració de Shell"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Gestioneu arrossegar i deixar anar fitxers amb el botó esquerre del ratolí, així com les ordres de copiar i enganxar a l'Explorador."
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Afegeix els botons Copia i Mou a la barra de botons predeterminada de Total Commander."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Llegiu com afegir botons Copia i Mou al Directori Opus."
+
+msgid "Misc"
+msgstr ""
+
+msgid "Interface"
+msgstr "Interfície"
+
+msgid "Register Copy Handler"
+msgstr "Registre el gestor de còpies"
+
+msgid "Unregister Copy Handler"
+msgstr "Anul·la el registre del gestor de còpies"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "Utilitzeu TeraCopy com a gestor de còpia predeterminat"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "Només quan el bloqueig de desplaçament està DESACTIVAT"
+
+msgid "Add to Explorer context menu"
+msgstr "Afegeix al menú contextual de l'Explorador"
+
+msgid "Play sound"
+msgstr "Reprodueix so"
+
+msgid "Check free space"
+msgstr "Comproveu l'espai lliure"
+
+msgid "Always test after copy"
+msgstr "Sempre prova després de còpia"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Desactiva la transferència de fitxers asíncrona"
+
+msgid "Use system write cache"
+msgstr "Utilitzeu la memòria cau d'escriptura del sistema"
+
+msgid "Confirm drag and drop"
+msgstr "Confirma abans d'arrossegar i deixar anar"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "Proveu fitxers individuals amb una suma de comprovació al porta-retalls"
+
+#. / file managers
+msgid "File managers"
+msgstr "Gestors de fitxers"
+
+msgid "Window"
+msgstr "Finestra"
+
+msgid "Show notifications"
+msgstr "Mostra les notificacions"
+
+msgid "Automatic updates"
+msgstr "Actualitzacions automàtiques"
+
+msgid "Cancel"
+msgstr "Cancel·lar"
+
+#. Window mode
+msgid "Expanded"
+msgstr "Ampliat"
+
+msgid "Stacks"
+msgstr "Piles"
+
+msgid "Auto"
+msgstr "Automàtic"
+
+msgid "Not registered for Commercial Use"
+msgstr "No registrat per a ús comercial"
+
+msgid "Free for Home Users"
+msgstr "Gratuït per a usuaris domèstics"
+
+#. cancel timer
+msgid "Close"
+msgstr "Tancar"
+
+msgid "Check for updates"
+msgstr "Comprova si hi ha actualitzacions"
+
+#. history options
+msgid "Never keep history"
+msgstr "No guardis mai la història"
+
+msgid "Keep history for 1 day"
+msgstr "Conserva l'historial durant 1 dia"
+
+msgid "Keep history for 1 week"
+msgstr "Manteniu l'historial durant 1 setmana"
+
+msgid "Keep history permanently"
+msgstr "Mantenir l'historial permanentment"
+
+msgid "Clean history now"
+msgstr "Netegeu la història ara"
+
+msgid "Delete"
+msgstr "Esborrar"
+
+#. date
+msgid "Created"
+msgstr "Creat"
+
+msgid "Unattended"
+msgstr "Desatesos"
+
+msgid "Hash"
+msgstr ""
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "Origen"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "Fitxer"
+
+msgid "Not calculated"
+msgstr "No calculat"
+
+msgid "Modified"
+msgstr "Reemplaçat per la data de modificació de l'entrada o pàgina"
+
+msgid "File info"
+msgstr "Informació de l'arxiu"
+
+#. select
+msgid "This item"
+msgstr "Aquest element"
+
+#. space bar key
+msgid "Space"
+msgstr "Espai"
+
+msgid "Inverse selection"
+msgstr "Selecció inversa"
+
+#. select
+msgid "Same folder"
+msgstr "La mateixa carpeta"
+
+#. select
+msgid "Same extension"
+msgstr "La mateixa extensió"
+
+msgid "Deselect all"
+msgstr "Deseleccionna-ho tot"
+
+msgid "Select"
+msgstr "Selecciona"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "Elimina els seleccionats"
+
+#. ignore
+msgid "Ignore"
+msgstr "Ignora"
+
+msgid "Extension"
+msgstr "Extensió"
+
+msgid "Select ignore list"
+msgstr "Seleccioneu la llista ignora"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "Afegeix a: %s"
+
+msgid "New file list"
+msgstr "Nova llista de fitxers"
+
+msgid "Close all panels"
+msgstr "Tanqueu tots els panells"
+
+msgid "Add files"
+msgstr "Afegir arxius"
+
+msgid "Add folders"
+msgstr "Afegeix carpetes"
+
+msgid "Save checksums"
+msgstr "Desa les sumes de control"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "Obteniu la versió Pro"
+
+msgid "Export as"
+msgstr "Exportar"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (amb columnes ordenables)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (per importar a Excel, etc.)"
+
+msgid "Export only"
+msgstr "Només exporta"
+
+msgid "Reset list"
+msgstr "Restableix la llista"
+
+#. ignore always
+msgid "Empty"
+msgstr "Buit"
+
+#. always
+msgid "Edit"
+msgstr "Edita"
+
+msgid "Download"
+msgstr "Descàrrega"
+
+msgid "On every operation"
+msgstr "En cada operació"
+
+msgid "Browse"
+msgstr "Navega"
+
+msgid "Favorites & recent"
+msgstr "Preferits i recents"
+
+msgid "No open windows"
+msgstr "Sense finestres obertes"
+
+msgid "Checksum copied"
+msgstr "S'ha copiat la suma de control"
+
+msgid "Copy"
+msgstr "Copiar"
+
+msgid "Move"
+msgstr "Moure"
+
+#. 3rd line
+msgid "Filter"
+msgstr "Filtre"
+
+msgid "Process files:"
+msgstr "Fitxers de procés:"
+
+msgid "Start Now"
+msgstr "Comença ara"
+
+msgid "Adding files..."
+msgstr "S'estan afegint fitxers..."
+
+msgid "Stop"
+msgstr "Atura"
+
+msgid "Pause"
+msgstr "Pausa"
+
+msgid "Resume"
+msgstr "Continua"
+
+msgid "Applying attributes and removing folders..."
+msgstr "S'estan aplicant atributs i s'estan eliminant carpetes..."
+
+msgid "Applying folder attributes..."
+msgstr "S'estan aplicant els atributs de la carpeta..."
+
+#. result
+msgid "Result"
+msgstr "Resultat"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: completat"
+
+msgid "Next"
+msgstr "Següent"
+
+msgid "Verify"
+msgstr "Verificar"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Desa Hash"
+
+#. operation buttons
+msgid "Test"
+msgstr ""
+
+msgid "Opening via service:"
+msgstr "Obertura mitjançant servei:"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "S'ha desat %s fitxer hash"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "No hi ha cap suma de comprovació disponible, primer copieu o proveu els fitxers."
+
+#. check sizes before
+msgid "No target file"
+msgstr "Cap fitxer de destinació"
+
+msgid "Sizes mismatch"
+msgstr "Les mides no coincideixen"
+
+msgid "Hashes mismatch"
+msgstr "Els hashs no coincideixen"
+
+msgid "Waiting for other transfers..."
+msgstr "Esperant altres transferències..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "S'ha completat el restabliment i processar tots els fitxers afegits?"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "Cal més espai: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "La font és la mateixa que l'objectiu"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "La carpeta de destinació és una subcarpeta de la carpeta d'origen!"
+
+msgid "Destination File Already Exists"
+msgstr "El fitxer de destinació ja existeix"
+
+msgid "Open file"
+msgstr "Obre el fitxer"
+
+msgid "Open folder"
+msgstr "Carpeta oberta"
+
+msgid "Bigger"
+msgstr "Més gran"
+
+msgid "Smaller"
+msgstr "Més petit"
+
+msgid "Same size"
+msgstr "Mateixa mida"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "saltar-ho tot en %d s"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Més opcions, aplicables a tots els fitxers"
+
+msgid "Older"
+msgstr "Més antics"
+
+msgid "Newer"
+msgstr "Més nous"
+
+msgid "Same date"
+msgstr "La mateixa data"
+
+msgid "File is offline, waiting..."
+msgstr "El fitxer està fora de línia, esperant..."
+
+msgid "Cancelled"
+msgstr "Cancel·lat"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "El fitxer està disponible de nou, es reprèn la transferència..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "El disc està ple, allibera %s"
+
+msgid "File is too large for this file system"
+msgstr "El fitxer és massa gran per a aquest sistema de fitxers"
+
+msgid "Error reading file."
+msgstr "S'ha produït un error en llegir el fitxer."
+
+msgid "Error writing file."
+msgstr "S'ha produït un error en escriure el fitxer."
+
+msgid "File skipped"
+msgstr "S'ha saltat el fitxer"
+
+msgid "Stopped"
+msgstr "Aturat"
+
+msgid "Error creating folder."
+msgstr "S'ha produït un error en crear la carpeta."
+
+msgid "Edit in Notepad"
+msgstr "Edita al Bloc de notes"
+
+msgid "Remove from favorites"
+msgstr "Suprimeix dels preferits"
+
+msgid "Add to favorites"
+msgstr "Afegir a preferits"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d element\t"
+msgstr[1] "%d elements"
+
+msgid "Skip requested by user"
+msgstr "Omet sol·licitat per l'usuari"
+
+msgid "Stop requested by user"
+msgstr "Atura sol·licitada per l'usuari"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "Vols suprimir %d fitxer del disc?"
+msgstr[1] "Vols suprimir %d fitxers del disc?"
+
+msgid "Move to Recycle Bin"
+msgstr "Mou a la Paperera de reciclatge"
+
+msgid "Delete from disk"
+msgstr "Esborra del disc"
+
+msgid "Wipe data"
+msgstr "Esborrar les dades"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "Més lent, fàcil de recuperar."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "Més ràpid, difícil de recuperar."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Molt lent, una passada amb dades aleatòries, inútil per a unitats d'estat sòlid."
+
+msgid "Delete ALL files in the list?"
+msgstr "Vols suprimir TOTS els fitxers de la llista?"
+
+msgid "Folder not found"
+msgstr "No s'ha trobat la carpeta"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "%s hash a les coincidències del porta-retalls: núm. 10%s"
+
+msgid "Error opening file."
+msgstr "Error en obrir el fitxer."
+
+msgid "Error deleting file."
+msgstr "S'ha produït un error en suprimir el fitxer."
+
+msgid "Paused"
+msgstr "Pausat"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr ""
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "omès: %d"
+
+msgid "Append path"
+msgstr "Afegiu camí"
+
+msgid "File list is empty"
+msgstr "La llista de fitxers és buida"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "Espai lliure: %s"
+
+msgid "Unavailable"
+msgstr "No està disponible"
+
+msgid "Querying..."
+msgstr "Consultant..."
+
+msgid "Drag files or folders here"
+msgstr "Arrossegueu fitxers o carpetes aquí"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "No hi ha elements per mostrar. Elimina els filtres per veure tots els fitxers."
+
+msgid "Verify files after transfer"
+msgstr "Verifiqueu els fitxers després de la transferència"
+
+msgid "Save checksum file on finish"
+msgstr "Desa el fitxer de suma de comprovació en acabar"
+
+msgid "Auto-scroll"
+msgstr "Desplaçament automàtic"
+
+#. menu
+msgid "Menu"
+msgstr "Menú"
+
+msgid "Shared options"
+msgstr "Opcions compartides"
+
+msgid "buffer size"
+msgstr "mida del buffer"
+
+#. captions
+msgid "Transfer"
+msgstr "Transferir"
+
+msgid "Transfer options"
+msgstr "Opcions de transferència"
+
+msgid "Files & folders"
+msgstr "Fitxers i carpetes"
+
+msgid "Data"
+msgstr "Dades"
+
+msgid "Attributes"
+msgstr "Atributs"
+
+msgid "Timestamps"
+msgstr "Segells de temps"
+
+msgid "Streams"
+msgstr "Transmisions"
+
+msgid "Security"
+msgstr "Seguretat"
+
+msgid "ACL"
+msgstr ""
+
+msgid "Owner"
+msgstr "Propietari"
+
+msgid "Audit"
+msgstr "Auditoria"
+
+msgid "Test options"
+msgstr "Opcions de prova"
+
+msgid "Store/verify checksum in ADS"
+msgstr "Emmagatzema/verifica la suma de comprovació a ADS"
+
+msgid "Save as default"
+msgstr "Desa com a predeterminat"
+
+msgid "Reset to default"
+msgstr "Restableix els valors predeterminats"
+
+msgid "Done"
+msgstr "Fet"
+

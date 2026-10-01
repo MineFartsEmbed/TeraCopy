@@ -1,0 +1,924 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-06-04 07:22\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: th\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Thai\n"
+"Language: th_TH\n"
+
+#. mode
+msgid "Copying"
+msgstr "กำลังคัดลอก"
+
+msgid "Moving"
+msgstr "กำลังย้าย"
+
+msgid "Testing"
+msgstr "กำลังทดสอบ"
+
+msgid "Verifying"
+msgstr "กำลังยืนยัน"
+
+msgid "Deleting"
+msgstr "กำลังลบ"
+
+#. results
+msgid "Added"
+msgstr "เพิ่มแล้ว"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Verified"
+msgstr "ยืนยันแล้ว"
+
+msgid "Error"
+msgstr "ผิดพลาด"
+
+#. File list filter
+msgid "Skipped"
+msgstr "ถูกข้าม"
+
+msgid "Deleted"
+msgstr "ลบแล้ว"
+
+msgid "Moved"
+msgstr "ย้ายแล้ว"
+
+msgid "Absent"
+msgstr "ขาด"
+
+#. File list filter
+msgid "Ignored"
+msgstr "ละเว้นแล้ว"
+
+msgid "File list"
+msgstr "รายการไฟล์"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "เป้าหมาย"
+
+msgid "Options"
+msgstr "ตัวเลือก"
+
+msgid "Status"
+msgstr "สถานะ"
+
+msgid "Log"
+msgstr "ประวัติ"
+
+#. File list filter
+msgid "All items"
+msgstr "ไฟล์ทั้งหมด"
+
+#. File list filter
+msgid "Successful"
+msgstr "สำเร็จแล้ว"
+
+#. File list filter
+msgid "Failed"
+msgstr "ล้มเหลว"
+
+msgid "No files added"
+msgstr "ไม่มีไฟล์เพิ่ม"
+
+msgid "No target"
+msgstr "ไม่ระบุปลายทาง"
+
+#. foder
+msgid "Folder"
+msgstr "โฟลเดอร์"
+
+msgid "Category"
+msgstr "หมวดหมู่"
+
+msgid "Files"
+msgstr "ไฟล์"
+
+msgid "Bytes"
+msgstr "ไบท์"
+
+msgid "Time"
+msgstr "เวลา"
+
+msgid "Total"
+msgstr "ทั้งหมด"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "วัน"
+
+msgid "hours"
+msgstr "ชั่วโมง"
+
+#. minutes
+msgid "min"
+msgstr "น."
+
+#. seconds
+msgid "s"
+msgstr "ว."
+
+#. millions
+msgid "m"
+msgstr "ล้าน"
+
+msgid "Prompt on filename collision"
+msgstr "แสดงพร้อมท์เมื่อพบชื่อไฟล์ซ้ำ"
+
+msgid "Overwrite"
+msgstr "เขียนทับ"
+
+msgid "Overwrite all"
+msgstr "เขียนทับทั้งหมด"
+
+msgid "Skip"
+msgstr "ข้าม"
+
+msgid "Skip all"
+msgstr "ข้ามทั้งหมด"
+
+msgid "Keep both"
+msgstr "เก็บไว้ทั้งคู่"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "เขียนทับไฟล์เก่ากว่าทั้งหมด"
+
+msgid "Replace all smaller files"
+msgstr "วางทับไฟล์ที่ขนาดเล็กกว่า"
+
+msgid "Replace all files if size different"
+msgstr "วางทับทุกไฟล์ที่ขนาดต่างกัน"
+
+msgid "Rename all copied files"
+msgstr "เปลี่ยนชื่อไฟล์ที่ถูกคัดลอกไว้ทั้งหมด"
+
+msgid "Rename all target files"
+msgstr "เปลี่ยนชื่อทุกไฟล์ปลายทาง"
+
+msgid "Rename all older target files"
+msgstr "เปลี่ยนชื่อไฟล์ปลายทางที่เก่ากว่า"
+
+#. replace dialog
+msgid "More"
+msgstr "เพิ่มเติม"
+
+#. tooltips
+msgid "Select target path"
+msgstr "เลือกพาธปลายทาง"
+
+msgid "Add files or folders"
+msgstr "เพิ่มไฟล์หรือโฟลเดอร์"
+
+msgid "Expanded view"
+msgstr "มุมมองแบบขยาย"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "ลบทุกไฟล์ในรายการ"
+
+msgid "Read target files and compare checksums"
+msgstr "อ่านไฟล์ปลายทางและเปรียบเทียบ checksums"
+
+msgid "Read source files and create checksums"
+msgstr "อ่านไฟล์ต้นทางและสร้าง checksums"
+
+msgid "Create a new list"
+msgstr "สร้างรายการใหม่"
+
+msgid "Transfers history"
+msgstr "ประวัติเคลื่อนย้ายข้อมูล"
+
+msgid "Running with administrator priviledges"
+msgstr "กำลังรันโปรแกรมด้วยสิทธิ์ผู้ดูแลระบบ"
+
+msgid "Run as administrator"
+msgstr "รันโปรแกรมในฐานะผู้ดูแลระบบ"
+
+#. export dialog
+msgid "Print/export"
+msgstr "พิมพ์/ส่งออก"
+
+msgid "Preferences"
+msgstr "การตั้งค่า"
+
+msgid "About"
+msgstr "เกี่ยวกับ"
+
+msgid "Order license"
+msgstr "สั่งซื้อ"
+
+msgid "Enter key"
+msgstr "กรอกรหัส"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(ใช้ได้เฉพาะรุ่นโปร)"
+
+msgid "Toggle row"
+msgstr "ปุ่มสลับแถว"
+
+msgid "Create folders"
+msgstr "สร้างโฟลเดอร์"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "รักษาแอทริบิวท์ของโฟลเดอร์ไว้ (อ่านอย่างเดียว, เก็บ...)"
+
+msgid "Keep folder timestamps"
+msgstr "รักษาข้อมูลเวลาของโฟลเดอร์ไว้"
+
+msgid "Keep folder alternate data streams"
+msgstr "Keep folder alternate data streams"
+
+msgid "Copy files"
+msgstr "คัดลอกไฟล์"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "คงรักษาคุณลักษณะของไฟล์ดั้งเดิมไว้ (อ่านอย่างเดียว ซ่อน ฯลฯ)"
+
+msgid "Keep file timestamps"
+msgstr "คงรักษาเวลาดั้งเดิมของไฟล์ไว้"
+
+msgid "Keep file alternate data streams"
+msgstr ""
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr ""
+
+msgid "Keep owner information for folders"
+msgstr ""
+
+msgid "Keep audit information for folders"
+msgstr ""
+
+msgid "Keep ACLs for files"
+msgstr ""
+
+msgid "Keep owner information for files"
+msgstr ""
+
+msgid "Keep audit information for files"
+msgstr ""
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr ""
+
+msgid "Action to take on filename conflict"
+msgstr ""
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr ""
+
+msgid "Save the checksum file to the target folder"
+msgstr ""
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr ""
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr ""
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "หยุดการทำงานทั้งหมดหรือไม่?"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "ปิดโปรแกรม"
+
+msgid "Keep app open"
+msgstr ""
+
+msgid "Shutdown"
+msgstr "ปิดเครื่อง"
+
+msgid "Sleep"
+msgstr ""
+
+msgid "Hibernate"
+msgstr ""
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr ""
+
+msgid "Always On Top"
+msgstr "อยู่เหนือหน้าต่างทุกโปรแกรม"
+
+msgid "Shell integration"
+msgstr ""
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "แทนทีการคัดลอกแบบลากและวางเหมือนกับคำสั้ง Copy และ Paste ที่ใช้ในเอ็กซ์พอเรอร์"
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "เพิ่มปุ่มคัดลอกและย้ายให้กับปุ่มมาตรฐานของ Total Commander."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "อ่านวิธีการเพิ่มปุ่มคัดลอกและย้ายให้กับ Directory Opus."
+
+msgid "Misc"
+msgstr "อื่นๆ"
+
+msgid "Interface"
+msgstr "หน้าตา"
+
+msgid "Register Copy Handler"
+msgstr "ให้เป็นโปรแกรมคัดลอกมาตรฐาน"
+
+msgid "Unregister Copy Handler"
+msgstr "ยกเลิกการตั้งเป็นโปรแกรมคัดลอกมาตรฐาน "
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "ตั้งให้ TeraCopy เป็นโปรแกรมคัดลอกมาตรฐาน "
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "เมื่อปุ่ม Scroll Lock เป็น OFF เท่านั้น"
+
+msgid "Add to Explorer context menu"
+msgstr "เพิ่มไปที่เมนูคลิกขวาของ Explorer"
+
+msgid "Play sound"
+msgstr ""
+
+msgid "Check free space"
+msgstr "ตรวจสอบพื้นที่ว่างของดิสก์ก่อนคัดลอก"
+
+msgid "Always test after copy"
+msgstr "หลังจากคัดลอกเสร็จให้ทดสอบไฟล์ทุกครั้ง"
+
+msgid "Disable asynchronous file transfer"
+msgstr ""
+
+msgid "Use system write cache"
+msgstr ""
+
+msgid "Confirm drag and drop"
+msgstr "เปิดใช้งานหน้าต่างยืนยันการลากและวาง"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr ""
+
+#. / file managers
+msgid "File managers"
+msgstr ""
+
+msgid "Window"
+msgstr "หน้าต่าง"
+
+msgid "Show notifications"
+msgstr "แสดงการแจ้งเตือน"
+
+msgid "Automatic updates"
+msgstr "อัพเดตอัตโนมัติ"
+
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+#. Window mode
+msgid "Expanded"
+msgstr "โหมดขยาย"
+
+msgid "Stacks"
+msgstr ""
+
+msgid "Auto"
+msgstr "อัตโนมัติ"
+
+msgid "Not registered for Commercial Use"
+msgstr "ไม่ได้ลงทะเบียนเพื่อการใช้เชิงพาณิชย์"
+
+msgid "Free for Home Users"
+msgstr "ฟรีสำหรับใช้ส่วนบุคคล"
+
+#. cancel timer
+msgid "Close"
+msgstr "ปิด"
+
+msgid "Check for updates"
+msgstr "ตรวจสอบการอัพเดท"
+
+#. history options
+msgid "Never keep history"
+msgstr "ไม่เก็บประวัติงาน"
+
+msgid "Keep history for 1 day"
+msgstr "จัดเก็บประวัติงาน 1 วัน"
+
+msgid "Keep history for 1 week"
+msgstr "จัดเก็บประวัติงาน 1 สัปดาห์"
+
+msgid "Keep history permanently"
+msgstr ""
+
+msgid "Clean history now"
+msgstr "ล้างประวัติเดี๋ยวนี้"
+
+msgid "Delete"
+msgstr "ลบ"
+
+#. date
+msgid "Created"
+msgstr "สร้างเมื่อ"
+
+msgid "Unattended"
+msgstr ""
+
+msgid "Hash"
+msgstr "แฮช"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "ที่มา"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "ไฟล์"
+
+msgid "Not calculated"
+msgstr "ไม่ถูกคำนวณ"
+
+msgid "Modified"
+msgstr ""
+
+msgid "File info"
+msgstr "ข้อมูลไฟล์"
+
+#. select
+msgid "This item"
+msgstr ""
+
+#. space bar key
+msgid "Space"
+msgstr "พื้นที่"
+
+msgid "Inverse selection"
+msgstr ""
+
+#. select
+msgid "Same folder"
+msgstr ""
+
+#. select
+msgid "Same extension"
+msgstr ""
+
+msgid "Deselect all"
+msgstr "ยกเลิกทั้งหมด"
+
+msgid "Select"
+msgstr "เลือก"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "ลบที่เลือกไว้"
+
+#. ignore
+msgid "Ignore"
+msgstr "ละเลย"
+
+msgid "Extension"
+msgstr "สกุลไฟล์"
+
+msgid "Select ignore list"
+msgstr ""
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "เพิ่มไปยัง: %s"
+
+msgid "New file list"
+msgstr "รายการไฟล์ใหม่"
+
+msgid "Close all panels"
+msgstr "ปิดแผงควบคุมทั้งหมด"
+
+msgid "Add files"
+msgstr "เพิ่มไฟล์"
+
+msgid "Add folders"
+msgstr "เพิ่มโฟลเดอร์"
+
+msgid "Save checksums"
+msgstr "บันทึก checksums"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "สั่งซื้อเวอร์ชั่น Pro"
+
+msgid "Export as"
+msgstr "ส่งออกเป็น"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (พร้อมคอลัมน์ที่เรียงลำดับได้)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (เพื่อเปิดใน Excel หรืออื่นๆ)"
+
+msgid "Export only"
+msgstr "ส่งออกเท่านั้น"
+
+msgid "Reset list"
+msgstr "รีเซ็ตรายการ"
+
+#. ignore always
+msgid "Empty"
+msgstr "ว่าง"
+
+#. always
+msgid "Edit"
+msgstr "แก้ไข"
+
+msgid "Download"
+msgstr "ดาวน์โหลด"
+
+msgid "On every operation"
+msgstr "ใช้กับทุกการดำเนินการ"
+
+msgid "Browse"
+msgstr "ค้นหา"
+
+msgid "Favorites & recent"
+msgstr "ที่ชื่นชอบ & ล่าสุด"
+
+msgid "No open windows"
+msgstr "ไม่มีหน้าต่างเปิดอยู่"
+
+msgid "Checksum copied"
+msgstr "คัดลอก checksum แล้ว"
+
+msgid "Copy"
+msgstr "คัดลอก"
+
+msgid "Move"
+msgstr "ย้าย"
+
+#. 3rd line
+msgid "Filter"
+msgstr "กรอง"
+
+msgid "Process files:"
+msgstr "ดำเนินการกับไฟล์:"
+
+msgid "Start Now"
+msgstr "เริ่มเดี๋ยวนี้"
+
+msgid "Adding files..."
+msgstr "กำลังเพิ่มไฟล์..."
+
+msgid "Stop"
+msgstr "หยุด"
+
+msgid "Pause"
+msgstr "หยุดชั่วคราว"
+
+msgid "Resume"
+msgstr "ดำเนินการต่อ"
+
+msgid "Applying attributes and removing folders..."
+msgstr ""
+
+msgid "Applying folder attributes..."
+msgstr ""
+
+#. result
+msgid "Result"
+msgstr ""
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Verify"
+msgstr "ตรวจสอบ"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "บันทึกค่าแฮช"
+
+#. operation buttons
+msgid "Test"
+msgstr "ทดสอบ"
+
+msgid "Opening via service:"
+msgstr ""
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr ""
+
+msgid "No checksums are available, please copy or test files first."
+msgstr ""
+
+#. check sizes before
+msgid "No target file"
+msgstr ""
+
+msgid "Sizes mismatch"
+msgstr "ขนาดไม่ตรงกัน"
+
+msgid "Hashes mismatch"
+msgstr ""
+
+msgid "Waiting for other transfers..."
+msgstr ""
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr ""
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr ""
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr ""
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr ""
+
+msgid "Destination File Already Exists"
+msgstr ""
+
+msgid "Open file"
+msgstr "เปิดไฟล์"
+
+msgid "Open folder"
+msgstr "เปิดโฟลเดอร์"
+
+msgid "Bigger"
+msgstr "ใหญ่กว่า"
+
+msgid "Smaller"
+msgstr "เล็กกว่า"
+
+msgid "Same size"
+msgstr "ขนาดเดียวกัน"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr ""
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr ""
+
+msgid "Older"
+msgstr "เก่ากว่า"
+
+msgid "Newer"
+msgstr "ใหม่กว่า"
+
+msgid "Same date"
+msgstr "วันเดียวกัน"
+
+msgid "File is offline, waiting..."
+msgstr "ไฟล์ไม่ตอบสนอง รอสักครู่..."
+
+msgid "Cancelled"
+msgstr "ถูกยกเลิก"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "ไฟล์พร้อมอีกครั้งแล้ว กำลังกลับมาเคลื่อนย้ายข้อมูล"
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "พื้นที่ไดร์ฟเต็ม กรุณาเคลียร์พื้นที่ %s"
+
+msgid "File is too large for this file system"
+msgstr "ไฟล์ใหย่เกินไปสำหรับไฟล์ระบบนี้"
+
+msgid "Error reading file."
+msgstr ""
+
+msgid "Error writing file."
+msgstr ""
+
+msgid "File skipped"
+msgstr ""
+
+msgid "Stopped"
+msgstr "ถูกหยุด"
+
+msgid "Error creating folder."
+msgstr ""
+
+msgid "Edit in Notepad"
+msgstr ""
+
+msgid "Remove from favorites"
+msgstr ""
+
+msgid "Add to favorites"
+msgstr ""
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+
+msgid "Skip requested by user"
+msgstr "ถูกข้ามโดยผู้ใช้"
+
+msgid "Stop requested by user"
+msgstr "ถูกหยุดโดยผู้ใช้"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] ""
+
+msgid "Move to Recycle Bin"
+msgstr "ย้ายไปที่ถังขยะ"
+
+msgid "Delete from disk"
+msgstr "ลบออกจากดิสก์"
+
+msgid "Wipe data"
+msgstr "ล้างข้อมูล"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr ""
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr ""
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr ""
+
+msgid "Delete ALL files in the list?"
+msgstr "ลบไฟล์ทั้งหมดในรายการหรือไหม?"
+
+msgid "Folder not found"
+msgstr ""
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr ""
+
+msgid "Error opening file."
+msgstr ""
+
+msgid "Error deleting file."
+msgstr ""
+
+msgid "Paused"
+msgstr "หยุดชั่วคราว"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr ""
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr ""
+
+msgid "Append path"
+msgstr ""
+
+msgid "File list is empty"
+msgstr ""
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr ""
+
+msgid "Unavailable"
+msgstr ""
+
+msgid "Querying..."
+msgstr ""
+
+msgid "Drag files or folders here"
+msgstr ""
+
+msgid "No items to show. Remove filters to see all files."
+msgstr ""
+
+msgid "Verify files after transfer"
+msgstr ""
+
+msgid "Save checksum file on finish"
+msgstr ""
+
+msgid "Auto-scroll"
+msgstr ""
+
+#. menu
+msgid "Menu"
+msgstr "เมนู"
+
+msgid "Shared options"
+msgstr ""
+
+msgid "buffer size"
+msgstr ""
+
+#. captions
+msgid "Transfer"
+msgstr "การเคลื่อนย้าย"
+
+msgid "Transfer options"
+msgstr ""
+
+msgid "Files & folders"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "Attributes"
+msgstr ""
+
+msgid "Timestamps"
+msgstr ""
+
+msgid "Streams"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "ACL"
+msgstr ""
+
+msgid "Owner"
+msgstr ""
+
+msgid "Audit"
+msgstr ""
+
+msgid "Test options"
+msgstr ""
+
+msgid "Store/verify checksum in ADS"
+msgstr ""
+
+msgid "Save as default"
+msgstr ""
+
+msgid "Reset to default"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+

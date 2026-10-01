@@ -1,0 +1,930 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-06-04 07:21\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+
+#. mode
+msgid "Copying"
+msgstr "Kopiowanie"
+
+msgid "Moving"
+msgstr "Przenoszenie"
+
+msgid "Testing"
+msgstr "Testowanie"
+
+msgid "Verifying"
+msgstr "Weryfikowanie"
+
+msgid "Deleting"
+msgstr "Usuwanie"
+
+#. results
+msgid "Added"
+msgstr "Dodano"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Verified"
+msgstr "Zweryfikowano"
+
+msgid "Error"
+msgstr "Błąd"
+
+#. File list filter
+msgid "Skipped"
+msgstr "Pominięto"
+
+msgid "Deleted"
+msgstr "Usunięto"
+
+msgid "Moved"
+msgstr "Przeniesiono"
+
+msgid "Absent"
+msgstr "Nieobecny"
+
+#. File list filter
+msgid "Ignored"
+msgstr "Ignorowane"
+
+msgid "File list"
+msgstr "Lista plików"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "Plik docelowy"
+
+msgid "Options"
+msgstr "Opcje"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Log"
+msgstr "Logi"
+
+#. File list filter
+msgid "All items"
+msgstr "Wszystkie elementy"
+
+#. File list filter
+msgid "Successful"
+msgstr "Powodzenie"
+
+#. File list filter
+msgid "Failed"
+msgstr "Błąd"
+
+msgid "No files added"
+msgstr "Nie dodano plików"
+
+msgid "No target"
+msgstr "Brak celu"
+
+#. foder
+msgid "Folder"
+msgstr "Katalog"
+
+msgid "Category"
+msgstr "Kategoria"
+
+msgid "Files"
+msgstr "Pliki"
+
+msgid "Bytes"
+msgstr "Bajtów"
+
+msgid "Time"
+msgstr "Czas"
+
+msgid "Total"
+msgstr "Łącznie"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "kB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "dni"
+
+msgid "hours"
+msgstr "godzin"
+
+#. minutes
+msgid "min"
+msgstr "minut"
+
+#. seconds
+msgid "s"
+msgstr "sekund"
+
+#. millions
+msgid "m"
+msgstr "m"
+
+msgid "Prompt on filename collision"
+msgstr "Monit o kolizji nazwy pliku"
+
+msgid "Overwrite"
+msgstr "Nadpisz"
+
+msgid "Overwrite all"
+msgstr "Nadpisz wszystkie"
+
+msgid "Skip"
+msgstr "Pomiń"
+
+msgid "Skip all"
+msgstr "Pomiń wszystkie"
+
+msgid "Keep both"
+msgstr "Zachowaj oba"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "Nadpisz wszystkie starsze pliki"
+
+msgid "Replace all smaller files"
+msgstr "Zastąp wszystkie mniejsze pliki"
+
+msgid "Replace all files if size different"
+msgstr "Zastąp wszystkie pliki, jeśli rozmiar jest inny"
+
+msgid "Rename all copied files"
+msgstr "Zmień nazwę wszystkich skopiowanych plików"
+
+msgid "Rename all target files"
+msgstr "Zmień nazwę wszystkich docelowych plików"
+
+msgid "Rename all older target files"
+msgstr "Zmień nazwę wszystkich starszych plików docelowych"
+
+#. replace dialog
+msgid "More"
+msgstr "Więcej"
+
+#. tooltips
+msgid "Select target path"
+msgstr "Wybierz ścieżkę docelową"
+
+msgid "Add files or folders"
+msgstr "Dodaj pliki lub foldery"
+
+msgid "Expanded view"
+msgstr "Widok rozszerzony"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "Usuń wszystkie pliki z listy"
+
+msgid "Read target files and compare checksums"
+msgstr "Odczytuj pliki docelowe i porównaj sumy kontrolne"
+
+msgid "Read source files and create checksums"
+msgstr "Odczytuj pliki źródłowe i twórz sumy kontrolne"
+
+msgid "Create a new list"
+msgstr "Utwórz nową listę"
+
+msgid "Transfers history"
+msgstr "Historia transferów"
+
+msgid "Running with administrator priviledges"
+msgstr "Uruchamianie z prawami administratora"
+
+msgid "Run as administrator"
+msgstr "Uruchom jako administrator"
+
+#. export dialog
+msgid "Print/export"
+msgstr "Drukowanie/eksportowanie"
+
+msgid "Preferences"
+msgstr "Ustawienia"
+
+msgid "About"
+msgstr "O programie"
+
+msgid "Order license"
+msgstr "Zamów licencję"
+
+msgid "Enter key"
+msgstr "Wprowadź klucz"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(wymaga to podwyższonych uprawnień)"
+
+msgid "Toggle row"
+msgstr "Przełącz wiersz"
+
+msgid "Create folders"
+msgstr "Utwórz foldery"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "Zachowaj atrybuty folderu (tylko do odczytu, archiwum...)"
+
+msgid "Keep folder timestamps"
+msgstr "Zachowaj znaczniki czasu folderu"
+
+msgid "Keep folder alternate data streams"
+msgstr "Zachowaj alternatywne strumienie danych folderu"
+
+msgid "Copy files"
+msgstr "Kopiuj pliki"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "Zachowaj atrybuty pliku (tylko do odczytu, archiwum...)"
+
+msgid "Keep file timestamps"
+msgstr "Zachowaj znaczniki czasu pliku"
+
+msgid "Keep file alternate data streams"
+msgstr "Zachowaj alternatywne strumienie danych pliku"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "Zachowaj listy ACL dla folderów"
+
+msgid "Keep owner information for folders"
+msgstr "Zachowaj informacje o właścicielu folderów"
+
+msgid "Keep audit information for folders"
+msgstr "Zachowaj informacje o audycie dla folderów"
+
+msgid "Keep ACLs for files"
+msgstr "Zachowaj listy ACL dla plików"
+
+msgid "Keep owner information for files"
+msgstr "Zachowaj informacje o właścicielu dla plików"
+
+msgid "Keep audit information for files"
+msgstr "Zachowaj informacje o audycie dla plików"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "Rozmiar bufora dla wszystkich operacji"
+
+msgid "Action to take on filename conflict"
+msgstr "Akcja do podjęcia podczas konfliktu nazw plików"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "Metoda obliczania sum kontrolnych podczas przesyłania lub testowania plików"
+
+msgid "Save the checksum file to the target folder"
+msgstr "Zapisz plik sumy kontrolnej do folderu docelowego"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "Zapisz plik sumy kontrolnej do folderu źródłowego"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "Przechowuj obliczoną sumę kontrolną w pliku za pomocą alternatywnych strumieni danych"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "Zatrzymać wszystkie operacje?"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "Zamknij program"
+
+msgid "Keep app open"
+msgstr "Zachowaj otwarte aplikacje"
+
+msgid "Shutdown"
+msgstr "Zamknij sys."
+
+msgid "Sleep"
+msgstr "Uśpij"
+
+msgid "Hibernate"
+msgstr "Hibernacja"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "Po zakończeniu: %s"
+
+msgid "Always On Top"
+msgstr "Zawsze na wierzchu"
+
+msgid "Shell integration"
+msgstr "Integracja z powłoką systemową"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "(włącza obsługę przeciągania i upuszczania plików oraz poleceń Kopiuj i Wklej w Eksploratorze)"
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Dodaj przyciski Kopiuj i Przenieś do paska narzędzi w Total Commander."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Jak dodać przyciski Kopiuj i Przenieś w Directory Opus?"
+
+msgid "Misc"
+msgstr "Inne"
+
+msgid "Interface"
+msgstr "Interfejs"
+
+msgid "Register Copy Handler"
+msgstr "Włącz integrację"
+
+msgid "Unregister Copy Handler"
+msgstr "Wyłącz integrację"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "Użyj TeraCopy jako domyślnego programu kopiowania"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "... tylko gdy Scroll Lock jest WYŁĄCZONY"
+
+msgid "Add to Explorer context menu"
+msgstr "Dodaj TeraCopy do menu kontekstowego Eksploratora"
+
+msgid "Play sound"
+msgstr "Odtwórz dźwięk"
+
+msgid "Check free space"
+msgstr "Sprawdzaj dostępne wolne miejsce"
+
+msgid "Always test after copy"
+msgstr "Zawsze weryfikuj po skopiowaniu"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Wyłącz asynchroniczny transfer plików"
+
+msgid "Use system write cache"
+msgstr "Użyj systemowej pamięci podręcznej zapisu"
+
+msgid "Confirm drag and drop"
+msgstr "Potwierdź przeciąganie i upuszczanie"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "Testuj pojedyncze pliki z sumą kontrolną w schowku"
+
+#. / file managers
+msgid "File managers"
+msgstr "Menedżery plików"
+
+msgid "Window"
+msgstr "Okno"
+
+msgid "Show notifications"
+msgstr "Pokaż powiadomienia"
+
+msgid "Automatic updates"
+msgstr "Automatyczne aktualizacje"
+
+msgid "Cancel"
+msgstr "Anuluj"
+
+#. Window mode
+msgid "Expanded"
+msgstr "Rozszerzony widok"
+
+msgid "Stacks"
+msgstr "Stosy"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Not registered for Commercial Use"
+msgstr "NIEZAREJESTROWANY do użytku komercyjnego"
+
+msgid "Free for Home Users"
+msgstr "DARMOWY dla użytkowników prywatnych"
+
+#. cancel timer
+msgid "Close"
+msgstr "Zamknij"
+
+msgid "Check for updates"
+msgstr "Sprawdź dostępność aktualizacji"
+
+#. history options
+msgid "Never keep history"
+msgstr "Nigdy nie zachowuj historii"
+
+msgid "Keep history for 1 day"
+msgstr "Zachowaj historię przez 1 dzień"
+
+msgid "Keep history for 1 week"
+msgstr "Zachowaj historię przez 1 tydzień"
+
+msgid "Keep history permanently"
+msgstr "Trzymaj historię na stałe"
+
+msgid "Clean history now"
+msgstr "Czyść historię teraz"
+
+msgid "Delete"
+msgstr "Usuń"
+
+#. date
+msgid "Created"
+msgstr "Utworzony"
+
+msgid "Unattended"
+msgstr "Bez nadzoru"
+
+msgid "Hash"
+msgstr "Sumy kontrolne"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "Plik źródłowy"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "Plik"
+
+msgid "Not calculated"
+msgstr "Nie obliczono"
+
+msgid "Modified"
+msgstr "Zmodyfikowany"
+
+msgid "File info"
+msgstr "Informacja o pliku"
+
+#. select
+msgid "This item"
+msgstr "Ta pozycja"
+
+#. space bar key
+msgid "Space"
+msgstr "Spacja"
+
+msgid "Inverse selection"
+msgstr "Odwróć zaznaczenie"
+
+#. select
+msgid "Same folder"
+msgstr "Identyczny folder"
+
+#. select
+msgid "Same extension"
+msgstr "Identyczne rozszrzenie"
+
+msgid "Deselect all"
+msgstr "Odznacz wszystko"
+
+msgid "Select"
+msgstr "Wybierz"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "Usuń zaznaczone"
+
+#. ignore
+msgid "Ignore"
+msgstr "Ignoruj"
+
+msgid "Extension"
+msgstr "Rozszerzenie"
+
+msgid "Select ignore list"
+msgstr "Wybierz listę ignorowanych"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "Dodaj do: %s"
+
+msgid "New file list"
+msgstr "Nowa lista plików"
+
+msgid "Close all panels"
+msgstr "Zamknij wszystkie panele"
+
+msgid "Add files"
+msgstr "Dodaj pliki"
+
+msgid "Add folders"
+msgstr "Dodaj foldery"
+
+msgid "Save checksums"
+msgstr "Zapisz sumy kontrolne"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "Kup wersję Pro"
+
+msgid "Export as"
+msgstr "Eksportuj jako:"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (z kolumnami)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (do importu Excel, itp)"
+
+msgid "Export only"
+msgstr "Tylko eksport"
+
+msgid "Reset list"
+msgstr "Resetuj listę"
+
+#. ignore always
+msgid "Empty"
+msgstr "Puste"
+
+#. always
+msgid "Edit"
+msgstr "Edytuj"
+
+msgid "Download"
+msgstr "Pobieranie"
+
+msgid "On every operation"
+msgstr "Przy każdej operacji"
+
+msgid "Browse"
+msgstr "Przeglądaj"
+
+msgid "Favorites & recent"
+msgstr "Ulubione i ostatnie"
+
+msgid "No open windows"
+msgstr "Brak otwartych okien"
+
+msgid "Checksum copied"
+msgstr "Suma kontrolna skopiowana"
+
+msgid "Copy"
+msgstr "Kopiuj"
+
+msgid "Move"
+msgstr "Przenieś"
+
+#. 3rd line
+msgid "Filter"
+msgstr "Filtr"
+
+msgid "Process files:"
+msgstr "Przetwarzaj pliki:"
+
+msgid "Start Now"
+msgstr "Rozpocznij"
+
+msgid "Adding files..."
+msgstr "Dodawanie plików..."
+
+msgid "Stop"
+msgstr "Zatrzymaj"
+
+msgid "Pause"
+msgstr "Wstrzymaj"
+
+msgid "Resume"
+msgstr "Wznów"
+
+msgid "Applying attributes and removing folders..."
+msgstr "Stosowanie atrybutów i usuwanie folderów..."
+
+msgid "Applying folder attributes..."
+msgstr "Zastosowanie atrybutów folderów..."
+
+#. result
+msgid "Result"
+msgstr "Wynik"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: ukończone"
+
+msgid "Next"
+msgstr "Następny"
+
+msgid "Verify"
+msgstr "Zweryfikuj"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Zachowaj sumę kontrolną"
+
+#. operation buttons
+msgid "Test"
+msgstr "Zweryfikuj"
+
+msgid "Opening via service:"
+msgstr "Otwarcie przez serwis"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "%s plik haszujący został zapisany"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "Brak sum kontrolnych, najpierw skopiuj lub testuj pliki."
+
+#. check sizes before
+msgid "No target file"
+msgstr "Brak pliku docelowego"
+
+msgid "Sizes mismatch"
+msgstr "Różne rozmiary"
+
+msgid "Hashes mismatch"
+msgstr "Niezgodność sum kontrolnych"
+
+msgid "Waiting for other transfers..."
+msgstr "Oczekiwanie na inne transfery ..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "Zresetować ukończone i przetworzyć wszystkie dodane pliki?"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "Wymagane jest więcej miejsca: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "Źródło jest takie same jak cel"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "Katalog docelowy to podkatalog katalogu źródłowego!"
+
+msgid "Destination File Already Exists"
+msgstr "Plik docelowy już istnieje"
+
+msgid "Open file"
+msgstr "Otwórz plik"
+
+msgid "Open folder"
+msgstr "Otwórz folder"
+
+msgid "Bigger"
+msgstr "Większy"
+
+msgid "Smaller"
+msgstr "Mniejszy"
+
+msgid "Same size"
+msgstr "Ten sam rozmiar"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "Pomiń wszystko w %d s"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Więcej opcji, dotyczy wszystkich plików"
+
+msgid "Older"
+msgstr "Starszy"
+
+msgid "Newer"
+msgstr "Nowszy"
+
+msgid "Same date"
+msgstr "Ta sama data"
+
+msgid "File is offline, waiting..."
+msgstr "Plik jest offline, czekaj..."
+
+msgid "Cancelled"
+msgstr "Anulowano"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "Plik jest ponownie dostępny, wznawianie transferu ..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "Dysk jest pełny, proszę zwolnić %s"
+
+msgid "File is too large for this file system"
+msgstr "Nie można utworzyć pliku o tym rozmiarze w tym systemie plików"
+
+msgid "Error reading file."
+msgstr "Błąd odczytu pliku."
+
+msgid "Error writing file."
+msgstr "Błąd zapisu pliku."
+
+msgid "File skipped"
+msgstr "Plik pominięty"
+
+msgid "Stopped"
+msgstr "Zatrzymano"
+
+msgid "Error creating folder."
+msgstr "Błąd tworzenia folderu."
+
+msgid "Edit in Notepad"
+msgstr "Edytuj w Notatniku"
+
+msgid "Remove from favorites"
+msgstr "Usuń z ulubionych"
+
+msgid "Add to favorites"
+msgstr "Dodaj do Ulubionych"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d element"
+msgstr[1] "%d elementy"
+msgstr[2] "%d elementów"
+msgstr[3] "%d elementów"
+
+msgid "Skip requested by user"
+msgstr "Pomiń żądanie użytkownika"
+
+msgid "Stop requested by user"
+msgstr "Zatrzymanie żądania przez użytkownika"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "Usunąć %d plik z dysku?"
+msgstr[1] "Usunąć %d pliki z dysku?"
+msgstr[2] "Usunąć %d plików z dysku?"
+msgstr[3] "Usunąć %d plików z dysku?"
+
+msgid "Move to Recycle Bin"
+msgstr "Przenieś do Kosza"
+
+msgid "Delete from disk"
+msgstr "Usuń z dysku"
+
+msgid "Wipe data"
+msgstr "Wyczyść dane"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "Wolniejszy, łatwy do odzyskania."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "Szybszy, trudny do odzyskania."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Bardzo wolne, jedno przejście z danymi losowymi, bezużyteczne dla dysków SSD."
+
+msgid "Delete ALL files in the list?"
+msgstr "Usunąć wszystkie pliki z listy?"
+
+msgid "Folder not found"
+msgstr "Nie znaleziono katalogu"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "%s haszów ze schowka pasuje: #10%s"
+
+msgid "Error opening file."
+msgstr "Błąd otwarcia pliku."
+
+msgid "Error deleting file."
+msgstr "Błąd usuwania pliku."
+
+msgid "Paused"
+msgstr "Wstrzymano"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "błędy: %d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "pominięto: %d"
+
+msgid "Append path"
+msgstr "Dołącz ścieżkę"
+
+msgid "File list is empty"
+msgstr "Lista plików jest pusta"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "Wolne miejsce: %s"
+
+msgid "Unavailable"
+msgstr "Niedostępne"
+
+msgid "Querying..."
+msgstr "Odpytywanie..."
+
+msgid "Drag files or folders here"
+msgstr "Przeciągnij pliki lub foldery tutaj"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "Brak elementów do wyświetlenia. Usuń filtry, aby zobaczyć wszystkie pliki."
+
+msgid "Verify files after transfer"
+msgstr "Zweryfikuj pliki po transferze"
+
+msgid "Save checksum file on finish"
+msgstr "Zapisz plik sum kontrolnych po zakończeniu"
+
+msgid "Auto-scroll"
+msgstr "Auto przewijanie"
+
+#. menu
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Shared options"
+msgstr "Opcje współdzielone"
+
+msgid "buffer size"
+msgstr "rozmiar bufora"
+
+#. captions
+msgid "Transfer"
+msgstr "Transfer"
+
+msgid "Transfer options"
+msgstr "Opcje transferu"
+
+msgid "Files & folders"
+msgstr "Pliki i foldery"
+
+msgid "Data"
+msgstr "Dane"
+
+msgid "Attributes"
+msgstr "Atrybuty"
+
+msgid "Timestamps"
+msgstr "Znaczniki czasu"
+
+msgid "Streams"
+msgstr "Strumienie"
+
+msgid "Security"
+msgstr "Bezpieczeństwo"
+
+msgid "ACL"
+msgstr "ACL"
+
+msgid "Owner"
+msgstr "Właściciel"
+
+msgid "Audit"
+msgstr "Audyt"
+
+msgid "Test options"
+msgstr "Opcje testowe"
+
+msgid "Store/verify checksum in ADS"
+msgstr "Zachowaj / sprawdź sumę kontrolną w alternatywnym strumieniu danych (ADS)"
+
+msgid "Save as default"
+msgstr "Zapisz jako domyślne"
+
+msgid "Reset to default"
+msgstr "Przywróć ustawienia domyślne"
+
+msgid "Done"
+msgstr "Gotowe"
+

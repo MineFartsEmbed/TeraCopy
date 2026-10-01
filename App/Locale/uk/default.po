@@ -1,0 +1,930 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-06-04 07:22\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+
+#. mode
+msgid "Copying"
+msgstr "Копіювання"
+
+msgid "Moving"
+msgstr "Переміщення"
+
+msgid "Testing"
+msgstr "Тестування"
+
+msgid "Verifying"
+msgstr "Перевірка"
+
+msgid "Deleting"
+msgstr "Видалення"
+
+#. results
+msgid "Added"
+msgstr "Додати"
+
+msgid "OK"
+msgstr "Гаразд"
+
+msgid "Verified"
+msgstr "Перевірено"
+
+msgid "Error"
+msgstr "Помилка"
+
+#. File list filter
+msgid "Skipped"
+msgstr "Пропущено"
+
+msgid "Deleted"
+msgstr "Видалено"
+
+msgid "Moved"
+msgstr "Переміщено"
+
+msgid "Absent"
+msgstr "Відсутні"
+
+#. File list filter
+msgid "Ignored"
+msgstr "Ігнорувати"
+
+msgid "File list"
+msgstr "Список файлів"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "Ціль"
+
+msgid "Options"
+msgstr "Параметри"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Log"
+msgstr "Журнал"
+
+#. File list filter
+msgid "All items"
+msgstr "Усі завдання"
+
+#. File list filter
+msgid "Successful"
+msgstr "Успішно"
+
+#. File list filter
+msgid "Failed"
+msgstr "Не вдалося"
+
+msgid "No files added"
+msgstr "Немає доданих файлів"
+
+msgid "No target"
+msgstr "Каталог не вказаний"
+
+#. foder
+msgid "Folder"
+msgstr "Папка"
+
+msgid "Category"
+msgstr "Категорія"
+
+msgid "Files"
+msgstr "Файли"
+
+msgid "Bytes"
+msgstr "Байт"
+
+msgid "Time"
+msgstr "Час"
+
+msgid "Total"
+msgstr "Загалом"
+
+#. bytes
+msgid "B"
+msgstr "Б"
+
+msgid "KB"
+msgstr "Кб"
+
+msgid "MB"
+msgstr "Мб"
+
+msgid "GB"
+msgstr "Гб"
+
+msgid "TB"
+msgstr "Тб"
+
+msgid "days"
+msgstr "днів"
+
+msgid "hours"
+msgstr "годин"
+
+#. minutes
+msgid "min"
+msgstr "хв"
+
+#. seconds
+msgid "s"
+msgstr "сек"
+
+#. millions
+msgid "m"
+msgstr "хв"
+
+msgid "Prompt on filename collision"
+msgstr "Запитувати про конфлікт імен файлів"
+
+msgid "Overwrite"
+msgstr "Замінити"
+
+msgid "Overwrite all"
+msgstr "Перезаписати все"
+
+msgid "Skip"
+msgstr "Пропустити"
+
+msgid "Skip all"
+msgstr "Пропустити все"
+
+msgid "Keep both"
+msgstr "Зберегти обидва"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "Перезаписати всі старі файли"
+
+msgid "Replace all smaller files"
+msgstr "Замінити файли меншого розміру"
+
+msgid "Replace all files if size different"
+msgstr "Замінити файли, якщо їх розмір відрізняється"
+
+msgid "Rename all copied files"
+msgstr "Перейменувати всі скопійовані фали"
+
+msgid "Rename all target files"
+msgstr "Перейменувати усі цільові фали"
+
+msgid "Rename all older target files"
+msgstr "Перейменуйте всі старі цільові файли"
+
+#. replace dialog
+msgid "More"
+msgstr "Більше"
+
+#. tooltips
+msgid "Select target path"
+msgstr "Виберіть цільовий шлях"
+
+msgid "Add files or folders"
+msgstr "Додайте файли або папки"
+
+msgid "Expanded view"
+msgstr "Розгорнутий вигляд"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "Видалити всі файли зі списку"
+
+msgid "Read target files and compare checksums"
+msgstr "Перевірити цільові файли та порівняти контрольні суми"
+
+msgid "Read source files and create checksums"
+msgstr "Перевірити вихідні файли та створити контрольні суми"
+
+msgid "Create a new list"
+msgstr "Створіть новий список"
+
+msgid "Transfers history"
+msgstr "Історія"
+
+msgid "Running with administrator priviledges"
+msgstr "Запуск з правами адміністратора"
+
+msgid "Run as administrator"
+msgstr "Запустити від імені адміністратора"
+
+#. export dialog
+msgid "Print/export"
+msgstr "Друк/експорт"
+
+msgid "Preferences"
+msgstr "Параметри"
+
+msgid "About"
+msgstr "Про програму"
+
+msgid "Order license"
+msgstr "Замовити ліцензію"
+
+msgid "Enter key"
+msgstr "Введіть ключ"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(це вимагає підвищених привілеїв)"
+
+msgid "Toggle row"
+msgstr "Перемикнути рядок"
+
+msgid "Create folders"
+msgstr "Створити тека"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "Зберігати атрибути теки (лише для читання, архів...)"
+
+msgid "Keep folder timestamps"
+msgstr "Зберігати часові мітки для тек"
+
+msgid "Keep folder alternate data streams"
+msgstr "Зберігати альтернативні потоки даних для тек"
+
+msgid "Copy files"
+msgstr "Копіювати фали"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "Зберегти атрибути файлів (лише для читання, архів...)"
+
+msgid "Keep file timestamps"
+msgstr "Зберігати часові мітки для тек"
+
+msgid "Keep file alternate data streams"
+msgstr "Зберігати альтернативні потоки даних для файлів"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "Зберегти ACL для тек"
+
+msgid "Keep owner information for folders"
+msgstr "Зберігати інформацію про власника тек"
+
+msgid "Keep audit information for folders"
+msgstr "Зберігайте інформацію аудиту для тек"
+
+msgid "Keep ACLs for files"
+msgstr "Зберегти ACL для файлів"
+
+msgid "Keep owner information for files"
+msgstr "Зберігати інформацію про власника файлів"
+
+msgid "Keep audit information for files"
+msgstr "Зберігати інформацію аудиту для файлів"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "Розмір буфера для всіх операцій"
+
+msgid "Action to take on filename conflict"
+msgstr "Дія при конфлікті імен файлу"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "Метод обчислення контрольних сум під час передачі або тестування файлів"
+
+msgid "Save the checksum file to the target folder"
+msgstr "Збережіть файл контрольної суми в цільовій теці"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "Збережіть файл контрольної суми у вихідній теці"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "Зберігайте обчислену контрольну суму у файлі за допомогою альтернативних потоків даних"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "Зупинити всі операції?"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "Закрити програму"
+
+msgid "Keep app open"
+msgstr "Не закривати"
+
+msgid "Shutdown"
+msgstr "Вимкнути"
+
+msgid "Sleep"
+msgstr "Режим сну"
+
+msgid "Hibernate"
+msgstr "Режим гібернації"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "По закінченні: %s"
+
+msgid "Always On Top"
+msgstr "Завжди поверх всіх вікон"
+
+msgid "Shell integration"
+msgstr "Інтеграція в систему"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Керуйте перетягуванням файлів за допомогою лівої кнопки миші, а також командами копіювання та вставки в Провіднику."
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Додати кнопки «Копіювати» та «Перемістити» на панель кнопок Total Commander за замовчуванням."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Інструкція по додаванню кнопок в Directory Opus."
+
+msgid "Misc"
+msgstr "Інше"
+
+msgid "Interface"
+msgstr "Інтерфейс"
+
+msgid "Register Copy Handler"
+msgstr "Зареєструвати"
+
+msgid "Unregister Copy Handler"
+msgstr "Скасувати реєстрацію"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "Використовувати TeraCopy за замовчуванням"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "Тільки тоді коли Scroll Lock вимкнений"
+
+msgid "Add to Explorer context menu"
+msgstr "Додати в контекстне меню Провідника"
+
+msgid "Play sound"
+msgstr "Відтворити звук"
+
+msgid "Check free space"
+msgstr "Перевірте вільне місце"
+
+msgid "Always test after copy"
+msgstr "Завжди тестувати після копіювання"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Вимкнути синхронну передачу файлів"
+
+msgid "Use system write cache"
+msgstr "Використовувати системний кеш запису"
+
+msgid "Confirm drag and drop"
+msgstr "Підтвердити перетягування"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "Перевіряти одинарні файли на збіг контрольної суми в буфері обміну"
+
+#. / file managers
+msgid "File managers"
+msgstr "Файловий менеджер"
+
+msgid "Window"
+msgstr "Вікно"
+
+msgid "Show notifications"
+msgstr "Показувати сповіщення"
+
+msgid "Automatic updates"
+msgstr "Автоматичне оновлення"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+#. Window mode
+msgid "Expanded"
+msgstr "Розгорнутий"
+
+msgid "Stacks"
+msgstr "Стос"
+
+msgid "Auto"
+msgstr "Авто"
+
+msgid "Not registered for Commercial Use"
+msgstr "Не для комерційного використання"
+
+msgid "Free for Home Users"
+msgstr "Безкоштовно для домашніх користувачів"
+
+#. cancel timer
+msgid "Close"
+msgstr "Закрити"
+
+msgid "Check for updates"
+msgstr "Перевірити наявність оновлень"
+
+#. history options
+msgid "Never keep history"
+msgstr "Ніколи не зберігати історію"
+
+msgid "Keep history for 1 day"
+msgstr "Зберігати історію протягом 1 дня"
+
+msgid "Keep history for 1 week"
+msgstr "Зберігати історію протягом 1 тижня"
+
+msgid "Keep history permanently"
+msgstr "Зберігати історію постійно"
+
+msgid "Clean history now"
+msgstr "Очистити історію"
+
+msgid "Delete"
+msgstr "Видалити"
+
+#. date
+msgid "Created"
+msgstr "Створений"
+
+msgid "Unattended"
+msgstr "Без нагляду"
+
+msgid "Hash"
+msgstr "Хеш"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "Джерело"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "Файл"
+
+msgid "Not calculated"
+msgstr "Не підраховано"
+
+msgid "Modified"
+msgstr "Змінено"
+
+msgid "File info"
+msgstr "Відомості про файл"
+
+#. select
+msgid "This item"
+msgstr "Цей елемент"
+
+#. space bar key
+msgid "Space"
+msgstr "Відступ"
+
+msgid "Inverse selection"
+msgstr "Інвертувати виділення"
+
+#. select
+msgid "Same folder"
+msgstr "Та ж папка"
+
+#. select
+msgid "Same extension"
+msgstr "Таке ж розширення"
+
+msgid "Deselect all"
+msgstr "Зняти всі виділення"
+
+msgid "Select"
+msgstr "Вибрати"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "Видалити вибране"
+
+#. ignore
+msgid "Ignore"
+msgstr "Ігнорувати"
+
+msgid "Extension"
+msgstr "Розширення"
+
+msgid "Select ignore list"
+msgstr "Виберіть ігнорований список"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "Додати до: %s"
+
+msgid "New file list"
+msgstr "Створити список"
+
+msgid "Close all panels"
+msgstr "Закрити всі панелі"
+
+msgid "Add files"
+msgstr "Додати файли"
+
+msgid "Add folders"
+msgstr "Додати теки"
+
+msgid "Save checksums"
+msgstr "Зберегти контрольні суми"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "Отримати Pro версію"
+
+msgid "Export as"
+msgstr "Експортувати як"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (з сортованими стовпцями)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (для імпорту в Excel, і т. д.)"
+
+msgid "Export only"
+msgstr "Експортувати тільки"
+
+msgid "Reset list"
+msgstr "Скинути список"
+
+#. ignore always
+msgid "Empty"
+msgstr "Порожньо"
+
+#. always
+msgid "Edit"
+msgstr "Редагувати"
+
+msgid "Download"
+msgstr "Звантажити"
+
+msgid "On every operation"
+msgstr "При кожній операції"
+
+msgid "Browse"
+msgstr "Огляд"
+
+msgid "Favorites & recent"
+msgstr "Вибране та історія"
+
+msgid "No open windows"
+msgstr "Немає відкритих вікон"
+
+msgid "Checksum copied"
+msgstr "Контрольна сума скопійована"
+
+msgid "Copy"
+msgstr "Копіювати"
+
+msgid "Move"
+msgstr "Перемістити"
+
+#. 3rd line
+msgid "Filter"
+msgstr "Фільтр"
+
+msgid "Process files:"
+msgstr "Опрацьовувати:"
+
+msgid "Start Now"
+msgstr "Запуск"
+
+msgid "Adding files..."
+msgstr "Додавання файлів..."
+
+msgid "Stop"
+msgstr "Зупинити"
+
+msgid "Pause"
+msgstr "Пауза"
+
+msgid "Resume"
+msgstr "Поновити"
+
+msgid "Applying attributes and removing folders..."
+msgstr "Застосування атрибутів і видалення папок..."
+
+msgid "Applying folder attributes..."
+msgstr "Застосувати атрибутів до тек..."
+
+#. result
+msgid "Result"
+msgstr "Результат"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: завершено"
+
+msgid "Next"
+msgstr "Далі"
+
+msgid "Verify"
+msgstr "Перевірити"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Зберегти хеш"
+
+#. operation buttons
+msgid "Test"
+msgstr "Тестування"
+
+msgid "Opening via service:"
+msgstr "Відкриття через сервіс:"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "%s хеш-файл збережено"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "Немає контрольних сум, будь ласка, спочатку скопіюйте або перевірте файли."
+
+#. check sizes before
+msgid "No target file"
+msgstr "Немає цільового файлу"
+
+msgid "Sizes mismatch"
+msgstr "Невідповідність розміру"
+
+msgid "Hashes mismatch"
+msgstr "Невідповідність хешів"
+
+msgid "Waiting for other transfers..."
+msgstr "Очікування завершення інших задач..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "Скинути завершені та опрацювати всі додані файли?"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "Необхідно більше місця: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "Вихідний файл збігається з цільовим"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "Тека призначення є підтекою вихідної теки!"
+
+msgid "Destination File Already Exists"
+msgstr "Файл призначення вже існує"
+
+msgid "Open file"
+msgstr "Відкрити файл"
+
+msgid "Open folder"
+msgstr "Відкрити теку"
+
+msgid "Bigger"
+msgstr "Більше"
+
+msgid "Smaller"
+msgstr "Менше"
+
+msgid "Same size"
+msgstr "Такий самий розмір"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "пропустити всі через %d s"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Додаткові параметри, застосовуються до всіх файлів"
+
+msgid "Older"
+msgstr "Старіші"
+
+msgid "Newer"
+msgstr "Новіші"
+
+msgid "Same date"
+msgstr "Така ж дата"
+
+msgid "File is offline, waiting..."
+msgstr "Файл в автономному режимі, очікуємо..."
+
+msgid "Cancelled"
+msgstr "Скасовано"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "Файл знову доступний, відновлення передачі..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "Диск переповнений, будь ласка, звільніть %s"
+
+msgid "File is too large for this file system"
+msgstr "Файл завеликий для цієї файлової системи"
+
+msgid "Error reading file."
+msgstr "Помилка читання файлу."
+
+msgid "Error writing file."
+msgstr "Помилка запису файлу."
+
+msgid "File skipped"
+msgstr "Файл пропущений"
+
+msgid "Stopped"
+msgstr "Зупинено"
+
+msgid "Error creating folder."
+msgstr "Помилка при створенні теки."
+
+msgid "Edit in Notepad"
+msgstr "Редагувати в Блокноті"
+
+msgid "Remove from favorites"
+msgstr "Видалити з обраного"
+
+msgid "Add to favorites"
+msgstr "Додати в обране"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d елемент"
+msgstr[1] "%d елемента"
+msgstr[2] "%d елементів"
+msgstr[3] "%d елементів"
+
+msgid "Skip requested by user"
+msgstr "Пропустити за запитом користувача"
+
+msgid "Stop requested by user"
+msgstr "Зупинити за запитом користувача"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "Видалити %d файл з диска?"
+msgstr[1] "Видалити %d файл з диска?"
+msgstr[2] "Видалити %d файлів з диска?"
+msgstr[3] "Видалити %d файлів з диска?"
+
+msgid "Move to Recycle Bin"
+msgstr "Перемістити до кошика"
+
+msgid "Delete from disk"
+msgstr "Видалити з диска"
+
+msgid "Wipe data"
+msgstr "Стерти дані"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "Повільніше, легко відновити."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "Швидше, важко відновити."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Дуже повільний, один проходження з випадковими даними, марний для Ssd."
+
+msgid "Delete ALL files in the list?"
+msgstr "Видалити всі файли в списку?"
+
+msgid "Folder not found"
+msgstr "Теку не знайдено"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "Збіг з хешем %s в буфері обміну: #10%s"
+
+msgid "Error opening file."
+msgstr "Помилка відкриття файлу."
+
+msgid "Error deleting file."
+msgstr "Помилка при видаленні файлу."
+
+msgid "Paused"
+msgstr "Призупинено"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "помилок: %d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "пропущено: %d"
+
+msgid "Append path"
+msgstr "Додати шлях"
+
+msgid "File list is empty"
+msgstr "Список файлів порожній"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "Вільне місце: %s"
+
+msgid "Unavailable"
+msgstr "Недоступно"
+
+msgid "Querying..."
+msgstr "Запит..."
+
+msgid "Drag files or folders here"
+msgstr "Перетягніть файли або теки сюди"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "Видаліть фільтри, щоб побачити всі файли."
+
+msgid "Verify files after transfer"
+msgstr "Перевірити файли після передачі"
+
+msgid "Save checksum file on finish"
+msgstr "Зберегти файл контрольної суми в кінці"
+
+msgid "Auto-scroll"
+msgstr "Автоматичне прокручування"
+
+#. menu
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Shared options"
+msgstr "Загальні налаштування"
+
+msgid "buffer size"
+msgstr "розмір буферу"
+
+#. captions
+msgid "Transfer"
+msgstr "Копіювання"
+
+msgid "Transfer options"
+msgstr "Параметри копіювання"
+
+msgid "Files & folders"
+msgstr "Файли та теки"
+
+msgid "Data"
+msgstr "Дані"
+
+msgid "Attributes"
+msgstr "Атрибути"
+
+msgid "Timestamps"
+msgstr "Часові мітки"
+
+msgid "Streams"
+msgstr "Потоки"
+
+msgid "Security"
+msgstr "Безпека"
+
+msgid "ACL"
+msgstr "ACL"
+
+msgid "Owner"
+msgstr "Власник"
+
+msgid "Audit"
+msgstr "Аудит"
+
+msgid "Test options"
+msgstr "Опції тестування"
+
+msgid "Store/verify checksum in ADS"
+msgstr "Зберігати/перевіряти контрольну суму в ADS"
+
+msgid "Save as default"
+msgstr "Зберегти за замовчуванням"
+
+msgid "Reset to default"
+msgstr "Значення за замовчуванням"
+
+msgid "Done"
+msgstr "Готово"
+

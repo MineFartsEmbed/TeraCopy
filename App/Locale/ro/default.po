@@ -1,0 +1,928 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-06-04 07:21\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+
+#. mode
+msgid "Copying"
+msgstr "Copiere"
+
+msgid "Moving"
+msgstr "Mutare"
+
+msgid "Testing"
+msgstr "Testare"
+
+msgid "Verifying"
+msgstr "Verificare"
+
+msgid "Deleting"
+msgstr "Ștergere"
+
+#. results
+msgid "Added"
+msgstr "Adăugat"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Verified"
+msgstr "Verificat"
+
+msgid "Error"
+msgstr "Eroare"
+
+#. File list filter
+msgid "Skipped"
+msgstr "Transferuri omise"
+
+msgid "Deleted"
+msgstr "Șters"
+
+msgid "Moved"
+msgstr "Mutat"
+
+msgid "Absent"
+msgstr "Absent"
+
+#. File list filter
+msgid "Ignored"
+msgstr "Ignorat"
+
+msgid "File list"
+msgstr "Lista de fişiere"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "Destinaţie"
+
+msgid "Options"
+msgstr "Optiuni"
+
+msgid "Status"
+msgstr "Stare"
+
+msgid "Log"
+msgstr "Notă"
+
+#. File list filter
+msgid "All items"
+msgstr "Toate obiectele"
+
+#. File list filter
+msgid "Successful"
+msgstr "Reuşit"
+
+#. File list filter
+msgid "Failed"
+msgstr "Transferuri eșuate"
+
+msgid "No files added"
+msgstr "Niciun fșier adăugat"
+
+msgid "No target"
+msgstr "Nicio destinație"
+
+#. foder
+msgid "Folder"
+msgstr "Folder"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Files"
+msgstr "Fișiere"
+
+msgid "Bytes"
+msgstr "Octeți"
+
+msgid "Time"
+msgstr "Timp"
+
+msgid "Total"
+msgstr "Total"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "zile"
+
+msgid "hours"
+msgstr "ore"
+
+#. minutes
+msgid "min"
+msgstr "min"
+
+#. seconds
+msgid "s"
+msgstr "s"
+
+#. millions
+msgid "m"
+msgstr "m"
+
+msgid "Prompt on filename collision"
+msgstr "Atenționează dacă există nume de fișiere similare"
+
+msgid "Overwrite"
+msgstr "Suprascrie"
+
+msgid "Overwrite all"
+msgstr "Suprascrie tot"
+
+msgid "Skip"
+msgstr "Omite"
+
+msgid "Skip all"
+msgstr "Omite tot"
+
+msgid "Keep both"
+msgstr "Păstrează ambele"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "Suprascrie toate fișierele vechi"
+
+msgid "Replace all smaller files"
+msgstr "Înlocuiește toate fișierele mai mici"
+
+msgid "Replace all files if size different"
+msgstr "Înlocuiește toate fișierele dacă mărimea diferă"
+
+msgid "Rename all copied files"
+msgstr "Redenumește toate fișierele copiate"
+
+msgid "Rename all target files"
+msgstr "Redenumește toate fișierele destinație"
+
+msgid "Rename all older target files"
+msgstr "Redenumește toate fișierele țintă mai vechi"
+
+#. replace dialog
+msgid "More"
+msgstr "Mai multe"
+
+#. tooltips
+msgid "Select target path"
+msgstr "Selectare cale destinație"
+
+msgid "Add files or folders"
+msgstr "Adăugare fișiere sau foldere"
+
+msgid "Expanded view"
+msgstr "Vizualizarea extinsă"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "Șterge toate fișierele din listă"
+
+msgid "Read target files and compare checksums"
+msgstr "Citește fișierele destinație și verifică suma de control"
+
+msgid "Read source files and create checksums"
+msgstr "Citește fișierele destinație și generează suma de control"
+
+msgid "Create a new list"
+msgstr "Creare listă nouă"
+
+msgid "Transfers history"
+msgstr "Istoric transfer"
+
+msgid "Running with administrator priviledges"
+msgstr "Rulare cu privilegii de administrator"
+
+msgid "Run as administrator"
+msgstr "Rulare ca administrator"
+
+#. export dialog
+msgid "Print/export"
+msgstr "Tipărește/exportă"
+
+msgid "Preferences"
+msgstr "Preferințe"
+
+msgid "About"
+msgstr "Despre"
+
+msgid "Order license"
+msgstr "Comandă licență"
+
+msgid "Enter key"
+msgstr "Introdu cheia de activare"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(necesită privilegii superioare)"
+
+msgid "Toggle row"
+msgstr "Inversare rând"
+
+msgid "Create folders"
+msgstr "Creare foldere"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "Păstrează atributele folderului (Doar citire, Arhivă...)"
+
+msgid "Keep folder timestamps"
+msgstr "Păstrează data folderului"
+
+msgid "Keep folder alternate data streams"
+msgstr "Păstrați fluxurile de date alternative pentru folder"
+
+msgid "Copy files"
+msgstr "Copiere fișiere"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "Păstrați atributele fișierelor (Doar citire, Arhivat...)"
+
+msgid "Keep file timestamps"
+msgstr "Păstrați marcajele de timp"
+
+msgid "Keep file alternate data streams"
+msgstr "Păstrați fluxurile de date alternative pentru fișier"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "Păstrează setările ACL pentru foldere"
+
+msgid "Keep owner information for folders"
+msgstr "Păstrați informațiile de proprietar pentru foldere"
+
+msgid "Keep audit information for folders"
+msgstr "Păstrați informațiile de audit pentru foldere"
+
+msgid "Keep ACLs for files"
+msgstr "Păstrați informațiile ACL pentru fișiere"
+
+msgid "Keep owner information for files"
+msgstr "Păstrați informațiile de proprietar pentru fișiere"
+
+msgid "Keep audit information for files"
+msgstr "Păstrați informațiile de audit pentru fișiere"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "Dimensiunea bufferului pentru toate operațiunile"
+
+msgid "Action to take on filename conflict"
+msgstr "Acțiunea de executat în caz de conflict de nume de fișier"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "Metoda de calcul a sumei de control în timpul transferului sau verificării fișierelor"
+
+msgid "Save the checksum file to the target folder"
+msgstr "Salvarea sumei de control în folderul destinație"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "Salvarea sumei de control în folderul sursă"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "Stocarea sumei de control calculate folosind Streamuri de Date Alternative"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "Opriți toate operațiunile?"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "Închide aplicația"
+
+msgid "Keep app open"
+msgstr "Păstrează aplicația deschisă"
+
+msgid "Shutdown"
+msgstr "Oprire"
+
+msgid "Sleep"
+msgstr "În așteptare"
+
+msgid "Hibernate"
+msgstr "Hibernare"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "La final: %s"
+
+msgid "Always On Top"
+msgstr "Mereu deasupra"
+
+msgid "Shell integration"
+msgstr "Integrare în Shell"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Manevrează fișierele cu drag and drop folosind butonul-stânga de la mouse ca și comenzile de copiere/lipire în Explorer."
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Adaugă butoanele Copiază și Mută la bara de butoane inițiale în Total Commander."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Citește cum să adaugi butoanele Copiază și Mută în Directory Opus."
+
+msgid "Misc"
+msgstr "Diverse"
+
+msgid "Interface"
+msgstr "Interfață"
+
+msgid "Register Copy Handler"
+msgstr "Înregistrare mod de copiere"
+
+msgid "Unregister Copy Handler"
+msgstr "Anulare mod de copiere"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "Folosiți TeraCopy ca utilitar implicit de copiere"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "Numai când modul Scroll Lock este dezactivat"
+
+msgid "Add to Explorer context menu"
+msgstr "Adăugare la meniul contextual Explorer"
+
+msgid "Play sound"
+msgstr "Redare sunet"
+
+msgid "Check free space"
+msgstr "Verifică spațiul liber"
+
+msgid "Always test after copy"
+msgstr "Verifică întotdeauna după copiere"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Dezactivare transfer asyncron"
+
+msgid "Use system write cache"
+msgstr "Utilizare cache sistem"
+
+msgid "Confirm drag and drop"
+msgstr "Confirmare operațiuni drag and drop"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "Testare fișier cu suma de control din Clipboard"
+
+#. / file managers
+msgid "File managers"
+msgstr "Manager de fișiere"
+
+msgid "Window"
+msgstr "Fereastră"
+
+msgid "Show notifications"
+msgstr "Afișare notificări"
+
+msgid "Automatic updates"
+msgstr "Actualizări automate"
+
+msgid "Cancel"
+msgstr "Anulează"
+
+#. Window mode
+msgid "Expanded"
+msgstr "Extins"
+
+msgid "Stacks"
+msgstr "Stive"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Not registered for Commercial Use"
+msgstr "Neînregistrat pentru uz comercial"
+
+msgid "Free for Home Users"
+msgstr "Gratuit pentru utilizatorii casnici"
+
+#. cancel timer
+msgid "Close"
+msgstr "Închide"
+
+msgid "Check for updates"
+msgstr "Căutare actualizări"
+
+#. history options
+msgid "Never keep history"
+msgstr "Fără păstrarea istoricului"
+
+msgid "Keep history for 1 day"
+msgstr "Păstrare istoric pentru 1 zi"
+
+msgid "Keep history for 1 week"
+msgstr "Păstrare istoric pentru 1 săptămână"
+
+msgid "Keep history permanently"
+msgstr "Păstrare permanentă istoric"
+
+msgid "Clean history now"
+msgstr "Ștergere imediată istoric"
+
+msgid "Delete"
+msgstr "Şterge"
+
+#. date
+msgid "Created"
+msgstr "Creat"
+
+msgid "Unattended"
+msgstr "Fără supraveghere"
+
+msgid "Hash"
+msgstr "Hash"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "Sursă"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "Fişier"
+
+msgid "Not calculated"
+msgstr "Necalculat"
+
+msgid "Modified"
+msgstr "Modificat"
+
+msgid "File info"
+msgstr "Informații despre fișier"
+
+#. select
+msgid "This item"
+msgstr "Acest element"
+
+#. space bar key
+msgid "Space"
+msgstr "Tasta Spațiu"
+
+msgid "Inverse selection"
+msgstr "Inversare selecție"
+
+#. select
+msgid "Same folder"
+msgstr "Același folder"
+
+#. select
+msgid "Same extension"
+msgstr "Aceeaşi extensie"
+
+msgid "Deselect all"
+msgstr "Deselectează tot"
+
+msgid "Select"
+msgstr "Selectează"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "Elimină elementele selectate"
+
+#. ignore
+msgid "Ignore"
+msgstr "Ignoră"
+
+msgid "Extension"
+msgstr "Extensie"
+
+msgid "Select ignore list"
+msgstr "Selectare listă de ignorare"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "Adăugare la: %s"
+
+msgid "New file list"
+msgstr "Lista nouă de fișiere"
+
+msgid "Close all panels"
+msgstr "Închide toate panourile"
+
+msgid "Add files"
+msgstr "Adăugare fișiere"
+
+msgid "Add folders"
+msgstr "Adaugare foldere"
+
+msgid "Save checksums"
+msgstr "Salvare sumă de control"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "Obţineţi versiunea Pro"
+
+msgid "Export as"
+msgstr "Exportă ca"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (coloane sortabile)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (pentru import în Excel)"
+
+msgid "Export only"
+msgstr "Exportă doar"
+
+msgid "Reset list"
+msgstr "Resetare listă"
+
+#. ignore always
+msgid "Empty"
+msgstr "Golire"
+
+#. always
+msgid "Edit"
+msgstr "Editare"
+
+msgid "Download"
+msgstr "Descărcare"
+
+msgid "On every operation"
+msgstr "La fiecare operațiune"
+
+msgid "Browse"
+msgstr "Navigare"
+
+msgid "Favorites & recent"
+msgstr "Favorite & recente"
+
+msgid "No open windows"
+msgstr "Nicio fereastră deschisă"
+
+msgid "Checksum copied"
+msgstr "Sumă de control copiată"
+
+msgid "Copy"
+msgstr "Copiere"
+
+msgid "Move"
+msgstr "Mutare"
+
+#. 3rd line
+msgid "Filter"
+msgstr "Filtru"
+
+msgid "Process files:"
+msgstr "Procesare fișiere:"
+
+msgid "Start Now"
+msgstr "Porneşte acum"
+
+msgid "Adding files..."
+msgstr "Adăugare fișiere..."
+
+msgid "Stop"
+msgstr "Oprire"
+
+msgid "Pause"
+msgstr "Pauză"
+
+msgid "Resume"
+msgstr "Reluare"
+
+msgid "Applying attributes and removing folders..."
+msgstr "Aplicare atribute și eliminare foldere..."
+
+msgid "Applying folder attributes..."
+msgstr "Aplicare atribute foldere..."
+
+#. result
+msgid "Result"
+msgstr "Rezultat"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: complet"
+
+msgid "Next"
+msgstr "Următorul"
+
+msgid "Verify"
+msgstr "Verificare"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Salvare sumă Hash"
+
+#. operation buttons
+msgid "Test"
+msgstr "Verifică"
+
+msgid "Opening via service:"
+msgstr "Deschide via: "
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "%s sumă hash salvată"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "Sumă de control indisponibilă, copiați sau verificați un fișier mai întâi."
+
+#. check sizes before
+msgid "No target file"
+msgstr "Niciun fișier destinație"
+
+msgid "Sizes mismatch"
+msgstr "Dimensiuni diferite"
+
+msgid "Hashes mismatch"
+msgstr "Sume de control diferite"
+
+msgid "Waiting for other transfers..."
+msgstr "Se așteaptă finalizarea altor transferuri..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "Resetare completă și procesarea tuturor fișierelor adăugate?"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "Este nevoie de mai mult spațiu: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "Sursa este identică cu destinația"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "Folderul destinație este un subfolder al folderului sursă!"
+
+msgid "Destination File Already Exists"
+msgstr "Fișierul edstinație există deja"
+
+msgid "Open file"
+msgstr "Deschidere fișier"
+
+msgid "Open folder"
+msgstr "Deschidere folder"
+
+msgid "Bigger"
+msgstr "Mai mare"
+
+msgid "Smaller"
+msgstr "Mai mic"
+
+msgid "Same size"
+msgstr "Aceeași dimensiune"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "Sări peste toate în %d s"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Mai multe opțiuni, aplicabile tuturor fișierelor"
+
+msgid "Older"
+msgstr "Mai vechi"
+
+msgid "Newer"
+msgstr "Mai nou"
+
+msgid "Same date"
+msgstr "Aceeași dată"
+
+msgid "File is offline, waiting..."
+msgstr "Fișier indisponibil, aștept..."
+
+msgid "Cancelled"
+msgstr "Anulat"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "Fișierul e disponibil din nou, se reia transferul..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "Discul este plin, eliberați măcar %s"
+
+msgid "File is too large for this file system"
+msgstr "Fișierul este prea mare pentru acest sistem de fișiere"
+
+msgid "Error reading file."
+msgstr "Eroare citire fișier."
+
+msgid "Error writing file."
+msgstr "Eroare scriere fișier."
+
+msgid "File skipped"
+msgstr "Fișier omis"
+
+msgid "Stopped"
+msgstr "Oprit"
+
+msgid "Error creating folder."
+msgstr "Eroare creare folder."
+
+msgid "Edit in Notepad"
+msgstr "Editare în Notepad"
+
+msgid "Remove from favorites"
+msgstr "Eliminare din favorite"
+
+msgid "Add to favorites"
+msgstr "Adăugare la favorite"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d element"
+msgstr[1] ""
+msgstr[2] "%d elemente"
+
+msgid "Skip requested by user"
+msgstr "Omitere solicitată de utilizator"
+
+msgid "Stop requested by user"
+msgstr "Oprire solicitată de utilizator"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] "Ștergeți %d fișiere de pe disc?"
+
+msgid "Move to Recycle Bin"
+msgstr "Mutare în Recycle Bin"
+
+msgid "Delete from disk"
+msgstr "Ștergere de pe disc"
+
+msgid "Wipe data"
+msgstr "Ștergere definitivă date"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "Mai încet, ușor de recuperat."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "Rapid, greu de recuperat."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Foarte încet, un pas cu date aleatorii, util în cazul discurilor SSD."
+
+msgid "Delete ALL files in the list?"
+msgstr "Ștergeți TOATE fișierele din listă?"
+
+msgid "Folder not found"
+msgstr "Folder negăsit"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "potrivire %s hash în Clipboard: #10%s"
+
+msgid "Error opening file."
+msgstr "Eroare deschidere fișier."
+
+msgid "Error deleting file."
+msgstr "Eroare ștergere fișier."
+
+msgid "Paused"
+msgstr "Oprit temporar"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "eroare: %d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "omise: %d"
+
+msgid "Append path"
+msgstr "Calea de adăugare"
+
+msgid "File list is empty"
+msgstr "Lista de fișiere este goală"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "Spațiu liber: %s"
+
+msgid "Unavailable"
+msgstr "Indisponibil"
+
+msgid "Querying..."
+msgstr "Interogare..."
+
+msgid "Drag files or folders here"
+msgstr "Trageți aici, cu drag & drop, fișierele și folderele de transferat"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "Niciun element de afișat. Eliminați filtrele pentru a vizualiza toate fișierele."
+
+msgid "Verify files after transfer"
+msgstr "Verificare fișiere după transfer"
+
+msgid "Save checksum file on finish"
+msgstr "Salvare sumă de control la final"
+
+msgid "Auto-scroll"
+msgstr "Scrol automat"
+
+#. menu
+msgid "Menu"
+msgstr "Meniu"
+
+msgid "Shared options"
+msgstr "Opțiuni comune"
+
+msgid "buffer size"
+msgstr "dimensiune buffer"
+
+#. captions
+msgid "Transfer"
+msgstr "Transferă"
+
+msgid "Transfer options"
+msgstr "Opțiuni transfer"
+
+msgid "Files & folders"
+msgstr "Fișiere & foldere"
+
+msgid "Data"
+msgstr "Date"
+
+msgid "Attributes"
+msgstr "Atribute"
+
+msgid "Timestamps"
+msgstr "Marcaj de timp"
+
+msgid "Streams"
+msgstr "Fluxuri"
+
+msgid "Security"
+msgstr "Securitate"
+
+msgid "ACL"
+msgstr "ACL"
+
+msgid "Owner"
+msgstr "Proprietar"
+
+msgid "Audit"
+msgstr "Audit"
+
+msgid "Test options"
+msgstr "Opțiuni de test"
+
+msgid "Store/verify checksum in ADS"
+msgstr "Stocare/verificare sumă de control în ADS"
+
+msgid "Save as default"
+msgstr "Salvare ca implicit"
+
+msgid "Reset to default"
+msgstr "Resetare la valorile implicite"
+
+msgid "Done"
+msgstr "Gata"
+

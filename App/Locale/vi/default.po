@@ -1,0 +1,924 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-12-28 05:44\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: vi\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Vietnamese\n"
+"Language: vi_VN\n"
+
+#. mode
+msgid "Copying"
+msgstr "Đang chép"
+
+msgid "Moving"
+msgstr "Đang di chuyển"
+
+msgid "Testing"
+msgstr "Đang kiểm tra"
+
+msgid "Verifying"
+msgstr "Đang xác nhận"
+
+msgid "Deleting"
+msgstr "Đang xóa"
+
+#. results
+msgid "Added"
+msgstr "Đã thêm"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Verified"
+msgstr "Đã xác nhận"
+
+msgid "Error"
+msgstr "Lỗi"
+
+#. File list filter
+msgid "Skipped"
+msgstr "Đã bỏ qua"
+
+msgid "Deleted"
+msgstr "Xóa"
+
+msgid "Moved"
+msgstr "Đã di chuyển"
+
+msgid "Absent"
+msgstr "Không thấy"
+
+#. File list filter
+msgid "Ignored"
+msgstr "Đã bỏ qua"
+
+msgid "File list"
+msgstr "Danh sách tập tin"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "Đích"
+
+msgid "Options"
+msgstr "Tùy chọn"
+
+msgid "Status"
+msgstr "Trạng thái"
+
+msgid "Log"
+msgstr "Bản ghi"
+
+#. File list filter
+msgid "All items"
+msgstr "Tất cả các tập tin"
+
+#. File list filter
+msgid "Successful"
+msgstr "Thành công"
+
+#. File list filter
+msgid "Failed"
+msgstr "Không thành công"
+
+msgid "No files added"
+msgstr "Không có file nào được thêm"
+
+msgid "No target"
+msgstr "Không có đích đến"
+
+#. foder
+msgid "Folder"
+msgstr "Thư mục"
+
+msgid "Category"
+msgstr "Danh mục"
+
+msgid "Files"
+msgstr "Tập tin"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "Time"
+msgstr "Thời gian"
+
+msgid "Total"
+msgstr "Tổng cộng"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "ngày"
+
+msgid "hours"
+msgstr "giờ"
+
+#. minutes
+msgid "min"
+msgstr "phút"
+
+#. seconds
+msgid "s"
+msgstr "giây"
+
+#. millions
+msgid "m"
+msgstr "m"
+
+msgid "Prompt on filename collision"
+msgstr "Thông báo khi trùng tên tệp"
+
+msgid "Overwrite"
+msgstr "Ghi đè"
+
+msgid "Overwrite all"
+msgstr "Ghi đè tất cả"
+
+msgid "Skip"
+msgstr "Bỏ qua"
+
+msgid "Skip all"
+msgstr "Bỏ qua tất cả"
+
+msgid "Keep both"
+msgstr "Giữ cả hai"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "Ghi đè tất cả tập tin cũ"
+
+msgid "Replace all smaller files"
+msgstr "Thay thế tất cả tập tin nhỏ hơn"
+
+msgid "Replace all files if size different"
+msgstr "Thay thế tất cả tập tin nếu kích thước khác nhau"
+
+msgid "Rename all copied files"
+msgstr "Đổi tên tất cả"
+
+msgid "Rename all target files"
+msgstr "Đổi tên tất cả các tệp đích"
+
+msgid "Rename all older target files"
+msgstr "Đổi tên tất cả các tệp đích cũ hơn"
+
+#. replace dialog
+msgid "More"
+msgstr "Mở rộng"
+
+#. tooltips
+msgid "Select target path"
+msgstr "Chọn đường dẫn đích"
+
+msgid "Add files or folders"
+msgstr "Thêm tệp hoặc thư mục"
+
+msgid "Expanded view"
+msgstr "Bảng điều khiển mở rộng"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "Xóa tất cả các tệp trong danh sách"
+
+msgid "Read target files and compare checksums"
+msgstr "Kiểm tra các tệp đích và so sánh checksums"
+
+msgid "Read source files and create checksums"
+msgstr "Kiểm tra các tệp gốc và tạo checksums"
+
+msgid "Create a new list"
+msgstr "Tạo danh sách mới"
+
+msgid "Transfers history"
+msgstr "Lịch sử di chuyển"
+
+msgid "Running with administrator priviledges"
+msgstr "Chạy dưới quyền quản trị viên"
+
+msgid "Run as administrator"
+msgstr "Chạy với quyền quản trị"
+
+#. export dialog
+msgid "Print/export"
+msgstr "In / Xuất"
+
+msgid "Preferences"
+msgstr "Cấu hình"
+
+msgid "About"
+msgstr "Giới thiệu"
+
+msgid "Order license"
+msgstr "Mua bản quyền"
+
+msgid "Enter key"
+msgstr "Điền mã"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(yêu cầu quyền cao cấp)"
+
+msgid "Toggle row"
+msgstr "Chuyển đổi hàng"
+
+msgid "Create folders"
+msgstr "Tạo thư mục"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "Giữ đặc tính thư mục (Chỉ đọc, Nén...)"
+
+msgid "Keep folder timestamps"
+msgstr "Giữ dấu thời gian của thư mục"
+
+msgid "Keep folder alternate data streams"
+msgstr ""
+
+msgid "Copy files"
+msgstr "Sao chép tập tin"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "Giữ đặc tính tệp tin (Chỉ đọc, Nén...)"
+
+msgid "Keep file timestamps"
+msgstr "Giữ dấu thời gian của tệp tin"
+
+msgid "Keep file alternate data streams"
+msgstr ""
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr ""
+
+msgid "Keep owner information for folders"
+msgstr "Giữ thông tin chủ quyền của thư mục"
+
+msgid "Keep audit information for folders"
+msgstr ""
+
+msgid "Keep ACLs for files"
+msgstr ""
+
+msgid "Keep owner information for files"
+msgstr "Giữ thông tin chủ quyền của tệp tin"
+
+msgid "Keep audit information for files"
+msgstr ""
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "Dung lượng bộ đệm cho các hành động"
+
+msgid "Action to take on filename conflict"
+msgstr "Hành động với tên tệp trùng lặp"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr ""
+
+msgid "Save the checksum file to the target folder"
+msgstr ""
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr ""
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr ""
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "Dừng tất cả các hành động?"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "Đóng"
+
+msgid "Keep app open"
+msgstr "Giữ ứng dụng mở"
+
+msgid "Shutdown"
+msgstr "Tắt"
+
+msgid "Sleep"
+msgstr "Ngủ"
+
+msgid "Hibernate"
+msgstr "Ngủ đông"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "Khi xong việc: %s"
+
+msgid "Always On Top"
+msgstr "Luôn xuất hiện ở trên các ứng dụng khác"
+
+msgid "Shell integration"
+msgstr "Tích hợp danh sách chuột phải"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Quản lý việc sao chép bằng cách kéo và thả tập tin bằng nút chuột trái cũng như các lệnh sao chép trong Explorer"
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Thêm các nút Sao Chép và Di Chuyển vào thanh công cụ của Total Commander"
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Đọc hướng dẫn cách thêm các nút Sao Chép và Di Chuyển vào Directory Opus"
+
+msgid "Misc"
+msgstr "Linh tinh"
+
+msgid "Interface"
+msgstr "Giao diện"
+
+msgid "Register Copy Handler"
+msgstr "Đăng ký quản lý sao chép"
+
+msgid "Unregister Copy Handler"
+msgstr "Bỏ đăng ký quản lý sao chép"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "Sử dụng TeraCopy làm công cụ sao chép mặc định"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "Chỉ khi đèn Scroll Lock đang TẮT"
+
+msgid "Add to Explorer context menu"
+msgstr "Thêm vào trình đơn ngữ cảnh của Explorer"
+
+msgid "Play sound"
+msgstr "Phát âm thanh"
+
+msgid "Check free space"
+msgstr "Kiểm tra ổ đĩa trống"
+
+msgid "Always test after copy"
+msgstr "Luôn kiểm tra sau khi sao chép"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Tắt di chuyển bất đồng bộ"
+
+msgid "Use system write cache"
+msgstr "Sử dụng bộ đệm ghi của hệ thống"
+
+msgid "Confirm drag and drop"
+msgstr "Xác nhận kéo và thả"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr ""
+
+#. / file managers
+msgid "File managers"
+msgstr "Trình quản lý tệp"
+
+msgid "Window"
+msgstr "Cửa sổ"
+
+msgid "Show notifications"
+msgstr "Hiển thị thông báo"
+
+msgid "Automatic updates"
+msgstr "Tự động cập nhật"
+
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#. Window mode
+msgid "Expanded"
+msgstr "Mở rộng ra"
+
+msgid "Stacks"
+msgstr ""
+
+msgid "Auto"
+msgstr "Tự động"
+
+msgid "Not registered for Commercial Use"
+msgstr "Chưa đăng ký sử dụng cho mục đích Thương Mại"
+
+msgid "Free for Home Users"
+msgstr "Miễn phí cho người dùng Gia Đình"
+
+#. cancel timer
+msgid "Close"
+msgstr "Đóng"
+
+msgid "Check for updates"
+msgstr "Kiểm tra bản cập nhật"
+
+#. history options
+msgid "Never keep history"
+msgstr "Không giữ lịch sử"
+
+msgid "Keep history for 1 day"
+msgstr "Giữ lịch sử trong 1 ngày"
+
+msgid "Keep history for 1 week"
+msgstr "Giữ lịch sử trong 1 tuần"
+
+msgid "Keep history permanently"
+msgstr "Giữ vĩnh viễn lịch sử"
+
+msgid "Clean history now"
+msgstr "Xoá lịch sử ngay"
+
+msgid "Delete"
+msgstr "Xóa"
+
+#. date
+msgid "Created"
+msgstr "Đã tạo"
+
+msgid "Unattended"
+msgstr "Không giám sát"
+
+msgid "Hash"
+msgstr "Mã Hash"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "Nguồn"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "Tập tin"
+
+msgid "Not calculated"
+msgstr "Chưa tính toán"
+
+msgid "Modified"
+msgstr "Đã sửa đổi"
+
+msgid "File info"
+msgstr "Thông tin tệp"
+
+#. select
+msgid "This item"
+msgstr "Đối tượng này"
+
+#. space bar key
+msgid "Space"
+msgstr "Khoảng cách"
+
+msgid "Inverse selection"
+msgstr "Chọn ngược lại"
+
+#. select
+msgid "Same folder"
+msgstr "Cùng thư mục"
+
+#. select
+msgid "Same extension"
+msgstr "Cùng kiểu mở rộng"
+
+msgid "Deselect all"
+msgstr "Bỏ chọn tất cả"
+
+msgid "Select"
+msgstr "Chọn"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "Bỏ đi phần đã chọn"
+
+#. ignore
+msgid "Ignore"
+msgstr "Bỏ qua"
+
+msgid "Extension"
+msgstr ""
+
+msgid "Select ignore list"
+msgstr "Chọn danh sách bỏ qua"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "Thêm vào: %s"
+
+msgid "New file list"
+msgstr "Danh sách mới"
+
+msgid "Close all panels"
+msgstr "Đóng"
+
+msgid "Add files"
+msgstr "Thêm tệp"
+
+msgid "Add folders"
+msgstr "Thêm thư mục"
+
+msgid "Save checksums"
+msgstr ""
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "Mua phiên bản Pro"
+
+msgid "Export as"
+msgstr "Xuất dưới định dạng"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (với các cột có thể sắp xếp)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (để nhập trong Excel, v.v.)"
+
+msgid "Export only"
+msgstr "Chỉ xuất"
+
+msgid "Reset list"
+msgstr "Danh sách làm lại"
+
+#. ignore always
+msgid "Empty"
+msgstr "Trống"
+
+#. always
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+msgid "Download"
+msgstr "Tải về"
+
+msgid "On every operation"
+msgstr "Trong mọi hệ điều hành"
+
+msgid "Browse"
+msgstr "Chọn thư mục"
+
+msgid "Favorites & recent"
+msgstr "Yêu thích và gần đây"
+
+msgid "No open windows"
+msgstr ""
+
+msgid "Checksum copied"
+msgstr "Đã sao chép kết quả kiểm tra"
+
+msgid "Copy"
+msgstr "Sao chép"
+
+msgid "Move"
+msgstr "Di chuyển"
+
+#. 3rd line
+msgid "Filter"
+msgstr "Bộ lọc"
+
+msgid "Process files:"
+msgstr "Xử lý các tệp:"
+
+msgid "Start Now"
+msgstr "Bắt đầu ngay"
+
+msgid "Adding files..."
+msgstr "Đang thêm tệp..."
+
+msgid "Stop"
+msgstr "Dừng"
+
+msgid "Pause"
+msgstr "Tạm dừng"
+
+msgid "Resume"
+msgstr "Tiếp tục"
+
+msgid "Applying attributes and removing folders..."
+msgstr "Áp dụng các thuộc tính và xóa các thư mục ..."
+
+msgid "Applying folder attributes..."
+msgstr "Áp dụng thuộc tính vào thư mục"
+
+#. result
+msgid "Result"
+msgstr "Kết quả"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: đã hoàn thành"
+
+msgid "Next"
+msgstr "Kế tiếp"
+
+msgid "Verify"
+msgstr "Kiểm tra"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Lưu mã Hash"
+
+#. operation buttons
+msgid "Test"
+msgstr "Kiểm tra"
+
+msgid "Opening via service:"
+msgstr ""
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr ""
+
+msgid "No checksums are available, please copy or test files first."
+msgstr ""
+
+#. check sizes before
+msgid "No target file"
+msgstr ""
+
+msgid "Sizes mismatch"
+msgstr "Dung lượng tập tin không khớp nhau"
+
+msgid "Hashes mismatch"
+msgstr "Hàm băm không khớp"
+
+msgid "Waiting for other transfers..."
+msgstr ""
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr ""
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "Cần thêm dung lượng: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr ""
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr ""
+
+msgid "Destination File Already Exists"
+msgstr "Tệp đã tồn tại"
+
+msgid "Open file"
+msgstr "Mở tệp"
+
+msgid "Open folder"
+msgstr "Mở thư mục"
+
+msgid "Bigger"
+msgstr "Lớn hơn"
+
+msgid "Smaller"
+msgstr "Nhỏ hơn"
+
+msgid "Same size"
+msgstr "Cùng kích thước"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr ""
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr ""
+
+msgid "Older"
+msgstr "Cũ hơn"
+
+msgid "Newer"
+msgstr "Mới hơn"
+
+msgid "Same date"
+msgstr "Cùng ngày"
+
+msgid "File is offline, waiting..."
+msgstr ""
+
+msgid "Cancelled"
+msgstr "Đã huỷ"
+
+msgid "The file is available again, resuming transfer..."
+msgstr ""
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr ""
+
+msgid "File is too large for this file system"
+msgstr ""
+
+msgid "Error reading file."
+msgstr ""
+
+msgid "Error writing file."
+msgstr ""
+
+msgid "File skipped"
+msgstr "Tệp bị bỏ qua"
+
+msgid "Stopped"
+msgstr "Đã dừng"
+
+msgid "Error creating folder."
+msgstr ""
+
+msgid "Edit in Notepad"
+msgstr ""
+
+msgid "Remove from favorites"
+msgstr ""
+
+msgid "Add to favorites"
+msgstr ""
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+
+msgid "Skip requested by user"
+msgstr "Bỏ qua do người dùng yêu cầu"
+
+msgid "Stop requested by user"
+msgstr "Ngừng do người dùng yêu cầu"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] ""
+
+msgid "Move to Recycle Bin"
+msgstr "Chuyển đến thùng rác"
+
+msgid "Delete from disk"
+msgstr "Xoá khỏi đĩa cứng"
+
+msgid "Wipe data"
+msgstr ""
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr ""
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr ""
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr ""
+
+msgid "Delete ALL files in the list?"
+msgstr "Xóa TẤT CẢ các tệp trong danh sách?"
+
+msgid "Folder not found"
+msgstr ""
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr ""
+
+msgid "Error opening file."
+msgstr ""
+
+msgid "Error deleting file."
+msgstr ""
+
+msgid "Paused"
+msgstr "Đã dừng lại"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr ""
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr ""
+
+msgid "Append path"
+msgstr ""
+
+msgid "File list is empty"
+msgstr ""
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr ""
+
+msgid "Unavailable"
+msgstr ""
+
+msgid "Querying..."
+msgstr ""
+
+msgid "Drag files or folders here"
+msgstr "Kéo tệp hoặc thư mục vào đây"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr ""
+
+msgid "Verify files after transfer"
+msgstr ""
+
+msgid "Save checksum file on finish"
+msgstr ""
+
+msgid "Auto-scroll"
+msgstr "Tự động cuộn"
+
+#. menu
+msgid "Menu"
+msgstr "Trình đơn"
+
+msgid "Shared options"
+msgstr ""
+
+msgid "buffer size"
+msgstr ""
+
+#. captions
+msgid "Transfer"
+msgstr ""
+
+msgid "Transfer options"
+msgstr ""
+
+msgid "Files & folders"
+msgstr ""
+
+msgid "Data"
+msgstr "Dữ liệu"
+
+msgid "Attributes"
+msgstr ""
+
+msgid "Timestamps"
+msgstr ""
+
+msgid "Streams"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "ACL"
+msgstr ""
+
+msgid "Owner"
+msgstr ""
+
+msgid "Audit"
+msgstr ""
+
+msgid "Test options"
+msgstr "Tùy chọn kiểm tra"
+
+msgid "Store/verify checksum in ADS"
+msgstr ""
+
+msgid "Save as default"
+msgstr "Lưu thành mặc định"
+
+msgid "Reset to default"
+msgstr "Khôi phục về mặc định"
+
+msgid "Done"
+msgstr "Xong"
+

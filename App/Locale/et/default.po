@@ -1,0 +1,926 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2023-11-19 07:45\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: et\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Estonian\n"
+"Language: et_EE\n"
+
+#. mode
+msgid "Copying"
+msgstr "Kopeeritakse"
+
+msgid "Moving"
+msgstr "Teisaldatakse"
+
+msgid "Testing"
+msgstr "Testimine"
+
+msgid "Verifying"
+msgstr "Kontrollitakse"
+
+msgid "Deleting"
+msgstr "Kustutatakse"
+
+#. results
+msgid "Added"
+msgstr "Lisatud"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Verified"
+msgstr "Kontrollitud"
+
+msgid "Error"
+msgstr "Viga"
+
+#. File list filter
+msgid "Skipped"
+msgstr "Jäetud vahele"
+
+msgid "Deleted"
+msgstr "Kustutatud"
+
+msgid "Moved"
+msgstr "Teisaldatud"
+
+msgid "Absent"
+msgstr "Puudu"
+
+#. File list filter
+msgid "Ignored"
+msgstr "Ingnoreeritud"
+
+msgid "File list"
+msgstr "Faili nimekiri"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr ""
+
+msgid "Options"
+msgstr "Valikud"
+
+msgid "Status"
+msgstr "Olek"
+
+msgid "Log"
+msgstr "Logi"
+
+#. File list filter
+msgid "All items"
+msgstr "Kõik üksused"
+
+#. File list filter
+msgid "Successful"
+msgstr "Edukas"
+
+#. File list filter
+msgid "Failed"
+msgstr "Nurjus"
+
+msgid "No files added"
+msgstr "Pole lisatud ühtegi faili"
+
+msgid "No target"
+msgstr ""
+
+#. foder
+msgid "Folder"
+msgstr "Kaust"
+
+msgid "Category"
+msgstr "Kategooria"
+
+msgid "Files"
+msgstr "Failid"
+
+msgid "Bytes"
+msgstr "Baitid"
+
+msgid "Time"
+msgstr "Aeg"
+
+msgid "Total"
+msgstr "Kokku"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "päeva"
+
+msgid "hours"
+msgstr "tundi"
+
+#. minutes
+msgid "min"
+msgstr "min"
+
+#. seconds
+msgid "s"
+msgstr "s"
+
+#. millions
+msgid "m"
+msgstr "m"
+
+msgid "Prompt on filename collision"
+msgstr "Teavita, kui failinimed kattuvad"
+
+msgid "Overwrite"
+msgstr "Kirjuta üle"
+
+msgid "Overwrite all"
+msgstr "Kirjuta üle kõik"
+
+msgid "Skip"
+msgstr "Jäta vahele"
+
+msgid "Skip all"
+msgstr "Jäta kõik vahele"
+
+msgid "Keep both"
+msgstr "Hoidke mõlemaid"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "Kirjutada üle kõik vanad failid"
+
+msgid "Replace all smaller files"
+msgstr "Asenda kõik väiksemad failid"
+
+msgid "Replace all files if size different"
+msgstr "Asenda kõik failid, kui suurus erineb"
+
+msgid "Rename all copied files"
+msgstr "Ümbernimeta kõik kopeeritud failid"
+
+msgid "Rename all target files"
+msgstr "Ümbernimeta kõik sihtkoha failid"
+
+msgid "Rename all older target files"
+msgstr "Ümbernimeta kõik vanemad sihtkoha failid"
+
+#. replace dialog
+msgid "More"
+msgstr "Rohkem"
+
+#. tooltips
+msgid "Select target path"
+msgstr "Määra sihtkoha asukoht"
+
+msgid "Add files or folders"
+msgstr "Lisa faile ja kaustasi"
+
+msgid "Expanded view"
+msgstr "Laiendatud vaade"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "Kustuta kõik failid mis on nimekirjas"
+
+msgid "Read target files and compare checksums"
+msgstr "Loe sihtkoha faile ja võrdle kontrollsummasid"
+
+msgid "Read source files and create checksums"
+msgstr "Loe allika faile ja loo kontrollsummad"
+
+msgid "Create a new list"
+msgstr "Loo uus nimekiri"
+
+msgid "Transfers history"
+msgstr "Toimingute ajalugu"
+
+msgid "Running with administrator priviledges"
+msgstr "Käivitatud administraatori õigustega"
+
+msgid "Run as administrator"
+msgstr "Käivita kui administraator"
+
+#. export dialog
+msgid "Print/export"
+msgstr "Prindi/ekspordi"
+
+msgid "Preferences"
+msgstr "Eelistused"
+
+msgid "About"
+msgstr "Teave"
+
+msgid "Order license"
+msgstr "Hangi litsents"
+
+msgid "Enter key"
+msgstr "Sisesta võti"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr ""
+
+msgid "Toggle row"
+msgstr ""
+
+msgid "Create folders"
+msgstr "Loo kaustad"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr ""
+
+msgid "Keep folder timestamps"
+msgstr "Hoia kaustade ajatempleid"
+
+msgid "Keep folder alternate data streams"
+msgstr ""
+
+msgid "Copy files"
+msgstr "Kopeeri failid"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr ""
+
+msgid "Keep file timestamps"
+msgstr "Hoia failide ajatempleid"
+
+msgid "Keep file alternate data streams"
+msgstr ""
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr ""
+
+msgid "Keep owner information for folders"
+msgstr "Hoia alles omaniku infot kaustadel"
+
+msgid "Keep audit information for folders"
+msgstr "Hoia alles audiitori infot kaustadel"
+
+msgid "Keep ACLs for files"
+msgstr ""
+
+msgid "Keep owner information for files"
+msgstr "Hoia alles omaniku infot failidel"
+
+msgid "Keep audit information for files"
+msgstr "Hoia alles audiitori infot failidel"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "Puhvri suurus kõikidel toimingutel"
+
+msgid "Action to take on filename conflict"
+msgstr "Toiming mida teha failinimetuse konfliktiga"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr ""
+
+msgid "Save the checksum file to the target folder"
+msgstr "Salvesta kontrollsumma fail sihtkoha kausta"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "Salvesta kontrollsumma fail algallika kausta"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr ""
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "Peata kõik toimingud?"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "Sulge rakendus"
+
+msgid "Keep app open"
+msgstr "Hoia rakendus avatud"
+
+msgid "Shutdown"
+msgstr ""
+
+msgid "Sleep"
+msgstr "Unerežiim"
+
+msgid "Hibernate"
+msgstr "Talveunerežiim"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "Pärast lõpetamist: %s"
+
+msgid "Always On Top"
+msgstr "Alati hoida pealmisena"
+
+msgid "Shell integration"
+msgstr ""
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr ""
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr ""
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr ""
+
+msgid "Misc"
+msgstr ""
+
+msgid "Interface"
+msgstr ""
+
+msgid "Register Copy Handler"
+msgstr ""
+
+msgid "Unregister Copy Handler"
+msgstr ""
+
+msgid "Use TeraCopy as default copy handler"
+msgstr ""
+
+msgid "Only when Scroll Lock is OFF"
+msgstr ""
+
+msgid "Add to Explorer context menu"
+msgstr ""
+
+msgid "Play sound"
+msgstr "Mängi heli"
+
+msgid "Check free space"
+msgstr "Kontrolli vabaruumi"
+
+msgid "Always test after copy"
+msgstr "Alati kontrolli pärast kopeerimist"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Keela asünkroonne failide edastus"
+
+msgid "Use system write cache"
+msgstr "Kasuta süsteemi kirjutamiste puhvrit"
+
+msgid "Confirm drag and drop"
+msgstr ""
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr ""
+
+#. / file managers
+msgid "File managers"
+msgstr "Failide haldurid"
+
+msgid "Window"
+msgstr "Aken"
+
+msgid "Show notifications"
+msgstr "Kuva teavitused"
+
+msgid "Automatic updates"
+msgstr "Automaatsed uuendused"
+
+msgid "Cancel"
+msgstr "Tühista"
+
+#. Window mode
+msgid "Expanded"
+msgstr "Laiendatud"
+
+msgid "Stacks"
+msgstr ""
+
+msgid "Auto"
+msgstr "Automaatne"
+
+msgid "Not registered for Commercial Use"
+msgstr ""
+
+msgid "Free for Home Users"
+msgstr "Tasuta kodu kasutajatele"
+
+#. cancel timer
+msgid "Close"
+msgstr "Sulge"
+
+msgid "Check for updates"
+msgstr "Kontrolli uuendusi"
+
+#. history options
+msgid "Never keep history"
+msgstr "Keela ajaloo hoidmine"
+
+msgid "Keep history for 1 day"
+msgstr "Hoia ajalugu 1 päev"
+
+msgid "Keep history for 1 week"
+msgstr "Hoia ajalugu 1 nädal"
+
+msgid "Keep history permanently"
+msgstr "Hoia ajalugu lõpmatuseni"
+
+msgid "Clean history now"
+msgstr "Tühjenda ajalugu kohe"
+
+msgid "Delete"
+msgstr "Kustuta"
+
+#. date
+msgid "Created"
+msgstr "Loodud"
+
+msgid "Unattended"
+msgstr ""
+
+msgid "Hash"
+msgstr ""
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "Allikas"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "Fail"
+
+msgid "Not calculated"
+msgstr "Pole veel arvutatud"
+
+msgid "Modified"
+msgstr "Muudetud"
+
+msgid "File info"
+msgstr "Faili info"
+
+#. select
+msgid "This item"
+msgstr ""
+
+#. space bar key
+msgid "Space"
+msgstr ""
+
+msgid "Inverse selection"
+msgstr ""
+
+#. select
+msgid "Same folder"
+msgstr "Sama kaust"
+
+#. select
+msgid "Same extension"
+msgstr ""
+
+msgid "Deselect all"
+msgstr "Tühista valik"
+
+msgid "Select"
+msgstr "Vali"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "Eemalda valitud"
+
+#. ignore
+msgid "Ignore"
+msgstr "Ignoreeri"
+
+msgid "Extension"
+msgstr ""
+
+msgid "Select ignore list"
+msgstr ""
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "Lisa siia: %s"
+
+msgid "New file list"
+msgstr "Uus faili nimekiri"
+
+msgid "Close all panels"
+msgstr "Sulge kõik paneelid"
+
+msgid "Add files"
+msgstr "Lisa faile"
+
+msgid "Add folders"
+msgstr "Lisa kaustu"
+
+msgid "Save checksums"
+msgstr ""
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "Hangi Pro versioon"
+
+msgid "Export as"
+msgstr "Ekspordi kui"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (koos sorteeritavate veergudega)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (importimiseks Excel'isse, jne)"
+
+msgid "Export only"
+msgstr "Ainult ekspordi"
+
+msgid "Reset list"
+msgstr ""
+
+#. ignore always
+msgid "Empty"
+msgstr "Tühjasid"
+
+#. always
+msgid "Edit"
+msgstr "Redigeeri"
+
+msgid "Download"
+msgstr ""
+
+msgid "On every operation"
+msgstr ""
+
+msgid "Browse"
+msgstr "Sirvi"
+
+msgid "Favorites & recent"
+msgstr "Lemmikud & hiljutised"
+
+msgid "No open windows"
+msgstr "Pole avatud aknaid"
+
+msgid "Checksum copied"
+msgstr ""
+
+msgid "Copy"
+msgstr "Kopeeri"
+
+msgid "Move"
+msgstr "Teisalda"
+
+#. 3rd line
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Process files:"
+msgstr ""
+
+msgid "Start Now"
+msgstr "Alusta koheselt"
+
+msgid "Adding files..."
+msgstr "Lisatakse faile..."
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Pause"
+msgstr "Pausi"
+
+msgid "Resume"
+msgstr "Jätka"
+
+msgid "Applying attributes and removing folders..."
+msgstr ""
+
+msgid "Applying folder attributes..."
+msgstr ""
+
+#. result
+msgid "Result"
+msgstr "Tulemid"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: lõpetatud"
+
+msgid "Next"
+msgstr "Järgmine"
+
+msgid "Verify"
+msgstr ""
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr ""
+
+#. operation buttons
+msgid "Test"
+msgstr "Testi"
+
+msgid "Opening via service:"
+msgstr ""
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr ""
+
+msgid "No checksums are available, please copy or test files first."
+msgstr ""
+
+#. check sizes before
+msgid "No target file"
+msgstr ""
+
+msgid "Sizes mismatch"
+msgstr "Suurused ei ühti"
+
+msgid "Hashes mismatch"
+msgstr "Räsid ei ühti"
+
+msgid "Waiting for other transfers..."
+msgstr "Ootan, teiste toimingute valmimimist..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr ""
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "Rohkem vaba ruumi vaja: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "Allikas on sama mis sihtkoht"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr ""
+
+msgid "Destination File Already Exists"
+msgstr ""
+
+msgid "Open file"
+msgstr "Ava fail"
+
+msgid "Open folder"
+msgstr "Ava kaust"
+
+msgid "Bigger"
+msgstr "Suurem"
+
+msgid "Smaller"
+msgstr "Väiksem"
+
+msgid "Same size"
+msgstr "Sama suurus"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr ""
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Rohkem valikuid, kõikide failide puhul"
+
+msgid "Older"
+msgstr "Vanem"
+
+msgid "Newer"
+msgstr "Uuem"
+
+msgid "Same date"
+msgstr "Sama kuupäevaga"
+
+msgid "File is offline, waiting..."
+msgstr "Fail pole saadaval, ootan..."
+
+msgid "Cancelled"
+msgstr "Tühistatud"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "Fail on taaskord saadaval, jätkan toimingutega..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "Ketas on täis, palun vabastada %s"
+
+msgid "File is too large for this file system"
+msgstr "Fail on liiga suur selle failisüsteemi jaoks"
+
+msgid "Error reading file."
+msgstr "Viga faili lugemisel."
+
+msgid "Error writing file."
+msgstr "Viga faili kirjutamisel."
+
+msgid "File skipped"
+msgstr "Fail on jäetud vahele"
+
+msgid "Stopped"
+msgstr "Peatatud"
+
+msgid "Error creating folder."
+msgstr "Viga kausta loomisel."
+
+msgid "Edit in Notepad"
+msgstr "Töötle Notepad'is"
+
+msgid "Remove from favorites"
+msgstr "Eemalda lemmikutest"
+
+msgid "Add to favorites"
+msgstr "Lisa lemmikutesse"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Skip requested by user"
+msgstr "Vahelejätmise taotluse tegi kasutaja"
+
+msgid "Stop requested by user"
+msgstr "Peatamise taotluse tegi kasutaja"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "Kustutada %d fail kettalt?"
+msgstr[1] "Kustutada %d failid kettalt?"
+
+msgid "Move to Recycle Bin"
+msgstr "Tõsta prügikasti"
+
+msgid "Delete from disk"
+msgstr "Kustuta kettalt"
+
+msgid "Wipe data"
+msgstr "Kustuta andmed"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "Aeglasem, kergem taastada."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "Kiirem, raskem taastada."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Eriti aeglane, ühekordne kirjutus suvaliste andmetega, üleliigne kasutada pooljuhtkettaste (SSD ja NVMe) puhul."
+
+msgid "Delete ALL files in the list?"
+msgstr "Kustuta KÕIK failid mis on nimekirjas?"
+
+msgid "Folder not found"
+msgstr "Kausta ei leitud"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr ""
+
+msgid "Error opening file."
+msgstr "Viga faili avamisel."
+
+msgid "Error deleting file."
+msgstr "Viga faili kustutamisel."
+
+msgid "Paused"
+msgstr "Pausitud"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "vead: %d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "vahelejäetud: %d"
+
+msgid "Append path"
+msgstr ""
+
+msgid "File list is empty"
+msgstr "Faili nimekiri on tühi"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "Vaba ruumi: %s"
+
+msgid "Unavailable"
+msgstr "Pole saadaval"
+
+msgid "Querying..."
+msgstr "Päring..."
+
+msgid "Drag files or folders here"
+msgstr "Lohista kaustad või failid siia"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "Pole midagi kuvada. Eemaldage filtrid, et näha kõiki faile."
+
+msgid "Verify files after transfer"
+msgstr "Kontrolli faile pärast edastamist"
+
+msgid "Save checksum file on finish"
+msgstr "Salvesta kontrollsumma fail pärast valmimist"
+
+msgid "Auto-scroll"
+msgstr "Auto-kerimine"
+
+#. menu
+msgid "Menu"
+msgstr "Menüü"
+
+msgid "Shared options"
+msgstr "Jagatud valikud"
+
+msgid "buffer size"
+msgstr "puhvri suurus"
+
+#. captions
+msgid "Transfer"
+msgstr ""
+
+msgid "Transfer options"
+msgstr ""
+
+msgid "Files & folders"
+msgstr "Failid & kaustad"
+
+msgid "Data"
+msgstr "Andmed"
+
+msgid "Attributes"
+msgstr "Atribuudid"
+
+msgid "Timestamps"
+msgstr "Ajatemplid"
+
+msgid "Streams"
+msgstr ""
+
+msgid "Security"
+msgstr "Turvalisus"
+
+msgid "ACL"
+msgstr ""
+
+msgid "Owner"
+msgstr "Omanik"
+
+msgid "Audit"
+msgstr ""
+
+msgid "Test options"
+msgstr "Testi valikud"
+
+msgid "Store/verify checksum in ADS"
+msgstr ""
+
+msgid "Save as default"
+msgstr "Salvesta tavasätteks"
+
+msgid "Reset to default"
+msgstr "Taasta algsätted"
+
+msgid "Done"
+msgstr "Valmis"
+

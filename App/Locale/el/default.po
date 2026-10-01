@@ -1,0 +1,926 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-06-04 07:21\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+
+#. mode
+msgid "Copying"
+msgstr "Αντιγραφή"
+
+msgid "Moving"
+msgstr "Μετακίνηση"
+
+msgid "Testing"
+msgstr "Δοκιμή"
+
+msgid "Verifying"
+msgstr "Επαλήθευση"
+
+msgid "Deleting"
+msgstr "Διαγραφή"
+
+#. results
+msgid "Added"
+msgstr "Προστέθηκε"
+
+msgid "OK"
+msgstr "ΟΚ"
+
+msgid "Verified"
+msgstr "Επαληθεύτηκαν"
+
+msgid "Error"
+msgstr "Σφάλμα"
+
+#. File list filter
+msgid "Skipped"
+msgstr "Αγνοήθηκαν "
+
+msgid "Deleted"
+msgstr "Διαγράφηκαν"
+
+msgid "Moved"
+msgstr "Μετακινήθηκαν"
+
+msgid "Absent"
+msgstr "Απόντα"
+
+#. File list filter
+msgid "Ignored"
+msgstr "Παραβλέφθηκαν"
+
+msgid "File list"
+msgstr "Λίστα αρχείων"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "Προορισμός"
+
+msgid "Options"
+msgstr "Ρυθμίσεις"
+
+msgid "Status"
+msgstr "Κατάσταση"
+
+msgid "Log"
+msgstr "Χρονικό"
+
+#. File list filter
+msgid "All items"
+msgstr "Όλα τα στοιχεία"
+
+#. File list filter
+msgid "Successful"
+msgstr "Επιτυχής μεταφορά"
+
+#. File list filter
+msgid "Failed"
+msgstr "Aνεπιτυχής μεταφορά"
+
+msgid "No files added"
+msgstr "Χωρίς προσθήκη αρχείων"
+
+msgid "No target"
+msgstr "Χωρίς προορισμό"
+
+#. foder
+msgid "Folder"
+msgstr "Φάκελος"
+
+msgid "Category"
+msgstr "Κατηγορία"
+
+msgid "Files"
+msgstr "Αρχεία"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "Time"
+msgstr "Ώρα"
+
+msgid "Total"
+msgstr "Σύνολο "
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "kB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "μέρες"
+
+msgid "hours"
+msgstr "ώρες"
+
+#. minutes
+msgid "min"
+msgstr "λεπτά"
+
+#. seconds
+msgid "s"
+msgstr "δ"
+
+#. millions
+msgid "m"
+msgstr "εκ"
+
+msgid "Prompt on filename collision"
+msgstr "Ερώτηση σε περίπτωση συνωνυμίας"
+
+msgid "Overwrite"
+msgstr "Αντικατάσταση"
+
+msgid "Overwrite all"
+msgstr "Αντικατάσταση όλων"
+
+msgid "Skip"
+msgstr "Παράλειψη"
+
+msgid "Skip all"
+msgstr "Αγνόηση όλων"
+
+msgid "Keep both"
+msgstr "Επιλογή και των δύο"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "Αντικατάσταση όλων των παλαιότερων αρχείων"
+
+msgid "Replace all smaller files"
+msgstr "Αντικατάσταση όλων των μικρότερων αρχείων"
+
+msgid "Replace all files if size different"
+msgstr "Αντικατάσταση όλων των αρχείων αν το μέγεθος είναι διαφορετικό"
+
+msgid "Rename all copied files"
+msgstr "Μετονομασία όλων των αντιγραμμένων αρχείων"
+
+msgid "Rename all target files"
+msgstr "Μετονομασία όλων των αρχείων προορισμού"
+
+msgid "Rename all older target files"
+msgstr "Μετονομασία όλων των παλαιότερων αρχείων προορισμού"
+
+#. replace dialog
+msgid "More"
+msgstr "Περισσότερα"
+
+#. tooltips
+msgid "Select target path"
+msgstr "Επιλέξτε διαδρομή προορισμού"
+
+msgid "Add files or folders"
+msgstr "Προσθήκη αρχείων ή φακέλων"
+
+msgid "Expanded view"
+msgstr "Διευρυμένη προβολή"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "Διαγραφή όλων των αρχείων στη λίστα"
+
+msgid "Read target files and compare checksums"
+msgstr "Ανάγνωση αρχείων στον προορισμό και σύγκριση αθροισμάτων ελέγχου"
+
+msgid "Read source files and create checksums"
+msgstr "Ανάγνωση αρχείων στην πηγή και δημιουργία αθροισμάτων ελέγχου"
+
+msgid "Create a new list"
+msgstr "Δημιουργία νέας λίστας"
+
+msgid "Transfers history"
+msgstr "Ιστορικό μεταφορών"
+
+msgid "Running with administrator priviledges"
+msgstr "Εκτέλεση με δικαιώματα διαχειριστή"
+
+msgid "Run as administrator"
+msgstr "Εκτέλεση ως διαχειριστής"
+
+#. export dialog
+msgid "Print/export"
+msgstr "Εκτύπωση/εξαγωγή"
+
+msgid "Preferences"
+msgstr "Προτιμήσεις"
+
+msgid "About"
+msgstr "Περί"
+
+msgid "Order license"
+msgstr "Παραγγελία άδειας"
+
+msgid "Enter key"
+msgstr "Εισαγωγή κλειδιού"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(αυτό απαιτεί αυξημένα δικαιώματα)"
+
+msgid "Toggle row"
+msgstr "Εναλλαγή σειράς"
+
+msgid "Create folders"
+msgstr "Δημιουργία φακέλων"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "Διατήρηση ιδιοτήτων φακέλου (Ανάγνωση μόνο, Αρχειοθέτηση...)"
+
+msgid "Keep folder timestamps"
+msgstr "Διατήρηση χρονοσημάνσεων φακέλου"
+
+msgid "Keep folder alternate data streams"
+msgstr "Διατήρηση εναλλακτικών ροών δεδομένων φακέλου"
+
+msgid "Copy files"
+msgstr "Αντιγραφή αρχείων"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "Διατήρηση ιδιοτήτων αρχείου (Ανάγνωση μόνο, Αρχειοθέτηση...)"
+
+msgid "Keep file timestamps"
+msgstr "Διατήρηση χρονοσημάνσεων αρχείου"
+
+msgid "Keep file alternate data streams"
+msgstr "Διατήρηση εναλλακτικών ροών δεδομένων αρχείου"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "Διατήρηση λιστών ελέγχου πρόσβασης (ACLs) φακέλων"
+
+msgid "Keep owner information for folders"
+msgstr "Διατήρηση πληροφοριών ιδιοκτήτη για φακέλους"
+
+msgid "Keep audit information for folders"
+msgstr "Διατήρηση πληροφοριών επιθεώρησης για φακέλους"
+
+msgid "Keep ACLs for files"
+msgstr "Διατήρηση λιστών ελέγχου πρόσβασης (ACLs) αρχείων"
+
+msgid "Keep owner information for files"
+msgstr "Διατήρηση πληροφοριών ιδιοκτήτη για αρχεία"
+
+msgid "Keep audit information for files"
+msgstr "Διατήρηση πληροφοριών επιθεώρησης για αρχεία"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "Μέγεθος προσωρινής μνήμης για όλες τις λειτουργίες"
+
+msgid "Action to take on filename conflict"
+msgstr "Ενέργεια σε περίπτωση συνωνυμίας"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "Μέθοδος υπολογισμού αθροισμάτων ελέγχου κατά τη μεταφορά ή τον έλεγχο αρχείων"
+
+msgid "Save the checksum file to the target folder"
+msgstr "Αποθήκευση αρχείου αθροίσματος ελέγχου στον φάκελο προορισμού"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "Αποθήκευση αρχείου αθροίσματος ελέγχου στον πηγαίο φάκελο"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "Αποθήκευση υπολογισμένου αθροίσματος ελέγχου μέσα στο αρχείο με χρήση εναλλακτικών ροών δεδομένων"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "Διακοπή όλων των λειτουργιών;"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "Κλείσε την εφαρμογή"
+
+msgid "Keep app open"
+msgstr "Διατήρησε την εφαρμογή ανοιχτή"
+
+msgid "Shutdown"
+msgstr "Σβήσιμο Η/Υ"
+
+msgid "Sleep"
+msgstr "Αναστολή λειτουργίας"
+
+msgid "Hibernate"
+msgstr "Αδρανοποίηση υπολογιστή"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "Κατά την ολοκλήρωση: %s"
+
+msgid "Always On Top"
+msgstr "Πάντα σε πρώτο πλάνο"
+
+msgid "Shell integration"
+msgstr "Ενσωμάτωση στο κέλυφος"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Διαχειριστείτε τη λειτουργία συρσίματος των αρχείων χρησιμοποιώντας το αριστερό πλήκτρο του ποντικιού, καθώς και τις εντολές αντιγραφής και επικόλλησης στην Εξερευνητή των windows."
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Προσθέτει τα κουμπιά της Αντιγραφής και Μετακίνησης για τα αρχικά κουμπιά της γραμμής του Total Commander."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Διαβάστε πώς μπορείτε να προσθέσετε τα κουμπιά Αντιγραφή και Μετακίνηση στο Directory Opus."
+
+msgid "Misc"
+msgstr "Διάφορα"
+
+msgid "Interface"
+msgstr "Διεπαφή"
+
+msgid "Register Copy Handler"
+msgstr "Εγγραφή ως διαχειριστή Αντιγραφής"
+
+msgid "Unregister Copy Handler"
+msgstr "Διαγραφή από διαχειριστή Αντιγραφής"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "Χρησιμοποιήστε TeraCopy ως προεπιλεγμένο πρόγραμμα διαχείρισης αντιγραφών"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "Μόνο όταν το Scroll Lock είναι OFF"
+
+msgid "Add to Explorer context menu"
+msgstr "Προσθήκη στο 'δεξί κλικ' μενού του Explorer"
+
+msgid "Play sound"
+msgstr "Αναπαραγωγή ήχου"
+
+msgid "Check free space"
+msgstr "Έλεγχος για ελεύθερο χώρο"
+
+msgid "Always test after copy"
+msgstr "Πάντα δοκιμή, μετά την αντιγραφή"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Απενεργοποίηση ασύγχρονης μεταφοράς αρχείων"
+
+msgid "Use system write cache"
+msgstr "Χρήση προσωρινής μνήμης εγγραφής συστήματος"
+
+msgid "Confirm drag and drop"
+msgstr "Επιβεβαίωση μεταφοράς και απόθεσης"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "Δοκιμή μεμονωμένων αρχείων σε σχέση με το άθροισμα ελέγχου στο Πρόχειρο"
+
+#. / file managers
+msgid "File managers"
+msgstr "Διαχειριστές αρχείων"
+
+msgid "Window"
+msgstr "Παράθυρο"
+
+msgid "Show notifications"
+msgstr "Εμφάνιση ειδοποιήσεων"
+
+msgid "Automatic updates"
+msgstr "Αυτόματες ενημερώσεις"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#. Window mode
+msgid "Expanded"
+msgstr "Εκτεταμένη"
+
+msgid "Stacks"
+msgstr "Στοίβες"
+
+msgid "Auto"
+msgstr "Αυτόματο"
+
+msgid "Not registered for Commercial Use"
+msgstr "Δεν έχετε εγγραφεί για εμπορική χρήση"
+
+msgid "Free for Home Users"
+msgstr "Δωρεάν για τους οικιακούς χρήστες"
+
+#. cancel timer
+msgid "Close"
+msgstr "Κλείσιμο"
+
+msgid "Check for updates"
+msgstr "Έλεγχος για ενημερώσεις"
+
+#. history options
+msgid "Never keep history"
+msgstr "Να μην διατηρείται ιστορικό"
+
+msgid "Keep history for 1 day"
+msgstr "Διατήρηση ιστορικού για 1 ημέρα"
+
+msgid "Keep history for 1 week"
+msgstr "Διατήρηση ιστορικού για 1 εβδομάδα"
+
+msgid "Keep history permanently"
+msgstr "Διατήρηση του ιστορικού σε μόνιμη βάση"
+
+msgid "Clean history now"
+msgstr "Εκκαθάριση ιστορικού"
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#. date
+msgid "Created"
+msgstr "Δημιουργήθηκε"
+
+msgid "Unattended"
+msgstr "Χωρίς επιτήρηση"
+
+msgid "Hash"
+msgstr "Κατακερματισμός"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "Προέλευση"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "Αρχείο"
+
+msgid "Not calculated"
+msgstr "Δεν έχει υπολογιστεί"
+
+msgid "Modified"
+msgstr "Τροποποιήθηκε"
+
+msgid "File info"
+msgstr "Πληροφορίες αρχείου"
+
+#. select
+msgid "This item"
+msgstr "Αυτό το στοιχείο"
+
+#. space bar key
+msgid "Space"
+msgstr "Χαρακτήρας Space"
+
+msgid "Inverse selection"
+msgstr "Αντιστροφή επιλογής"
+
+#. select
+msgid "Same folder"
+msgstr "Στοιχεία στον ίδιο φάκελο"
+
+#. select
+msgid "Same extension"
+msgstr "Στοιχεία με την ίδια επέκταση"
+
+msgid "Deselect all"
+msgstr "Αποεπιλογή όλων"
+
+msgid "Select"
+msgstr "Επιλογή"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "Αφαίρεση επιλεγμένων"
+
+#. ignore
+msgid "Ignore"
+msgstr "Παράλειψη"
+
+msgid "Extension"
+msgstr "Επέκταση"
+
+msgid "Select ignore list"
+msgstr "Επιλέξτε λίστα αγνόησης"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "Προσθήκη στο: %s"
+
+msgid "New file list"
+msgstr "Νέα λίστα αρχείων"
+
+msgid "Close all panels"
+msgstr "Κλείσιμο όλων των πλαισίων"
+
+msgid "Add files"
+msgstr "Προσθήκη αρχείων"
+
+msgid "Add folders"
+msgstr "Προσθήκη φακέλων"
+
+msgid "Save checksums"
+msgstr "Αποθήκευση αθροισμάτων ελέγχου"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "Επαγγελματική έκδοση"
+
+msgid "Export as"
+msgstr "Εξαγωγή ως"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (με ταξινόμηση στηλών)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (για εισαγωγή στο Excel, κτλ)"
+
+msgid "Export only"
+msgstr "Μόνο εξαγωγή"
+
+msgid "Reset list"
+msgstr "Αρχικοποίηση λίστας"
+
+#. ignore always
+msgid "Empty"
+msgstr "Κενό"
+
+#. always
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "Download"
+msgstr "Λήψη"
+
+msgid "On every operation"
+msgstr "Σε κάθε ενέργεια"
+
+msgid "Browse"
+msgstr "Αναζήτηση"
+
+msgid "Favorites & recent"
+msgstr "Αγαπημένα & πρόσφατα"
+
+msgid "No open windows"
+msgstr "Δεν υπάρχουν ανοιχτά παράθυρα"
+
+msgid "Checksum copied"
+msgstr "Αντιγράφηκε το Checksum"
+
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+msgid "Move"
+msgstr "Μετακίνηση"
+
+#. 3rd line
+msgid "Filter"
+msgstr "Φίλτρο"
+
+msgid "Process files:"
+msgstr "Αρχεία διεργασίας:"
+
+msgid "Start Now"
+msgstr "Ξεκινήστε τώρα"
+
+msgid "Adding files..."
+msgstr "Προσθήκη αρχείων..."
+
+msgid "Stop"
+msgstr "Διακοπή"
+
+msgid "Pause"
+msgstr "Παύση"
+
+msgid "Resume"
+msgstr "Συνέχεια"
+
+msgid "Applying attributes and removing folders..."
+msgstr "Εφαρμογή ιδιοτήτων και αφαίρεση φακέλων..."
+
+msgid "Applying folder attributes..."
+msgstr "Εφαρμογή ιδιοτήτων φακέλου..."
+
+#. result
+msgid "Result"
+msgstr "Αποτέλεσμα"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: ολοκληρώθηκε"
+
+msgid "Next"
+msgstr "Επόμενο"
+
+msgid "Verify"
+msgstr "Επαλήθευση"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Αποθήκευση κατακερματισμού"
+
+#. operation buttons
+msgid "Test"
+msgstr "Έλεγχος"
+
+msgid "Opening via service:"
+msgstr "Άνοιγμα μέσω υπηρεσίας:"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "%s Αρχείο κατακερματισμού αποθηκεύτηκε στο"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "Δεν υπάρχουν αθροίσματα ελέγχου διαθέσιμα, παρακαλούμε κάντε πρώτα μια μια αντιγραφή ή δοκιμή αρχείων."
+
+#. check sizes before
+msgid "No target file"
+msgstr "Χωρίς αρχείο προορισμού"
+
+msgid "Sizes mismatch"
+msgstr "Αναντιστοιχία μεγέθους"
+
+msgid "Hashes mismatch"
+msgstr "Αναντιστοιχία κατακερματισμών"
+
+msgid "Waiting for other transfers..."
+msgstr "Σε αναμονή μέχρι το τελείωμα άλλων μεταφορών..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "Αρχικοποίηση των ολοκληρωμένων και επεξεργασία όλων των προσθεμένων αρχείων;"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "Απαιτείται περισσότερος χώρος: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "Η πηγή προέλευσης είναι ίδια με τον προορισμό"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "Ο φάκελος προορισμού είναι ένας υποφάκελος του πηγαίου φακέλου!"
+
+msgid "Destination File Already Exists"
+msgstr "Το αρχείο προορισμού υπάρχει ήδη"
+
+msgid "Open file"
+msgstr "Άνοιγμα αρχείου"
+
+msgid "Open folder"
+msgstr "Άνοιγμα φακέλου"
+
+msgid "Bigger"
+msgstr "Μεγαλύτερο"
+
+msgid "Smaller"
+msgstr "Μικρότερο"
+
+msgid "Same size"
+msgstr "Ίδιο μέγεθος"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "Αγνόηση όλων σε %d δ"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Περισσότερες επιλογές, που ισχύουν για όλα τα αρχεία"
+
+msgid "Older"
+msgstr "Παλαιότερο"
+
+msgid "Newer"
+msgstr "Νεότερο"
+
+msgid "Same date"
+msgstr "Ίδια ημερομηνία"
+
+msgid "File is offline, waiting..."
+msgstr "Δεν υπάρχει πρόσβαση στο αρχείο. Σε αναμονή..."
+
+msgid "Cancelled"
+msgstr "Ακυρώθηκε"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "Το αρχείο είναι πλέον διαθέσιμο. Συνέχιση της μεταφοράς..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "Ο δίσκος είναι πλήρης, αποδεσμεύστε %s"
+
+msgid "File is too large for this file system"
+msgstr "Το αρχείο είναι πολύ μεγάλο για αυτό το σύστημα αρχείων"
+
+msgid "Error reading file."
+msgstr "Σφάλμα ανάγνωσης αρχείου."
+
+msgid "Error writing file."
+msgstr "Σφάλμα εγγραφής αρχείου."
+
+msgid "File skipped"
+msgstr "Το αρχείο αγνοήθηκε"
+
+msgid "Stopped"
+msgstr "Διακόπηκε"
+
+msgid "Error creating folder."
+msgstr "Σφάλμα δημιουργίας φακέλου."
+
+msgid "Edit in Notepad"
+msgstr "Επεξεργασία στο Σημειωματάριο"
+
+msgid "Remove from favorites"
+msgstr "Κατάργηση από τα αγαπημένα"
+
+msgid "Add to favorites"
+msgstr "Προσθήκη στα αγαπημένα"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d Στοιχείο"
+msgstr[1] "%d Στοιχεία"
+
+msgid "Skip requested by user"
+msgstr "Αγνόηση μετά από αίτημα του χρήστη"
+
+msgid "Stop requested by user"
+msgstr "Διακοπή μετά από αίτημα του χρήστη"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "Διαγραφή %d αρχείου από δίσκο;"
+msgstr[1] "Διαγραφή %d αρχείων από δίσκο;"
+
+msgid "Move to Recycle Bin"
+msgstr "Μετακίνηση στον Κάδο Ανακύκλωσης"
+
+msgid "Delete from disk"
+msgstr "Διαγραφή από το δίσκο"
+
+msgid "Wipe data"
+msgstr "Εκκαθάριση δεδομένων"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "Πιο αργό, ευκολότερο να ανακτηθεί."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "Ταχύτερο, δυσκολότερο να ανακτηθεί."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Πολύ αργό. Eπικάλυψη με τυχαία δεδομένα σε 1 πέρασμα. Άχρηστο για μονάδες SSD."
+
+msgid "Delete ALL files in the list?"
+msgstr "Διαγραφή ΟΛΩΝ των αρχείων στη λίστα;"
+
+msgid "Folder not found"
+msgstr "Ο φάκελος δεν βρέθηκε"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "%s Κατακερματισμός στο Πρόχειρο ταιριάζει: #10%s"
+
+msgid "Error opening file."
+msgstr "Σφάλμα ανοίγματος αρχείου."
+
+msgid "Error deleting file."
+msgstr "Σφάλμα διαγραφής αρχείου."
+
+msgid "Paused"
+msgstr "Σε παύση"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "σφάλματα: %d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "παραλείφθηκαν: %d"
+
+msgid "Append path"
+msgstr "Προσάρτηση διαδρομής"
+
+msgid "File list is empty"
+msgstr "Η λίστα αρχείων είναι κενή"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "Ελεύθερος χώρος: %s"
+
+msgid "Unavailable"
+msgstr "Μη διαθέσιμο"
+
+msgid "Querying..."
+msgstr "Ερώτημα..."
+
+msgid "Drag files or folders here"
+msgstr "Σύρετε αρχεία ή φακέλους εδώ"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "Δεν υπάρχουν αντιστοιχίες προς εμφάνιση. Καταργείστε τα φίλτρα για εμφάνιση όλων των αρχείων."
+
+msgid "Verify files after transfer"
+msgstr "Επαλήθευση αρχείων μετά τη μεταφορά"
+
+msgid "Save checksum file on finish"
+msgstr "Αποθήκευση αρχείου ελέγχου αθροίσματος στο τέλος"
+
+msgid "Auto-scroll"
+msgstr "Αυτόματη κύλιση"
+
+#. menu
+msgid "Menu"
+msgstr "Μενού"
+
+msgid "Shared options"
+msgstr "Κοινόχρηστες επιλογές"
+
+msgid "buffer size"
+msgstr "μέγεθος προσωρινής μνήμης"
+
+#. captions
+msgid "Transfer"
+msgstr "Μεταφορά"
+
+msgid "Transfer options"
+msgstr "Επιλογές μεταφοράς"
+
+msgid "Files & folders"
+msgstr "Αρχεία & φάκελοι"
+
+msgid "Data"
+msgstr "Δεδομένα"
+
+msgid "Attributes"
+msgstr "Ιδιότητες"
+
+msgid "Timestamps"
+msgstr "Χρονοσήμανση"
+
+msgid "Streams"
+msgstr "Ροές"
+
+msgid "Security"
+msgstr "Ασφάλεια"
+
+msgid "ACL"
+msgstr "ACL"
+
+msgid "Owner"
+msgstr "Κάτοχος"
+
+msgid "Audit"
+msgstr "Επιθεώρηση"
+
+msgid "Test options"
+msgstr "Επιλογές δοκιμής"
+
+msgid "Store/verify checksum in ADS"
+msgstr "Αποθήκευση/επαλήθευση αθροίσματος ελέγχου σε ADS"
+
+msgid "Save as default"
+msgstr "Αποθήκευση ως προεπιλογή"
+
+msgid "Reset to default"
+msgstr "Επαναφορά προεπιλογών"
+
+msgid "Done"
+msgstr "Ολοκλήρωση"
+

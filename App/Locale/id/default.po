@@ -1,0 +1,924 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-06-04 07:22\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+
+#. mode
+msgid "Copying"
+msgstr "Membuat Salinan"
+
+msgid "Moving"
+msgstr "Memindahkan"
+
+msgid "Testing"
+msgstr "Menguji"
+
+msgid "Verifying"
+msgstr "Memeriksa"
+
+msgid "Deleting"
+msgstr "Menghapus"
+
+#. results
+msgid "Added"
+msgstr "Ditambahkan"
+
+msgid "OK"
+msgstr "Oke"
+
+msgid "Verified"
+msgstr "Sudah diperiksa"
+
+msgid "Error"
+msgstr "Terjadi kesalahan"
+
+#. File list filter
+msgid "Skipped"
+msgstr "Dilewatkan"
+
+msgid "Deleted"
+msgstr "Sudah dihapus"
+
+msgid "Moved"
+msgstr "Sudah dipindahkan"
+
+msgid "Absent"
+msgstr "Tidak ada"
+
+#. File list filter
+msgid "Ignored"
+msgstr "Sudah diabaikan"
+
+msgid "File list"
+msgstr "Daftar berkas"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "Tujuan"
+
+msgid "Options"
+msgstr "Opsi"
+
+msgid "Status"
+msgstr "Kondisi"
+
+msgid "Log"
+msgstr "Riwayat aktifitas"
+
+#. File list filter
+msgid "All items"
+msgstr "Semua item"
+
+#. File list filter
+msgid "Successful"
+msgstr "Sukses"
+
+#. File list filter
+msgid "Failed"
+msgstr "Gagal"
+
+msgid "No files added"
+msgstr "Tidak ada yang ditambahkan"
+
+msgid "No target"
+msgstr "Tujuan tidak ditemukan"
+
+#. foder
+msgid "Folder"
+msgstr "Direktori"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Files"
+msgstr "Berkas-berkas"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "Time"
+msgstr "Waktu"
+
+msgid "Total"
+msgstr "Jumlah Keseluruhan"
+
+#. bytes
+msgid "B"
+msgstr "Bits"
+
+msgid "KB"
+msgstr "KiloBytes"
+
+msgid "MB"
+msgstr "MegaBytes"
+
+msgid "GB"
+msgstr "GigaBytes"
+
+msgid "TB"
+msgstr "Terabytes"
+
+msgid "days"
+msgstr "hari"
+
+msgid "hours"
+msgstr "jam"
+
+#. minutes
+msgid "min"
+msgstr "menit"
+
+#. seconds
+msgid "s"
+msgstr "detik"
+
+#. millions
+msgid "m"
+msgstr "meter"
+
+msgid "Prompt on filename collision"
+msgstr "Tampilkan pada nama berkas yang sama"
+
+msgid "Overwrite"
+msgstr "Timpa"
+
+msgid "Overwrite all"
+msgstr "Timpa semua"
+
+msgid "Skip"
+msgstr "Lewatkan"
+
+msgid "Skip all"
+msgstr "Lewatkan semua"
+
+msgid "Keep both"
+msgstr "Simpan keduanya"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "Timpa semua berkas yang lama"
+
+msgid "Replace all smaller files"
+msgstr "Ganti semua berkas yang lebih kecil"
+
+msgid "Replace all files if size different"
+msgstr "Ganti semua berkas jika ukuran berbeda"
+
+msgid "Rename all copied files"
+msgstr "Ubah semua nama berkas yang disalin"
+
+msgid "Rename all target files"
+msgstr "Ubah semua nama berkas target"
+
+msgid "Rename all older target files"
+msgstr "Ubah semua nama berkas target yang lebih tua"
+
+#. replace dialog
+msgid "More"
+msgstr "Lebih"
+
+#. tooltips
+msgid "Select target path"
+msgstr "Pilih perangkat/alamat tujuan"
+
+msgid "Add files or folders"
+msgstr "Tambah Data"
+
+msgid "Expanded view"
+msgstr "Perluas tampilan"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "Hapus daftar data"
+
+msgid "Read target files and compare checksums"
+msgstr "Bandingkan checksums dari data yang diproses"
+
+msgid "Read source files and create checksums"
+msgstr "Membuat checksums dari data awal"
+
+msgid "Create a new list"
+msgstr "Buat daftar baru"
+
+msgid "Transfers history"
+msgstr "Riwayat pemindahan"
+
+msgid "Running with administrator priviledges"
+msgstr "Menjalan proses tanpa akses administrator"
+
+msgid "Run as administrator"
+msgstr "Jalankan dengan akses administrator"
+
+#. export dialog
+msgid "Print/export"
+msgstr "Cetak/ekspor"
+
+msgid "Preferences"
+msgstr "Pilihan"
+
+msgid "About"
+msgstr "Tentang"
+
+msgid "Order license"
+msgstr "Beli lisensi"
+
+msgid "Enter key"
+msgstr "Masukkan kunci"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(Membutuhkan akses administrator yang lebih tinggi)"
+
+msgid "Toggle row"
+msgstr "Sembunyikan Baris"
+
+msgid "Create folders"
+msgstr "Buat folder baru"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "Menggunakan atribut direktori sebelumnya (Read Only, Archive, dll)"
+
+msgid "Keep folder timestamps"
+msgstr "Gunakan data waktu direktori awal"
+
+msgid "Keep folder alternate data streams"
+msgstr "Gunakan jalur data direktori awal"
+
+msgid "Copy files"
+msgstr "Menyalin data"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "Gunakan atribut data sebelumnya (Read only, Archive, dll)"
+
+msgid "Keep file timestamps"
+msgstr "Gunakan waktu pada data awal"
+
+msgid "Keep file alternate data streams"
+msgstr "Gunakan jalur data direktori awal"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "Direktori menggunakan data ACLs awal"
+
+msgid "Keep owner information for folders"
+msgstr "Gunakan Informasi pemilik direktori sebelumnya"
+
+msgid "Keep audit information for folders"
+msgstr "Gunakan informasi audit direktori awal"
+
+msgid "Keep ACLs for files"
+msgstr "Data menggunakan ACLS awal"
+
+msgid "Keep owner information for files"
+msgstr "Jaga informasi pemilik berkas"
+
+msgid "Keep audit information for files"
+msgstr ""
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr ""
+
+msgid "Action to take on filename conflict"
+msgstr ""
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr ""
+
+msgid "Save the checksum file to the target folder"
+msgstr ""
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr ""
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr ""
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr ""
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "Tutup aplikasi"
+
+msgid "Keep app open"
+msgstr "Biarkan aplikasi tetap terbuka"
+
+msgid "Shutdown"
+msgstr "Matikan komputer"
+
+msgid "Sleep"
+msgstr "Tidur"
+
+msgid "Hibernate"
+msgstr "Hibernasi"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr ""
+
+msgid "Always On Top"
+msgstr "Selalu di atas"
+
+msgid "Shell integration"
+msgstr ""
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Kendalikan \"tarik dan letakkan\" pada file menggunakan tombol kiri tetikus seperti perintah salin dan tempel pada Explorer"
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Menambahkan tombol \"Copy\" dan \"Move\" pada bilah tombol aplikasi bawaan Total Commander"
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Pelajari bagaimana cara menambahkan tombol \"Copy\" dan \"Move\" pada Directory Opus"
+
+msgid "Misc"
+msgstr "Lain-lain"
+
+msgid "Interface"
+msgstr "Antarmuka"
+
+msgid "Register Copy Handler"
+msgstr "Daftarkan sebagai pengendali penyalinan"
+
+msgid "Unregister Copy Handler"
+msgstr "Lepaskan dari pengendalian penyalinan"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "Pakai TeraCopy sebagai pengendali penyalinan bawaan"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "Hanya jika Scroll Lock mati"
+
+msgid "Add to Explorer context menu"
+msgstr "Tambahkan ke konteks menu pada Explorer"
+
+msgid "Play sound"
+msgstr ""
+
+msgid "Check free space"
+msgstr "Periksa ruang kosong"
+
+msgid "Always test after copy"
+msgstr "Selalu uji setelah penyalinan"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Nonaktifkan pemindahan berkas secara asinkron"
+
+msgid "Use system write cache"
+msgstr ""
+
+msgid "Confirm drag and drop"
+msgstr "Konfirmasi drag dan drop"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr ""
+
+#. / file managers
+msgid "File managers"
+msgstr "Kelola berkas"
+
+msgid "Window"
+msgstr ""
+
+msgid "Show notifications"
+msgstr ""
+
+msgid "Automatic updates"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Batal"
+
+#. Window mode
+msgid "Expanded"
+msgstr ""
+
+msgid "Stacks"
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Not registered for Commercial Use"
+msgstr "Tidak terdaftar untuk pemakaian komersial"
+
+msgid "Free for Home Users"
+msgstr "Gratis untuk pemakaian di rumah"
+
+#. cancel timer
+msgid "Close"
+msgstr "Tutup"
+
+msgid "Check for updates"
+msgstr ""
+
+#. history options
+msgid "Never keep history"
+msgstr "Jangan simpan riwayat"
+
+msgid "Keep history for 1 day"
+msgstr "Simpan riwayat selama 1 hari"
+
+msgid "Keep history for 1 week"
+msgstr "Simpan riwayat selama 1 minggu"
+
+msgid "Keep history permanently"
+msgstr ""
+
+msgid "Clean history now"
+msgstr "Bersihkan riwayat sekarang"
+
+msgid "Delete"
+msgstr "Hapus"
+
+#. date
+msgid "Created"
+msgstr ""
+
+msgid "Unattended"
+msgstr "Tanpa pengawasan"
+
+msgid "Hash"
+msgstr ""
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "Asal"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "Berkas"
+
+msgid "Not calculated"
+msgstr "Tidak dikalkulasi"
+
+msgid "Modified"
+msgstr ""
+
+msgid "File info"
+msgstr "Info berkas"
+
+#. select
+msgid "This item"
+msgstr "Item ini"
+
+#. space bar key
+msgid "Space"
+msgstr "Ruang"
+
+msgid "Inverse selection"
+msgstr "Seleksi terbalik"
+
+#. select
+msgid "Same folder"
+msgstr "Folder yang sama"
+
+#. select
+msgid "Same extension"
+msgstr "Ekstensi yang sama"
+
+msgid "Deselect all"
+msgstr "Semua tidak dipilih"
+
+msgid "Select"
+msgstr "Pilih"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "Hapus yang dipilih dari daftar"
+
+#. ignore
+msgid "Ignore"
+msgstr "Abaikan"
+
+msgid "Extension"
+msgstr ""
+
+msgid "Select ignore list"
+msgstr ""
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr ""
+
+msgid "New file list"
+msgstr "Daftar berkas baru"
+
+msgid "Close all panels"
+msgstr "Tutup semua panel"
+
+msgid "Add files"
+msgstr "Tambah berkas"
+
+msgid "Add folders"
+msgstr "Tambah folder"
+
+msgid "Save checksums"
+msgstr "Simpan checksum"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "Dapatkan versi Pro"
+
+msgid "Export as"
+msgstr "Ekspor sebagai"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (dengan kolom terurut)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (untuk mengimpor di Excel, dll)"
+
+msgid "Export only"
+msgstr "Hanya ekspor"
+
+msgid "Reset list"
+msgstr ""
+
+#. ignore always
+msgid "Empty"
+msgstr ""
+
+#. always
+msgid "Edit"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "On every operation"
+msgstr ""
+
+msgid "Browse"
+msgstr "Rambah"
+
+msgid "Favorites & recent"
+msgstr "Favorit & baru saja"
+
+msgid "No open windows"
+msgstr ""
+
+msgid "Checksum copied"
+msgstr ""
+
+msgid "Copy"
+msgstr "Salin"
+
+msgid "Move"
+msgstr "Pindahkan"
+
+#. 3rd line
+msgid "Filter"
+msgstr ""
+
+msgid "Process files:"
+msgstr ""
+
+msgid "Start Now"
+msgstr "Mulai Sekarang!"
+
+msgid "Adding files..."
+msgstr ""
+
+msgid "Stop"
+msgstr "Berhenti"
+
+msgid "Pause"
+msgstr "Berhenti sejenak"
+
+msgid "Resume"
+msgstr "Lanjutkan"
+
+msgid "Applying attributes and removing folders..."
+msgstr "Menerapkan atribut dan menghapus folder..."
+
+msgid "Applying folder attributes..."
+msgstr "Menerapkan atribut folder..."
+
+#. result
+msgid "Result"
+msgstr ""
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Verify"
+msgstr "Verifikasi"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Simpan Hash"
+
+#. operation buttons
+msgid "Test"
+msgstr "Periksa"
+
+msgid "Opening via service:"
+msgstr "Buka melalui layanan:"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr ""
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "Checksum tidak tersedia, silakan salin atau menguji berkas dahulu."
+
+#. check sizes before
+msgid "No target file"
+msgstr ""
+
+msgid "Sizes mismatch"
+msgstr "Ukuran tidak sesuai"
+
+msgid "Hashes mismatch"
+msgstr "Hash tidak cocok"
+
+msgid "Waiting for other transfers..."
+msgstr "Menunggu untuk pemindahan..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr ""
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "Lebih banyak ruang diperlukan: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "Sumber sama dengan target"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr ""
+
+msgid "Destination File Already Exists"
+msgstr "Berkas tujuan sudah ada"
+
+msgid "Open file"
+msgstr "Buka berkas"
+
+msgid "Open folder"
+msgstr "Buka folder"
+
+msgid "Bigger"
+msgstr "Lebih besar"
+
+msgid "Smaller"
+msgstr "Lebih kecil"
+
+msgid "Same size"
+msgstr "Ukuran sama"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "Lewatkan semua dalam %d s"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Opsi lainnya, berlaku untuk semua berkas"
+
+msgid "Older"
+msgstr "Lebih lama"
+
+msgid "Newer"
+msgstr "Lebih baru"
+
+msgid "Same date"
+msgstr "Tanggal sama"
+
+msgid "File is offline, waiting..."
+msgstr "Berkas tidak tersedia, menunggu ..."
+
+msgid "Cancelled"
+msgstr "Dibatalkan"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "Berkas ini tersedia lagi, melanjutkan transfer..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "Disk penuh, harap beri ruang %s"
+
+msgid "File is too large for this file system"
+msgstr "File terlalu besar untuk sistem berkas ini"
+
+msgid "Error reading file."
+msgstr ""
+
+msgid "Error writing file."
+msgstr ""
+
+msgid "File skipped"
+msgstr "Berkas dilewatkan"
+
+msgid "Stopped"
+msgstr "Diberhentikan"
+
+msgid "Error creating folder."
+msgstr ""
+
+msgid "Edit in Notepad"
+msgstr ""
+
+msgid "Remove from favorites"
+msgstr ""
+
+msgid "Add to favorites"
+msgstr ""
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+
+msgid "Skip requested by user"
+msgstr "Dilewatkan oleh pengguna"
+
+msgid "Stop requested by user"
+msgstr "Diberhentikan oleh pengguna"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] ""
+
+msgid "Move to Recycle Bin"
+msgstr "Pindahkan ke Recycle Bin"
+
+msgid "Delete from disk"
+msgstr "Hapus dari disk"
+
+msgid "Wipe data"
+msgstr "Hapus permanen data"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr ""
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr ""
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Sangat lambat, satu pass dengan data acak, tidak berguna untuk solid state drive."
+
+msgid "Delete ALL files in the list?"
+msgstr "Hapus SEMUA berkas dalam daftar?"
+
+msgid "Folder not found"
+msgstr ""
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr ""
+
+msgid "Error opening file."
+msgstr ""
+
+msgid "Error deleting file."
+msgstr ""
+
+msgid "Paused"
+msgstr "Dihentikan sejenak"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr ""
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr ""
+
+msgid "Append path"
+msgstr ""
+
+msgid "File list is empty"
+msgstr ""
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr ""
+
+msgid "Unavailable"
+msgstr ""
+
+msgid "Querying..."
+msgstr ""
+
+msgid "Drag files or folders here"
+msgstr "Tarik berkas atau folder disini"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr ""
+
+msgid "Verify files after transfer"
+msgstr ""
+
+msgid "Save checksum file on finish"
+msgstr "Simpan checksum berkas saat selesai"
+
+msgid "Auto-scroll"
+msgstr "Scroll otomatis"
+
+#. menu
+msgid "Menu"
+msgstr ""
+
+msgid "Shared options"
+msgstr ""
+
+msgid "buffer size"
+msgstr ""
+
+#. captions
+msgid "Transfer"
+msgstr "Pindah"
+
+msgid "Transfer options"
+msgstr ""
+
+msgid "Files & folders"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "Attributes"
+msgstr ""
+
+msgid "Timestamps"
+msgstr ""
+
+msgid "Streams"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "ACL"
+msgstr ""
+
+msgid "Owner"
+msgstr ""
+
+msgid "Audit"
+msgstr ""
+
+msgid "Test options"
+msgstr ""
+
+msgid "Store/verify checksum in ADS"
+msgstr ""
+
+msgid "Save as default"
+msgstr ""
+
+msgid "Reset to default"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+

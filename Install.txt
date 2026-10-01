@@ -1,0 +1,55 @@
+Installing from a zip file
+
+1. Install location
+
+To install for your user profile only, move the contents of the zip file into a
+folder inside your profile, for example:
+
+- \Users\%USER%\Apps
+- \Users\%USER%\AppData\Local\Programs\
+
+To install for all users, use a location accessible to everyone:
+
+- \Apps
+- \Program Files
+
+Delete the Portable file so each user has their own data folder.
+
+2. Run the install batch file
+
+Run install.cmd from the install location. When run from outside your user
+folder, it will automatically restart with administrator privileges.
+
+The batch file will:
+
+- Register the copy handler (teracopy[arm|x86].dll)
+- Register the context menu extension (context[arm|x86].dll)
+- Add a TeraCopy entry to the modern context menu (optional)
+
+3. 32-bit version
+
+If you are using a 32-bit/x86 OS, replace these files with the ones in the
+\32-bit folder:
+
+- TeraCopy.exe
+- Blake3.dll
+
+4. Upgrading an existing installation
+
+For minor upgrades, it is usually enough to copy TeraCopy.exe over the existing
+file in the install location. Compare dates and file versions using the
+Properties > Details tab to determine which additional files need to be copied.
+
+5. Portable vs normal install
+
+Where TeraCopy stores data depends on whether the Portable file is present:
+
+- Portable install (default; file present)
+  - Data folder: same as the app folder
+
+- Normal install (recommended for all-user installs)
+  - Data folder: %APPDATA%\TeraCopy (\Users\%USER%\AppData\Roaming\TeraCopy)
+
+6. Uninstallation
+
+Run uninstall.cmd from the install location.

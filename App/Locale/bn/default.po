@@ -1,0 +1,926 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-06-04 07:22\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: bn\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Bengali\n"
+"Language: bn_BD\n"
+
+#. mode
+msgid "Copying"
+msgstr "নকল"
+
+msgid "Moving"
+msgstr "চলছে"
+
+msgid "Testing"
+msgstr "পরীক্ষণ"
+
+msgid "Verifying"
+msgstr "প্রতিপাদক"
+
+msgid "Deleting"
+msgstr "মুচ্ছে"
+
+#. results
+msgid "Added"
+msgstr "যুক্ত"
+
+msgid "OK"
+msgstr "ঠিক"
+
+msgid "Verified"
+msgstr "পরীক্ষিত"
+
+msgid "Error"
+msgstr "সমস্যা"
+
+#. File list filter
+msgid "Skipped"
+msgstr "অগ্রাহ্য করা হয়েছে"
+
+msgid "Deleted"
+msgstr "মোছা"
+
+msgid "Moved"
+msgstr "সরানো"
+
+msgid "Absent"
+msgstr "অনুপস্থিত"
+
+#. File list filter
+msgid "Ignored"
+msgstr "অবহেলিত"
+
+msgid "File list"
+msgstr "পত্র তালিকা"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "কোথায় যাবে"
+
+msgid "Options"
+msgstr "বিকল্প"
+
+msgid "Status"
+msgstr "অবস্থা"
+
+msgid "Log"
+msgstr "তালিকা"
+
+#. File list filter
+msgid "All items"
+msgstr "সব জিনিস"
+
+#. File list filter
+msgid "Successful"
+msgstr "সফল"
+
+#. File list filter
+msgid "Failed"
+msgstr "অসফল"
+
+msgid "No files added"
+msgstr "কোন জিনিস নেই"
+
+msgid "No target"
+msgstr "লক্ষ্যহীন"
+
+#. foder
+msgid "Folder"
+msgstr "ফোল্ডার"
+
+msgid "Category"
+msgstr "শ্রেণী"
+
+msgid "Files"
+msgstr "নথিপত্র"
+
+msgid "Bytes"
+msgstr "বাইট"
+
+msgid "Time"
+msgstr "সময়"
+
+msgid "Total"
+msgstr "সর্বমোট"
+
+#. bytes
+msgid "B"
+msgstr "বি"
+
+msgid "KB"
+msgstr "কিলোবাইট"
+
+msgid "MB"
+msgstr "মেগাবাইট"
+
+msgid "GB"
+msgstr "গিগাবাইট"
+
+msgid "TB"
+msgstr "টেরাবাইট"
+
+msgid "days"
+msgstr "দিন"
+
+msgid "hours"
+msgstr "ঘন্টা"
+
+#. minutes
+msgid "min"
+msgstr "মিনিট"
+
+#. seconds
+msgid "s"
+msgstr "এস"
+
+#. millions
+msgid "m"
+msgstr "এম"
+
+msgid "Prompt on filename collision"
+msgstr "ফাইলের নাম সংঘর্ষে প্রম্পট করুন"
+
+msgid "Overwrite"
+msgstr "ফাইলটার উপরেই কপি"
+
+msgid "Overwrite all"
+msgstr "সব আবার কর"
+
+msgid "Skip"
+msgstr "এটা অগ্রাহ্য"
+
+msgid "Skip all"
+msgstr "সব বাদ"
+
+msgid "Keep both"
+msgstr "দুটোই রাখ"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "সব পুরানো ফাইল আবার করুন"
+
+msgid "Replace all smaller files"
+msgstr "সব ছোট ফাইল বদল করুন"
+
+msgid "Replace all files if size different"
+msgstr "সব ফাইল বদল করুন যদি তা ছোট হয়"
+
+msgid "Rename all copied files"
+msgstr "সমস্ত অনুলিপি করা ফাইলের নাম পরিবর্তন করুন"
+
+msgid "Rename all target files"
+msgstr "সমস্ত টার্গেট ফাইলের নাম পরিবর্তন করুন"
+
+msgid "Rename all older target files"
+msgstr "সমস্ত পুরানো টার্গেট ফাইলের নাম পরিবর্তন করুন"
+
+#. replace dialog
+msgid "More"
+msgstr "আরও"
+
+#. tooltips
+msgid "Select target path"
+msgstr "লক্ষ্য পথ নির্বাচন করুন"
+
+msgid "Add files or folders"
+msgstr "ফাইল বা ফোল্ডার যোগ করুন"
+
+msgid "Expanded view"
+msgstr "প্রসারিত দৃশ্য"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "তালিকার সমস্ত ফাইল মুছুন"
+
+msgid "Read target files and compare checksums"
+msgstr "লক্ষ্য ফাইল পড়ুন এবং যোগফল তুলনা করুন"
+
+msgid "Read source files and create checksums"
+msgstr "লক্ষ্য ফাইল পড়ুন এবং যোগফল তৈরি করুন"
+
+msgid "Create a new list"
+msgstr "একটি নতুন তালিকা তৈরি করুন"
+
+msgid "Transfers history"
+msgstr "ইতিহাস স্থানান্তর"
+
+msgid "Running with administrator priviledges"
+msgstr "প্রশাসক বিশেষাধিকার সঙ্গে চলমান"
+
+msgid "Run as administrator"
+msgstr "প্রশাসক হিসাবে চালান"
+
+#. export dialog
+msgid "Print/export"
+msgstr "মুদ্রণ/রপ্তানি"
+
+msgid "Preferences"
+msgstr "পছন্দসমূহ"
+
+msgid "About"
+msgstr "সম্পর্কিত"
+
+msgid "Order license"
+msgstr "লাইসেন্স অর্ডার করুন"
+
+msgid "Enter key"
+msgstr "কী লিখুন"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(এর জন্য উন্নত সুযোগ-সুবিধা প্রয়োজন)"
+
+msgid "Toggle row"
+msgstr "সারি টগল করুন"
+
+msgid "Create folders"
+msgstr "ফোল্ডার তৈরি করুন"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "ফোল্ডারের বৈশিষ্ট্যগুলি রাখুন (শুধু পঠন, সংরক্ষণাগার...)"
+
+msgid "Keep folder timestamps"
+msgstr "ফোল্ডার এর সময় তুলে রাখুন"
+
+msgid "Keep folder alternate data streams"
+msgstr "ফোল্ডার বিকল্প ডাটা স্ট্রীম রাখুন"
+
+msgid "Copy files"
+msgstr "ফাইল কপি করুন"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "ফাইলের বৈশিষ্ট্যগুলি রাখুন (শুধুমাত্র পঠন, সংরক্ষণাগার...)"
+
+msgid "Keep file timestamps"
+msgstr "ফাইল এর সময় তুলে রাখুন"
+
+msgid "Keep file alternate data streams"
+msgstr "ফাইলের বিকল্প ডেটা স্ট্রীম রাখুন"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "ফোল্ডারের জন্য ACLs রাখুন"
+
+msgid "Keep owner information for folders"
+msgstr "ফোল্ডারের জন্য মালিকের তথ্য রাখুন"
+
+msgid "Keep audit information for folders"
+msgstr "ফোল্ডারের জন্য অডিট তথ্য রাখুন"
+
+msgid "Keep ACLs for files"
+msgstr "ফাইলের জন্য ACLs রাখুন"
+
+msgid "Keep owner information for files"
+msgstr "ফাইলের জন্য মালিকের তথ্য রাখুন"
+
+msgid "Keep audit information for files"
+msgstr "ফাইলের জন্য অডিট তথ্য রাখুন"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "সমস্ত অপারেশন জন্য বাফার আকার"
+
+msgid "Action to take on filename conflict"
+msgstr "ফাইলের নাম দ্বন্দ্বে নেওয়ার জন্য পদক্ষেপ"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "ফাইল স্থানান্তর বা পরীক্ষা করার সময় চেকসাম গণনা করার পদ্ধতি"
+
+msgid "Save the checksum file to the target folder"
+msgstr "চেকসাম ফাইলটি লক্ষ্য ফোল্ডারে সংরক্ষণ করুন"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "চেকসাম ফাইলটি লক্ষ্য ফোল্ডারে সংরক্ষণ করুন"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "বিকল্প ডেটা স্ট্রীম ব্যবহার করে ফাইলের ভিতরে গণনা করা চেকসাম সংরক্ষণ করুন"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "সব অপারেশন বন্ধ?"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "অ্যাপ বন্ধ করুন"
+
+msgid "Keep app open"
+msgstr "অ্যাপ খোলা রাখুন"
+
+msgid "Shutdown"
+msgstr "শাটডাউন"
+
+msgid "Sleep"
+msgstr "ঘুম"
+
+msgid "Hibernate"
+msgstr "শীতযাপন করা"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "শেষের দিকে: %s"
+
+msgid "Always On Top"
+msgstr "সর্বদা উপরে থাকবে"
+
+msgid "Shell integration"
+msgstr "শেল ইন্টিগ্রেশন"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "এক্সপ্লোরারে বাম মাউস বোতামের পাশাপাশি কপি এবং পেস্ট কমান্ড ব্যবহার করে ফাইলগুলিকে টেনে আনুন এবং ড্রপ করুন."
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "টোটাল কমান্ডার ডিফল্ট বোতাম বারে কপি এবং সরান বোতাম যোগ করে."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "ডাইরেক্টরি অপাসে কীভাবে কপি এবং সরান বোতাম যুক্ত করবেন তা পড়ুন."
+
+msgid "Misc"
+msgstr "বিবিধ"
+
+msgid "Interface"
+msgstr "পদ্ধতি"
+
+msgid "Register Copy Handler"
+msgstr "নিবন্ধন অনুলিপি হ্যান্ডলার"
+
+msgid "Unregister Copy Handler"
+msgstr "অনুলিপি হ্যান্ডলার নিবন্ধনমুক্ত করুন"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "Default কপি হ্যান্ডলার হিসাবে TeraCopy ব্যবহার করুন"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "শুধুমাত্র যখন স্ক্রোল লক বন্ধ থাকে"
+
+msgid "Add to Explorer context menu"
+msgstr "এক্সপ্লোরার প্রসঙ্গ মেনুতে যোগ করুন"
+
+msgid "Play sound"
+msgstr "শব্দ বাজানো"
+
+msgid "Check free space"
+msgstr "খালিস্থান পরীক্ষা করুন"
+
+msgid "Always test after copy"
+msgstr "সর্বদা অনুলিপি এর পরে পরীক্ষা"
+
+msgid "Disable asynchronous file transfer"
+msgstr "অ্যাসিঙ্ক্রোনাস ফাইল স্থানান্তর অক্ষম করুন"
+
+msgid "Use system write cache"
+msgstr "সিস্টেম রাইট ক্যাশে ব্যবহার করুন"
+
+msgid "Confirm drag and drop"
+msgstr "টেনে আনুন এবং ড্রপ নিশ্চিত করুন"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "ক্লিপবোর্ডে একটি চেকসামের বিরুদ্ধে একক ফাইল পরীক্ষা করুন"
+
+#. / file managers
+msgid "File managers"
+msgstr "ফাইল ব্যবস্থাপক"
+
+msgid "Window"
+msgstr "জানালা"
+
+msgid "Show notifications"
+msgstr "বিজ্ঞপ্তি দেখান"
+
+msgid "Automatic updates"
+msgstr "স্বয়ংক্রিয় আধুনিকীকরণ"
+
+msgid "Cancel"
+msgstr "বাদ দাও"
+
+#. Window mode
+msgid "Expanded"
+msgstr "প্রসারিত"
+
+msgid "Stacks"
+msgstr "তালায় তালায়"
+
+msgid "Auto"
+msgstr "স্বয়ংক্রিয়"
+
+msgid "Not registered for Commercial Use"
+msgstr "বাণিজ্যিক ব্যবহারের জন্য নিবন্ধিত নয়"
+
+msgid "Free for Home Users"
+msgstr "বাড়ি থেকে ব্যবহারকারীদের জন্য বিনামূল্যে"
+
+#. cancel timer
+msgid "Close"
+msgstr "বন্ধ কর"
+
+msgid "Check for updates"
+msgstr "হালনাগাদ এর জন্য অনুসন্ধান করুন"
+
+#. history options
+msgid "Never keep history"
+msgstr "ইতিহাস কখনোই রাখবেন না"
+
+msgid "Keep history for 1 day"
+msgstr "1 দিনের জন্য ইতিহাস রাখুন"
+
+msgid "Keep history for 1 week"
+msgstr "1 সপ্তাহের জন্য ইতিহাস রাখুন"
+
+msgid "Keep history permanently"
+msgstr "ইতিহাস স্থায়ীভাবে রাখুন"
+
+msgid "Clean history now"
+msgstr "এখন ইতিহাস পরিষ্কার করুন"
+
+msgid "Delete"
+msgstr "মোছো"
+
+#. date
+msgid "Created"
+msgstr "তৈরি করুন"
+
+msgid "Unattended"
+msgstr "অনুপস্থিত"
+
+msgid "Hash"
+msgstr "হ্যাশ"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "উৎস"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "ফাইল"
+
+msgid "Not calculated"
+msgstr "হিসাব করা হয়নি"
+
+msgid "Modified"
+msgstr "সংশোধন"
+
+msgid "File info"
+msgstr "ফাইলের তথ্য"
+
+#. select
+msgid "This item"
+msgstr "এই সামগ্রী"
+
+#. space bar key
+msgid "Space"
+msgstr "স্থান"
+
+msgid "Inverse selection"
+msgstr "বিপরীত নির্বাচন"
+
+#. select
+msgid "Same folder"
+msgstr "একই ফোল্ডার"
+
+#. select
+msgid "Same extension"
+msgstr "একই এক্সটেনশন"
+
+msgid "Deselect all"
+msgstr "সব গুলো অনির্বাচিত কর"
+
+msgid "Select"
+msgstr "নির্বাচন কর"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "বাছাইটি বাদ দিন"
+
+#. ignore
+msgid "Ignore"
+msgstr "উপেক্ষা কর"
+
+msgid "Extension"
+msgstr "প্রসারণ"
+
+msgid "Select ignore list"
+msgstr "উপেক্ষা তালিকা নির্বাচন করুন"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "যোগ করা: %s"
+
+msgid "New file list"
+msgstr "নতুন ফাই্লের তালিকা"
+
+msgid "Close all panels"
+msgstr "সমস্ত প্যানেল বন্ধ করুন"
+
+msgid "Add files"
+msgstr "ফাইল যুক্ত করুন"
+
+msgid "Add folders"
+msgstr "ফোল্ডার যোগ করুন"
+
+msgid "Save checksums"
+msgstr "যোগফল সংরক্ষণ করুন"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "প্রো সংস্করণ নিন"
+
+msgid "Export as"
+msgstr "হিসাবে রপ্তানি করুন"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (বাছাইযোগ্য কলাম সহ)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (এক্সেল, ইত্যাদি আমদানি করতে)"
+
+msgid "Export only"
+msgstr "শুধুমাত্র রপ্তানি"
+
+msgid "Reset list"
+msgstr "তালিকা রিসেট করুন"
+
+#. ignore always
+msgid "Empty"
+msgstr "খালি"
+
+#. always
+msgid "Edit"
+msgstr "সম্পাদনা করুন"
+
+msgid "Download"
+msgstr "ডাউনলোড"
+
+msgid "On every operation"
+msgstr "প্রতিটি অপারেশনে"
+
+msgid "Browse"
+msgstr "ব্রাউজ"
+
+msgid "Favorites & recent"
+msgstr "প্রিয় এবং সাম্প্রতিক"
+
+msgid "No open windows"
+msgstr "খোলা জানালা নেই"
+
+msgid "Checksum copied"
+msgstr "চেকসাম কপি করা হয়েছে"
+
+msgid "Copy"
+msgstr "কপি"
+
+msgid "Move"
+msgstr "সরাও"
+
+#. 3rd line
+msgid "Filter"
+msgstr "ছাঁকন"
+
+msgid "Process files:"
+msgstr "প্রসেস ফাইল:"
+
+msgid "Start Now"
+msgstr "এখনি শুরু কর"
+
+msgid "Adding files..."
+msgstr "ফাইল যোগ করা হচ্ছে..."
+
+msgid "Stop"
+msgstr "থামুন"
+
+msgid "Pause"
+msgstr "থামিয়ে রাখ"
+
+msgid "Resume"
+msgstr "বন্ধ থেকেই চালু"
+
+msgid "Applying attributes and removing folders..."
+msgstr "গুণাবলী প্রয়োগ করা এবং ফোল্ডারগুলি সরানো হচ্ছে..."
+
+msgid "Applying folder attributes..."
+msgstr "ফোল্ডার বৈশিষ্ট্য প্রয়োগ করা হচ্ছে..."
+
+#. result
+msgid "Result"
+msgstr "ফলাফল"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: সম্পন্ন"
+
+msgid "Next"
+msgstr "পরবর্তী"
+
+msgid "Verify"
+msgstr "নিরীক্ষণ"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "হ্যাশ সংরক্ষণ করুন"
+
+#. operation buttons
+msgid "Test"
+msgstr "ঠিক আছে কিনা"
+
+msgid "Opening via service:"
+msgstr "পরিষেবার মাধ্যমে খোলা হচ্ছে:"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "%s হ্যাশ ফাইল সংরক্ষিত"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "কোন চেকসাম উপলব্ধ নেই, অনুগ্রহ করে প্রথমে ফাইল কপি বা পরীক্ষা করুন."
+
+#. check sizes before
+msgid "No target file"
+msgstr "কোন টার্গেট ফাইল নেই"
+
+msgid "Sizes mismatch"
+msgstr "মাপ অমিল"
+
+msgid "Hashes mismatch"
+msgstr "হ্যাশ অমিল"
+
+msgid "Waiting for other transfers..."
+msgstr "অন্য স্থানান্তরের জন্য অপেক্ষা করা হচ্ছে..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "রিসেট সম্পন্ন এবং সমস্ত যোগ করা ফাইল প্রক্রিয়া?"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "আরও জায়গা প্রয়োজন: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "উত্স লক্ষ্য হিসাবে একই"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "গন্তব্য ফোল্ডারটি উৎস ফোল্ডারের একটি সাবফোল্ডার!"
+
+msgid "Destination File Already Exists"
+msgstr "গন্তব্য ফাইল ইতিমধ্যেই বিদ্যমান৷"
+
+msgid "Open file"
+msgstr "ফাইল খুলুন"
+
+msgid "Open folder"
+msgstr "ফোল্ডার খুলুন"
+
+msgid "Bigger"
+msgstr "বড়"
+
+msgid "Smaller"
+msgstr "ছোট"
+
+msgid "Same size"
+msgstr "একই আকার"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "সব এড়িয়ে যান %d s"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "আরও বিকল্প, সমস্ত ফাইলের জন্য প্রযোজ্য"
+
+msgid "Older"
+msgstr "বয়স্ক"
+
+msgid "Newer"
+msgstr "নতুন"
+
+msgid "Same date"
+msgstr "একই তারিখ"
+
+msgid "File is offline, waiting..."
+msgstr "ফাইল অফলাইন, অপেক্ষা করছে..."
+
+msgid "Cancelled"
+msgstr "বাতিল"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "ফাইলটি আবার উপলব্ধ, স্থানান্তর পুনরায় শুরু হচ্ছে..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "ডিস্ক পূর্ণ, দয়া করে খালি করুন %s"
+
+msgid "File is too large for this file system"
+msgstr "এই ফাইল সিস্টেমের জন্য ফাইলটি খুব বড়৷"
+
+msgid "Error reading file."
+msgstr "ফাইল পড়া ত্রুটি."
+
+msgid "Error writing file."
+msgstr "ফাইল লেখার সময় ত্রুটি."
+
+msgid "File skipped"
+msgstr "ফাইল এড়িয়ে গেছে"
+
+msgid "Stopped"
+msgstr "থামা"
+
+msgid "Error creating folder."
+msgstr "ফাইল পড়া ত্রুটি."
+
+msgid "Edit in Notepad"
+msgstr "নোটপ্যাডে সম্পাদনা করুন"
+
+msgid "Remove from favorites"
+msgstr "পছন্দসমূহ থেকে সরান"
+
+msgid "Add to favorites"
+msgstr "পছন্দসমূহে যোগ করুন"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d জিনিসপত্র"
+msgstr[1] "%d জিনিসপত্র গুলো"
+
+msgid "Skip requested by user"
+msgstr "ব্যবহারকারীর অনুরোধ এড়িয়ে যান"
+
+msgid "Stop requested by user"
+msgstr "ব্যবহারকারী দ্বারা অনুরোধ করা বন্ধ করুন"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "ডিস্ক থেকে %d ফাইল মুছবেন?"
+msgstr[1] "ডিস্ক থেকে %d ফাইল মুছবেন?"
+
+msgid "Move to Recycle Bin"
+msgstr "রিসাইকেল বিনে সরান"
+
+msgid "Delete from disk"
+msgstr "ডিস্ক হতে ডিলেট করুন"
+
+msgid "Wipe data"
+msgstr "ডাটা মুছে ফেলা"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "ধীরে ধীরে, পুনরুদ্ধার করা সহজ."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "দ্রুত, পুনরুদ্ধার করা কঠিন."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "খুব ধীর, র্যান্ডম ডেটা সহ একটি পাস, সলিড স্টেট ড্রাইভের জন্য অকেজো."
+
+msgid "Delete ALL files in the list?"
+msgstr "তালিকার সমস্ত ফাইল মুছুন?"
+
+msgid "Folder not found"
+msgstr "ফোল্ডার পাওয়া যায়নি"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "%s ক্লিপবোর্ডে হ্যাশ মিল: #10%s"
+
+msgid "Error opening file."
+msgstr "ফাইল খলার সময় ত্রুটি."
+
+msgid "Error deleting file."
+msgstr "ফাইল মুছে ফেলার সময় ত্রুটি."
+
+msgid "Paused"
+msgstr "বিরত"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "ত্রুটি: %d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "এড়িয়ে: %d"
+
+msgid "Append path"
+msgstr "পথ যোগ করুন"
+
+msgid "File list is empty"
+msgstr "ফাইলের তালিকা খালি"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "খালি জায়গা: %s"
+
+msgid "Unavailable"
+msgstr "অনুপলব্ধ"
+
+msgid "Querying..."
+msgstr "প্রশ্ন করা হচ্ছে..."
+
+msgid "Drag files or folders here"
+msgstr "এখানে ফাইল বা ফোল্ডার টেনে আনুন"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "দেখানোর জন্য কোনো আইটেম নেই। সমস্ত ফাইল দেখতে ফিল্টার সরান."
+
+msgid "Verify files after transfer"
+msgstr "স্থানান্তর করার পরে ফাইলগুলি যাচাই করুন"
+
+msgid "Save checksum file on finish"
+msgstr "শেষ হলে চেকসাম ফাইল সংরক্ষণ করুন"
+
+msgid "Auto-scroll"
+msgstr "চম্ন"
+
+#. menu
+msgid "Menu"
+msgstr "প্রধান তালিকা"
+
+msgid "Shared options"
+msgstr "ভাগ করা বিকল্প"
+
+msgid "buffer size"
+msgstr "বাফারের আকার"
+
+#. captions
+msgid "Transfer"
+msgstr "স্থানান্তর"
+
+msgid "Transfer options"
+msgstr "স্থানান্তর বিকল্প"
+
+msgid "Files & folders"
+msgstr "ফাইল এবং ফোল্ডার"
+
+msgid "Data"
+msgstr "তথ্য"
+
+msgid "Attributes"
+msgstr "গুণাবলী"
+
+msgid "Timestamps"
+msgstr "টাইমস্ট্যাম্প"
+
+msgid "Streams"
+msgstr "স্ট্রিম"
+
+msgid "Security"
+msgstr "নিরাপত্তা"
+
+msgid "ACL"
+msgstr "ACL"
+
+msgid "Owner"
+msgstr "মালিক"
+
+msgid "Audit"
+msgstr "নিরীক্ষা"
+
+msgid "Test options"
+msgstr "পরীক্ষার বিকল্প"
+
+msgid "Store/verify checksum in ADS"
+msgstr "ADS-এ চেকসাম সংরক্ষণ করুন/যাচাই করুন"
+
+msgid "Save as default"
+msgstr "ডিফল্ট হিসাবে সংরক্ষণ করুন"
+
+msgid "Reset to default"
+msgstr "পূর্ব-নির্ধারিত অবস্থায় ফিরে যান"
+
+msgid "Done"
+msgstr "সম্পন্ন"
+

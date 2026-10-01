@@ -1,0 +1,926 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-06-04 07:22\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+
+#. mode
+msgid "Copying"
+msgstr "Kopierar"
+
+msgid "Moving"
+msgstr "Flyttar"
+
+msgid "Testing"
+msgstr "Testar"
+
+msgid "Verifying"
+msgstr "Verifierar"
+
+msgid "Deleting"
+msgstr "Raderar"
+
+#. results
+msgid "Added"
+msgstr "Tillagd"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Verified"
+msgstr "Verifierad"
+
+msgid "Error"
+msgstr "Fel"
+
+#. File list filter
+msgid "Skipped"
+msgstr "Skippad"
+
+msgid "Deleted"
+msgstr "Borttagen"
+
+msgid "Moved"
+msgstr "Flyttad"
+
+msgid "Absent"
+msgstr "Frånvarande"
+
+#. File list filter
+msgid "Ignored"
+msgstr "Ignorerad"
+
+msgid "File list"
+msgstr "Fillista"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "Mål"
+
+msgid "Options"
+msgstr "Alternativ"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Log"
+msgstr "Loggar"
+
+#. File list filter
+msgid "All items"
+msgstr "Allt innehåll"
+
+#. File list filter
+msgid "Successful"
+msgstr "Slutfört"
+
+#. File list filter
+msgid "Failed"
+msgstr "Misslyckades"
+
+msgid "No files added"
+msgstr "Inga filer tillagda"
+
+msgid "No target"
+msgstr "Inget mål"
+
+#. foder
+msgid "Folder"
+msgstr "Mapp"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Files"
+msgstr "Filer"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "Time"
+msgstr "Tid"
+
+msgid "Total"
+msgstr "Totalt"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "dagar"
+
+msgid "hours"
+msgstr "timmar"
+
+#. minutes
+msgid "min"
+msgstr "min"
+
+#. seconds
+msgid "s"
+msgstr "s"
+
+#. millions
+msgid "m"
+msgstr "m"
+
+msgid "Prompt on filename collision"
+msgstr "Fråga vid konflikt med filnamn"
+
+msgid "Overwrite"
+msgstr "Skriv över"
+
+msgid "Overwrite all"
+msgstr "Skriv över allt"
+
+msgid "Skip"
+msgstr "Hoppa över"
+
+msgid "Skip all"
+msgstr "Hoppa över alla"
+
+msgid "Keep both"
+msgstr "Behåll båda"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "Skriv över alla äldre filer"
+
+msgid "Replace all smaller files"
+msgstr "Ersätt alla mindre filer"
+
+msgid "Replace all files if size different"
+msgstr "Ersätt alla filer om storleken är olika"
+
+msgid "Rename all copied files"
+msgstr "Byt namn på alla kopierade filer"
+
+msgid "Rename all target files"
+msgstr "Byt namn på alla målfiler"
+
+msgid "Rename all older target files"
+msgstr "Byt namn på alla äldre målfiler"
+
+#. replace dialog
+msgid "More"
+msgstr "Mer"
+
+#. tooltips
+msgid "Select target path"
+msgstr "Välj målsökväg"
+
+msgid "Add files or folders"
+msgstr "Lägg till filer eller mappar"
+
+msgid "Expanded view"
+msgstr "Utökad vy"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "Ta bort alla filer i listan"
+
+msgid "Read target files and compare checksums"
+msgstr "Läs målfiler och jämför kontrollsummor"
+
+msgid "Read source files and create checksums"
+msgstr "Läsa källfiler och skapa kontrollsummor"
+
+msgid "Create a new list"
+msgstr "Skapa en ny lista"
+
+msgid "Transfers history"
+msgstr "Överföringshistorik"
+
+msgid "Running with administrator priviledges"
+msgstr "Körs med administratörsrättigheter"
+
+msgid "Run as administrator"
+msgstr "Kör som administratör"
+
+#. export dialog
+msgid "Print/export"
+msgstr "Skriv ut/exportera"
+
+msgid "Preferences"
+msgstr "Inställningar"
+
+msgid "About"
+msgstr "Om"
+
+msgid "Order license"
+msgstr "Beställ licens"
+
+msgid "Enter key"
+msgstr "Ange licensnyckel"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(detta kräver förhöjda privilegier)"
+
+msgid "Toggle row"
+msgstr "Växla rad"
+
+msgid "Create folders"
+msgstr "Skapa mappar"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "Behåll mappattribut (Läs bara, arkiv...)"
+
+msgid "Keep folder timestamps"
+msgstr "Behåll mappens tidsstämplar"
+
+msgid "Keep folder alternate data streams"
+msgstr "Behåll mappens alternativa dataströmmar"
+
+msgid "Copy files"
+msgstr "Kopiera filer"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "Behåll filattribut (Läs bara, Arkiv...)"
+
+msgid "Keep file timestamps"
+msgstr "Behåll filens tidsstämplar"
+
+msgid "Keep file alternate data streams"
+msgstr "Behåll alternativa dataströmmar för fil"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "Behåll ACL:er för mappar"
+
+msgid "Keep owner information for folders"
+msgstr "Behåll ägarinformation för mappar"
+
+msgid "Keep audit information for folders"
+msgstr "Behåll granskningsinformation för mappar"
+
+msgid "Keep ACLs for files"
+msgstr "Behåll ACL:er för filer"
+
+msgid "Keep owner information for files"
+msgstr "Behåll ägarinformation för filer"
+
+msgid "Keep audit information for files"
+msgstr "Behåll granskningsinformation för filer"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "Buffertstorlek för alla operationer"
+
+msgid "Action to take on filename conflict"
+msgstr "Åtgärd för att ta på filnamnskonflikt"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "Metod för att beräkna kontrollsummor vid överföring eller testning av filer"
+
+msgid "Save the checksum file to the target folder"
+msgstr "Spara kontrollsummefilen till målmappen"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "Spara kontrollsummefilen till källmappen"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "Lagra beräknad kontrollsumma inuti filen med hjälp av alternativa dataströmmar"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "Stoppa alla åtgärder?"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "Stäng app"
+
+msgid "Keep app open"
+msgstr "Håll appen öppen"
+
+msgid "Shutdown"
+msgstr "Avsluta"
+
+msgid "Sleep"
+msgstr "Viloläge"
+
+msgid "Hibernate"
+msgstr "Viloläge"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "Vid slut: %s"
+
+msgid "Always On Top"
+msgstr "Alltid överst"
+
+msgid "Shell integration"
+msgstr "Shell integration"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Hantera dra-och-släpp av filer med vänster musknapp samt kopiera och klistra in i Utforskaren."
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Lägg till Kopierings- och Flyttknappar till Total Commanders standardknappar."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Läs hur man lägger till Kopiera och Flytta-knappar till Directory Opus."
+
+msgid "Misc"
+msgstr "Diverse"
+
+msgid "Interface"
+msgstr "Gränssnitt"
+
+msgid "Register Copy Handler"
+msgstr "Registrera kopieringshantering"
+
+msgid "Unregister Copy Handler"
+msgstr "Avregistrera kopieringshantering"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "Använd TeraCopy som standardhanterare för kopiering"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "Bara när Scroll-lock är AV"
+
+msgid "Add to Explorer context menu"
+msgstr "Lägg till Utforskarens snabbmeny"
+
+msgid "Play sound"
+msgstr "Spela ljud"
+
+msgid "Check free space"
+msgstr "Kontrollera ledigt utrymme"
+
+msgid "Always test after copy"
+msgstr "Verifiera alltid efter kopiering"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Inaktivera asynkron filöverföring"
+
+msgid "Use system write cache"
+msgstr "Använd systemets skrivcache"
+
+msgid "Confirm drag and drop"
+msgstr "Bekräfta dra och släpp"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "Testa enstaka filer mot en kontrollsumma i Urklipp"
+
+#. / file managers
+msgid "File managers"
+msgstr "Filhanterare"
+
+msgid "Window"
+msgstr "Fönster"
+
+msgid "Show notifications"
+msgstr "Visa meddelanden"
+
+msgid "Automatic updates"
+msgstr "Automatiska uppdateringar"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+#. Window mode
+msgid "Expanded"
+msgstr "Utökat"
+
+msgid "Stacks"
+msgstr "Staplar"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Not registered for Commercial Use"
+msgstr "Inte registrerad för kommersiell användning"
+
+msgid "Free for Home Users"
+msgstr "Gratis för hemanvändare"
+
+#. cancel timer
+msgid "Close"
+msgstr "Stäng"
+
+msgid "Check for updates"
+msgstr "Sök efter uppdateringar"
+
+#. history options
+msgid "Never keep history"
+msgstr "Behåll aldrig historik"
+
+msgid "Keep history for 1 day"
+msgstr "Behåll historik i 1 dag"
+
+msgid "Keep history for 1 week"
+msgstr "Behåll historik i 1 vecka"
+
+msgid "Keep history permanently"
+msgstr "Behåll historik permanent"
+
+msgid "Clean history now"
+msgstr "Rensa historik nu"
+
+msgid "Delete"
+msgstr "Radera"
+
+#. date
+msgid "Created"
+msgstr "Skapad"
+
+msgid "Unattended"
+msgstr "Obevakad"
+
+msgid "Hash"
+msgstr "Checksumma"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "Källa"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "Fil"
+
+msgid "Not calculated"
+msgstr "Inte beräknad"
+
+msgid "Modified"
+msgstr "Ändrad"
+
+msgid "File info"
+msgstr "Filinfo"
+
+#. select
+msgid "This item"
+msgstr "Detta objekt"
+
+#. space bar key
+msgid "Space"
+msgstr "Mellanslag"
+
+msgid "Inverse selection"
+msgstr "Omvänd markering"
+
+#. select
+msgid "Same folder"
+msgstr "Samma mapp"
+
+#. select
+msgid "Same extension"
+msgstr "Samma filnamnstillägg"
+
+msgid "Deselect all"
+msgstr "Avmarkera alla"
+
+msgid "Select"
+msgstr "Välj"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "Ta bort markerade"
+
+#. ignore
+msgid "Ignore"
+msgstr "Ignorera"
+
+msgid "Extension"
+msgstr "Filnamnstillägg"
+
+msgid "Select ignore list"
+msgstr "Välj ignoreringslista"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "Lägg till i %s"
+
+msgid "New file list"
+msgstr "Ny fillista"
+
+msgid "Close all panels"
+msgstr "Stäng alla paneler"
+
+msgid "Add files"
+msgstr "Lägg till filer"
+
+msgid "Add folders"
+msgstr "Lägg till mappar"
+
+msgid "Save checksums"
+msgstr "Spara kontrollsummor"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "Skaffa Pro-versionen"
+
+msgid "Export as"
+msgstr "Exportera som"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (med sorterbara kolumner)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (för att importera i Excel, m.m.)"
+
+msgid "Export only"
+msgstr "Exportera endast"
+
+msgid "Reset list"
+msgstr "Återställ lista"
+
+#. ignore always
+msgid "Empty"
+msgstr "Tom"
+
+#. always
+msgid "Edit"
+msgstr "Redigera"
+
+msgid "Download"
+msgstr "Hämta"
+
+msgid "On every operation"
+msgstr "Vid varje operation"
+
+msgid "Browse"
+msgstr "Bläddra"
+
+msgid "Favorites & recent"
+msgstr "Favoriter & senaste"
+
+msgid "No open windows"
+msgstr "Inga öppna fönster"
+
+msgid "Checksum copied"
+msgstr "Kontrollsumma kopierad"
+
+msgid "Copy"
+msgstr "Kopiera"
+
+msgid "Move"
+msgstr "Flytta"
+
+#. 3rd line
+msgid "Filter"
+msgstr "Filtrera"
+
+msgid "Process files:"
+msgstr "Bearbeta filer:"
+
+msgid "Start Now"
+msgstr "Starta nu"
+
+msgid "Adding files..."
+msgstr "Lägger till filer..."
+
+msgid "Stop"
+msgstr "Stoppa"
+
+msgid "Pause"
+msgstr "Pausa"
+
+msgid "Resume"
+msgstr "Fortsätt"
+
+msgid "Applying attributes and removing folders..."
+msgstr "Tillämpar attribut och tar bort mappar..."
+
+msgid "Applying folder attributes..."
+msgstr "Tillämpar mappattribut..."
+
+#. result
+msgid "Result"
+msgstr "Resultat"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: slutförd"
+
+msgid "Next"
+msgstr "Nästa"
+
+msgid "Verify"
+msgstr "Verifiera"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Spara hasch"
+
+#. operation buttons
+msgid "Test"
+msgstr "Prova"
+
+msgid "Opening via service:"
+msgstr "Öppnar via service:"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "%s hashfil sparad"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "Inga kontrollsummor är tillgängliga, kopiera eller testa filer först."
+
+#. check sizes before
+msgid "No target file"
+msgstr "Ingen målfil"
+
+msgid "Sizes mismatch"
+msgstr "Storleken matchar inte"
+
+msgid "Hashes mismatch"
+msgstr "Hashen matchar inte"
+
+msgid "Waiting for other transfers..."
+msgstr "Väntar på andra överföringar..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "Återställ slutförd och bearbeta alla tillagda filer?"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "Mer utrymme krävs: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "Källa är samma som mål"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "Målmappen är en undermapp till källmappen!"
+
+msgid "Destination File Already Exists"
+msgstr "Destinationsfilen finns redan"
+
+msgid "Open file"
+msgstr "Öppna fil"
+
+msgid "Open folder"
+msgstr "Öppna mapp"
+
+msgid "Bigger"
+msgstr "Större"
+
+msgid "Smaller"
+msgstr "Mindre"
+
+msgid "Same size"
+msgstr "Samma storlek"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "hoppa över alla om %d s"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Fler alternativ, som gäller för alla filer"
+
+msgid "Older"
+msgstr "Äldre"
+
+msgid "Newer"
+msgstr "Nyare"
+
+msgid "Same date"
+msgstr "Samma datum"
+
+msgid "File is offline, waiting..."
+msgstr "Filen är offline, väntar..."
+
+msgid "Cancelled"
+msgstr "Avbruten"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "Filen är tillgänglig igen, återupptar överföringen..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "Disken är full, frigör %s"
+
+msgid "File is too large for this file system"
+msgstr "Filen är för stor för detta filsystem"
+
+msgid "Error reading file."
+msgstr "Fel vid läsning av fil."
+
+msgid "Error writing file."
+msgstr "Fel vid skrivning av fil."
+
+msgid "File skipped"
+msgstr "Fil hoppad över"
+
+msgid "Stopped"
+msgstr "Stoppad"
+
+msgid "Error creating folder."
+msgstr "Fel vid skapande av mapp."
+
+msgid "Edit in Notepad"
+msgstr "Redigera i Anteckningar"
+
+msgid "Remove from favorites"
+msgstr "Ta bort från favoriter"
+
+msgid "Add to favorites"
+msgstr "Lägg till i favoriter"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d objekt"
+msgstr[1] "%d objekt"
+
+msgid "Skip requested by user"
+msgstr "Skip begärd av användaren"
+
+msgid "Stop requested by user"
+msgstr "Stopp begärd av användare"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "Ta bort %d fil från disk?"
+msgstr[1] "Ta bort %d filer från disk?"
+
+msgid "Move to Recycle Bin"
+msgstr "Flytta till papperskorgen"
+
+msgid "Delete from disk"
+msgstr "Ta bort från disk"
+
+msgid "Wipe data"
+msgstr "Rensa data"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "Långsammare, lätt att återhämta."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "Snabbare, svårt att återhämta."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Mycket långsam, en pass med slumpmässiga data, värdelöst för SDDs."
+
+msgid "Delete ALL files in the list?"
+msgstr "Ta bort ALLA filer i listan?"
+
+msgid "Folder not found"
+msgstr "Mappen hittades inte"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "%s hash i urklipp matchar: #10%s"
+
+msgid "Error opening file."
+msgstr "Fel vid öppning av fil."
+
+msgid "Error deleting file."
+msgstr "Fel vid borttagning av fil."
+
+msgid "Paused"
+msgstr "Pausad"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "fel: %d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "hoppad: %d"
+
+msgid "Append path"
+msgstr "Lägg till sökväg"
+
+msgid "File list is empty"
+msgstr "Fillistan är tom"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "Ledigt utrymme: %s"
+
+msgid "Unavailable"
+msgstr "Otillgänglig"
+
+msgid "Querying..."
+msgstr "Frågar..."
+
+msgid "Drag files or folders here"
+msgstr "Dra filer eller mappar hit"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "Inga objekt att visa. Ta bort filter för att se alla filer."
+
+msgid "Verify files after transfer"
+msgstr "Verifiera filer efter överföring"
+
+msgid "Save checksum file on finish"
+msgstr "Spara kontrollsummefil vid avslutning"
+
+msgid "Auto-scroll"
+msgstr "Automatisk rullning"
+
+#. menu
+msgid "Menu"
+msgstr "Meny"
+
+msgid "Shared options"
+msgstr "Delade alternativ"
+
+msgid "buffer size"
+msgstr "buffertstorlek"
+
+#. captions
+msgid "Transfer"
+msgstr "Överför"
+
+msgid "Transfer options"
+msgstr "Överföringsalternativ"
+
+msgid "Files & folders"
+msgstr "Filer och mappar"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "Attributes"
+msgstr "Attribut"
+
+msgid "Timestamps"
+msgstr "Tidsstämplar"
+
+msgid "Streams"
+msgstr "Strömmar"
+
+msgid "Security"
+msgstr "Säkerhet"
+
+msgid "ACL"
+msgstr "ACL"
+
+msgid "Owner"
+msgstr "Ägare"
+
+msgid "Audit"
+msgstr "Granskning"
+
+msgid "Test options"
+msgstr "Testalternativ"
+
+msgid "Store/verify checksum in ADS"
+msgstr "Lagra/verifiera kontrollsumma i ADS"
+
+msgid "Save as default"
+msgstr "Spara som standard"
+
+msgid "Reset to default"
+msgstr "Återställ till standard"
+
+msgid "Done"
+msgstr "Färdig"
+

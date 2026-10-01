@@ -1,0 +1,926 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-06-04 07:21\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+
+#. mode
+msgid "Copying"
+msgstr "Kopioidaan"
+
+msgid "Moving"
+msgstr "Siirretään"
+
+msgid "Testing"
+msgstr "Testataan"
+
+msgid "Verifying"
+msgstr "Tarkistetaan"
+
+msgid "Deleting"
+msgstr "Poistetaan"
+
+#. results
+msgid "Added"
+msgstr "Lisätty"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Verified"
+msgstr "Tarkistettu"
+
+msgid "Error"
+msgstr "Virhe"
+
+#. File list filter
+msgid "Skipped"
+msgstr "Ohitettu"
+
+msgid "Deleted"
+msgstr "Poistettu"
+
+msgid "Moved"
+msgstr "Siirretty"
+
+msgid "Absent"
+msgstr "Puuttuva"
+
+#. File list filter
+msgid "Ignored"
+msgstr "Ohitettu"
+
+msgid "File list"
+msgstr "Tiedostoluettelo"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "Kohde"
+
+msgid "Options"
+msgstr "Asetukset"
+
+msgid "Status"
+msgstr "Tila"
+
+msgid "Log"
+msgstr "Loki"
+
+#. File list filter
+msgid "All items"
+msgstr "Kaikki kohteet"
+
+#. File list filter
+msgid "Successful"
+msgstr "Onnistuneet"
+
+#. File list filter
+msgid "Failed"
+msgstr "Epäonnistuneet"
+
+msgid "No files added"
+msgstr "Ei lisättyjä tiedostoja"
+
+msgid "No target"
+msgstr "Ei kohdetta"
+
+#. foder
+msgid "Folder"
+msgstr "Kansio"
+
+msgid "Category"
+msgstr "Kategoria"
+
+msgid "Files"
+msgstr "Tiedostot"
+
+msgid "Bytes"
+msgstr "Tavua"
+
+msgid "Time"
+msgstr "Aika"
+
+msgid "Total"
+msgstr "Yhteensä"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "päivää"
+
+msgid "hours"
+msgstr "tuntia"
+
+#. minutes
+msgid "min"
+msgstr "min"
+
+#. seconds
+msgid "s"
+msgstr "s"
+
+#. millions
+msgid "m"
+msgstr "m"
+
+msgid "Prompt on filename collision"
+msgstr "Kysy tiedostonimien ollessa samat"
+
+msgid "Overwrite"
+msgstr "Korvaa"
+
+msgid "Overwrite all"
+msgstr "Korvaa kaikki"
+
+msgid "Skip"
+msgstr "Ohita"
+
+msgid "Skip all"
+msgstr "Ohita kaikki"
+
+msgid "Keep both"
+msgstr "Pidä molemmat"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "Korvaa kaikki vanhemmat tiedostot"
+
+msgid "Replace all smaller files"
+msgstr "Korvaa kaikki pienemmät tiedostot"
+
+msgid "Replace all files if size different"
+msgstr "Korvaa jos koko eroaa"
+
+msgid "Rename all copied files"
+msgstr "Uudelleennimeä kaikki kopioidut tiedostot"
+
+msgid "Rename all target files"
+msgstr "Uudelleennimeä kaikki kohdetiedostot"
+
+msgid "Rename all older target files"
+msgstr "Uudelleennimeä kaikki vanhemmat kohdetiedostot"
+
+#. replace dialog
+msgid "More"
+msgstr "Lisää"
+
+#. tooltips
+msgid "Select target path"
+msgstr "Valitse kohde polku"
+
+msgid "Add files or folders"
+msgstr "Lisää tiedostoja tai kansioita"
+
+msgid "Expanded view"
+msgstr "Laajennettu näkymä"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "Poista kaikki tiedostot listasta"
+
+msgid "Read target files and compare checksums"
+msgstr "Lue kohde tiedostot ja vertaa tarkistussummia"
+
+msgid "Read source files and create checksums"
+msgstr "Lue lähde tiedostot ja luo tarkistussummat"
+
+msgid "Create a new list"
+msgstr "Luo uusi lista"
+
+msgid "Transfers history"
+msgstr "Siirtoloki"
+
+msgid "Running with administrator priviledges"
+msgstr "Käynnissä järjestelmänvalvojan oikeuksilla"
+
+msgid "Run as administrator"
+msgstr "Suorita järjestelmänvalvojana"
+
+#. export dialog
+msgid "Print/export"
+msgstr "Tulosta/vie"
+
+msgid "Preferences"
+msgstr "Asetukset"
+
+msgid "About"
+msgstr "Tietoja"
+
+msgid "Order license"
+msgstr "Tilaa lisenssi"
+
+msgid "Enter key"
+msgstr "Syötä avain"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(tämä vaatii järjestelmänvalvojan oikeudet)"
+
+msgid "Toggle row"
+msgstr "Vaihda rivin tilaa"
+
+msgid "Create folders"
+msgstr "Luo kansiot"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "Säilytä kansioiden attribuutit (vain luku, arkisto...)"
+
+msgid "Keep folder timestamps"
+msgstr "Säilytä kansioiden aikaleimat"
+
+msgid "Keep folder alternate data streams"
+msgstr "Säilytä kansion vaihtoehtoiset datavirrat"
+
+msgid "Copy files"
+msgstr "Kopioi tiedostot"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "Säilytä tiedostojen attribuutit (vain luku, arkisto...)"
+
+msgid "Keep file timestamps"
+msgstr "Säilytä tiedostojen aikaleimat"
+
+msgid "Keep file alternate data streams"
+msgstr "Säilytä tiedoston vaihtoehtoiset datavirrat"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "Säilytä kansioiden ACL-arvot"
+
+msgid "Keep owner information for folders"
+msgstr "Säilytä kansioiden omistaja tiedot"
+
+msgid "Keep audit information for folders"
+msgstr "Säilytä kansioiden auditointitiedot"
+
+msgid "Keep ACLs for files"
+msgstr "Säilytä tiedostojen ACL-arvot"
+
+msgid "Keep owner information for files"
+msgstr "Säilytä tiedostojen omistaja tiedot"
+
+msgid "Keep audit information for files"
+msgstr "Säilytä tiedostojen auditointitiedot"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "Puskuri koko kaikille toiminnoille"
+
+msgid "Action to take on filename conflict"
+msgstr "Toimenpide tiedostonimi ristiriidan varalta"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "Menetelmä tarkistussummien laskemiseksi siirrettäessä tai testattaessa tiedostoja"
+
+msgid "Save the checksum file to the target folder"
+msgstr "Tallenna tarkistussumma tiedosto kohdekansioon"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "Tallenna tarkistussumma tiedosto lähdekansioon"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "Tallenna laskettu tarkistussumma tiedostoon käyttäen vaihtoehtoisia datavirtoja"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "Lopeta kaikki toiminnot?"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "Sulje sovellus"
+
+msgid "Keep app open"
+msgstr "Pidä sovellus auki"
+
+msgid "Shutdown"
+msgstr "Sammuta"
+
+msgid "Sleep"
+msgstr "Lepotila"
+
+msgid "Hibernate"
+msgstr "Horrostila"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "Valmistuessa: %s"
+
+msgid "Always On Top"
+msgstr "Aina päällimmäisenä"
+
+msgid "Shell integration"
+msgstr "Komentorivi integrointi"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Käsittele raahaa ja pudota -toiminto käyttäen hiiren vasenta painiketta, sekä kopioi ja liitä toiminnot Explorerissa."
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Lisää kopioi ja siirrä -painikkeet Total Commanderin oletuspainike palkkiin."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Lue kuinka voit lisätä kopioi ja siirrä -painikkeet Directory Opukseen."
+
+msgid "Misc"
+msgstr "Sekalaista"
+
+msgid "Interface"
+msgstr "Käyttöliittymä"
+
+msgid "Register Copy Handler"
+msgstr "Käytä ohjelmaa kopioitaessa"
+
+msgid "Unregister Copy Handler"
+msgstr "Älä käytä ohjelmaa kopioitaessa"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "Käytä TeraCopyä oletuksena tiedostojen kopioinnille"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "Vain kun Scroll Lock on POIS päältä"
+
+msgid "Add to Explorer context menu"
+msgstr "Lisää Explorerin kontekstivalikkoon"
+
+msgid "Play sound"
+msgstr "Soita ääni"
+
+msgid "Check free space"
+msgstr "Tarkista vapaa tila"
+
+msgid "Always test after copy"
+msgstr "Testaa aina kopioinnin jälkeen"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Asynkroninen tiedostonsiirto pois päältä"
+
+msgid "Use system write cache"
+msgstr "Käytä käyttöjärjestelmän kirjoitusvälimuistia"
+
+msgid "Confirm drag and drop"
+msgstr "Vahvista raahaa ja pudota"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "Testaa yksittäisiä tiedostoja leikepöydällä olevaa tarkistussummaa vastaan"
+
+#. / file managers
+msgid "File managers"
+msgstr "Tiedostonhallintaohjelmia"
+
+msgid "Window"
+msgstr "Ikkuna"
+
+msgid "Show notifications"
+msgstr "Näytä ilmoitus"
+
+msgid "Automatic updates"
+msgstr "Automaattiset päivitykset"
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+#. Window mode
+msgid "Expanded"
+msgstr "Laajennettu"
+
+msgid "Stacks"
+msgstr "Pinot"
+
+msgid "Auto"
+msgstr "Automaattinen"
+
+msgid "Not registered for Commercial Use"
+msgstr "Ei rekisteröity kaupalliseen käyttöön"
+
+msgid "Free for Home Users"
+msgstr "Ilmainen yksityiseen käyttöön"
+
+#. cancel timer
+msgid "Close"
+msgstr "Sulje"
+
+msgid "Check for updates"
+msgstr "Tarkista päivitykset"
+
+#. history options
+msgid "Never keep history"
+msgstr "Älä säilytä historiaa"
+
+msgid "Keep history for 1 day"
+msgstr "Säilytä historia 1 päivän"
+
+msgid "Keep history for 1 week"
+msgstr "Säilytä historia 1 viikko"
+
+msgid "Keep history permanently"
+msgstr "Säilytä historia pysyvästi"
+
+msgid "Clean history now"
+msgstr "Poista historiatiedot"
+
+msgid "Delete"
+msgstr "Poista"
+
+#. date
+msgid "Created"
+msgstr "Luotu"
+
+msgid "Unattended"
+msgstr "Valvomaton"
+
+msgid "Hash"
+msgstr "Tarkistussumma"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "Lähde"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "Tiedosto"
+
+msgid "Not calculated"
+msgstr "Ei laskettu"
+
+msgid "Modified"
+msgstr "Muokattu"
+
+msgid "File info"
+msgstr "Tiedostoinfo"
+
+#. select
+msgid "This item"
+msgstr "Tämä kohde"
+
+#. space bar key
+msgid "Space"
+msgstr "Välilyönti"
+
+msgid "Inverse selection"
+msgstr "Käänteinen valinta"
+
+#. select
+msgid "Same folder"
+msgstr "Sama kansio"
+
+#. select
+msgid "Same extension"
+msgstr "Sama tiedostopääte"
+
+msgid "Deselect all"
+msgstr "Peru kaikki valinnat"
+
+msgid "Select"
+msgstr "Valitse"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "Poista valitut"
+
+#. ignore
+msgid "Ignore"
+msgstr "Ohita"
+
+msgid "Extension"
+msgstr "Tiedostopääte"
+
+msgid "Select ignore list"
+msgstr "Valitse ohituslista"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "Lisää: %s"
+
+msgid "New file list"
+msgstr "Uusi tiedostoluettelo"
+
+msgid "Close all panels"
+msgstr "Sulje kaikki paneelit"
+
+msgid "Add files"
+msgstr "Lisää tiedostoja"
+
+msgid "Add folders"
+msgstr "Lisää kansioita"
+
+msgid "Save checksums"
+msgstr "Tallenna tarkistussummat"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "Hanki Pro-versio"
+
+msgid "Export as"
+msgstr "Tallenna muodossa"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (järjestettävät sarakkeet)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (tuonti Exceliin yms.)"
+
+msgid "Export only"
+msgstr "Vain vienti"
+
+msgid "Reset list"
+msgstr "Nollaa lista"
+
+#. ignore always
+msgid "Empty"
+msgstr "Tyhjä"
+
+#. always
+msgid "Edit"
+msgstr "Muokkaa"
+
+msgid "Download"
+msgstr "Lataa"
+
+msgid "On every operation"
+msgstr "Jokaisessa operaatiossa"
+
+msgid "Browse"
+msgstr "Selaa"
+
+msgid "Favorites & recent"
+msgstr "Suosikit ja viimeisimmät"
+
+msgid "No open windows"
+msgstr "Ei avoimia ikkunoita"
+
+msgid "Checksum copied"
+msgstr "Tarkistussumma kopioitu"
+
+msgid "Copy"
+msgstr "Kopioi"
+
+msgid "Move"
+msgstr "Siirrä"
+
+#. 3rd line
+msgid "Filter"
+msgstr "Suodatin"
+
+msgid "Process files:"
+msgstr "Käsittele tiedostot:"
+
+msgid "Start Now"
+msgstr "Aloita nyt"
+
+msgid "Adding files..."
+msgstr "Lisätään tiedostoja..."
+
+msgid "Stop"
+msgstr "Pysäytä"
+
+msgid "Pause"
+msgstr "Keskeytä"
+
+msgid "Resume"
+msgstr "Jatka"
+
+msgid "Applying attributes and removing folders..."
+msgstr "Asetetaan attribuutteja ja poistetaan kansioita..."
+
+msgid "Applying folder attributes..."
+msgstr "Asetetaan kansioasetuksia..."
+
+#. result
+msgid "Result"
+msgstr "Tulos"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: valmis"
+
+msgid "Next"
+msgstr "Seuraava"
+
+msgid "Verify"
+msgstr "Tarkista"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Tallenna tarkistussumma"
+
+#. operation buttons
+msgid "Test"
+msgstr "Testaa"
+
+msgid "Opening via service:"
+msgstr "Avataan palvelun kautta:"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "%s tarkistussumma tiedosto tallennettu"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "Ei tarkistussummaa käytettävissä, kopioi tai testaa tiedostoja ensin."
+
+#. check sizes before
+msgid "No target file"
+msgstr "Ei kohdetiedostoa"
+
+msgid "Sizes mismatch"
+msgstr "Koot eivät täsmää"
+
+msgid "Hashes mismatch"
+msgstr "Tarkistussummat eivät täsmää"
+
+msgid "Waiting for other transfers..."
+msgstr "Odotetaan muita siirtoja..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "Palauta suoritetut ja käsittele kaikki lisätyt tiedostot?"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "Lisätilaa tarvitaan: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "Lähde on sama kuin kohde"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "Kohdekansio on lähdekansion alikansio!"
+
+msgid "Destination File Already Exists"
+msgstr "Kohdetiedosto on jo olemassa"
+
+msgid "Open file"
+msgstr "Avaa tiedosto"
+
+msgid "Open folder"
+msgstr "Avaa kansio"
+
+msgid "Bigger"
+msgstr "Suurempi"
+
+msgid "Smaller"
+msgstr "Pienempi"
+
+msgid "Same size"
+msgstr "Sama koko"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "ohita kaikki %d sekunnin kuluttua"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Enemmän vaihtoehtoja, jotka koskevat kaikkia tiedostoja"
+
+msgid "Older"
+msgstr "Vanhempi"
+
+msgid "Newer"
+msgstr "Uudempi"
+
+msgid "Same date"
+msgstr "Sama päivämäärä"
+
+msgid "File is offline, waiting..."
+msgstr "Tiedostoon ei saada yhteyttä, odotetaan..."
+
+msgid "Cancelled"
+msgstr "Peruttu"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "Tiedosto taas saatavilla, siirtoa jatketaan..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "Levy täynnä, vapauta %s"
+
+msgid "File is too large for this file system"
+msgstr "Tiedosto liian iso tähän tiedostojärjestelmään"
+
+msgid "Error reading file."
+msgstr "Virhe luettaessa tiedostoa."
+
+msgid "Error writing file."
+msgstr "Virhe kirjoitettaessa tiedostoa."
+
+msgid "File skipped"
+msgstr "Tiedosto ohitettu"
+
+msgid "Stopped"
+msgstr "Pysäytetty"
+
+msgid "Error creating folder."
+msgstr "Virhe kansiota luodessa."
+
+msgid "Edit in Notepad"
+msgstr "Muokkaa Muistiossa"
+
+msgid "Remove from favorites"
+msgstr "Poista suosikeista"
+
+msgid "Add to favorites"
+msgstr "Lisää suosikkeihin"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d kohde"
+msgstr[1] "%d kohdetta"
+
+msgid "Skip requested by user"
+msgstr "Käyttäjä pyytänyt ohittamista"
+
+msgid "Stop requested by user"
+msgstr "Käyttäjä pyytänyt pysäyttämistä"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "Poista %d tiedosto levyltä?"
+msgstr[1] "Poista %d tiedostot levyltä?"
+
+msgid "Move to Recycle Bin"
+msgstr "Siirrä Roskakoriin"
+
+msgid "Delete from disk"
+msgstr "Poista levyltä"
+
+msgid "Wipe data"
+msgstr "Pyyhi dataa"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "Hitaampi mutta helpompi palauttaa."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "Nopeampi mutta vaikeampi palauttaa."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Hyvin hidas, kirjoitetaan kerran yli satunnaisdatalla, hyödytön SSD-levyllä."
+
+msgid "Delete ALL files in the list?"
+msgstr "Poista KAIKKI listan tiedostot?"
+
+msgid "Folder not found"
+msgstr "Kansiota ei löytynyt"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "%s tarkistussumma leikepöydällä täsmää: #10%s"
+
+msgid "Error opening file."
+msgstr "Virhe tiedostoa avatessa."
+
+msgid "Error deleting file."
+msgstr "Virhe tiedostoa poistaessa."
+
+msgid "Paused"
+msgstr "Keskeytetty"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "virheitä: %d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "ohitettuja: %d"
+
+msgid "Append path"
+msgstr "Lisää polku"
+
+msgid "File list is empty"
+msgstr "Tiedostoluettelo on tyhjä"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "Vapaata tilaa: %s"
+
+msgid "Unavailable"
+msgstr "Ei käytettävissä"
+
+msgid "Querying..."
+msgstr "Haetaan..."
+
+msgid "Drag files or folders here"
+msgstr "Raahaa tiedostoja tai kansioita tänne"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "Ei näytettäviä kohteita. Poista suodattimet nähdäksesi kaikki tiedostot."
+
+msgid "Verify files after transfer"
+msgstr "Tarkista tiedostot siirron jälkeen"
+
+msgid "Save checksum file on finish"
+msgstr "Tallenna lopuksi tarkastussummatiedosto"
+
+msgid "Auto-scroll"
+msgstr "Auto-skrollaus"
+
+#. menu
+msgid "Menu"
+msgstr "Valikko"
+
+msgid "Shared options"
+msgstr "Jaetut asetukset"
+
+msgid "buffer size"
+msgstr "puskurin koko"
+
+#. captions
+msgid "Transfer"
+msgstr "Tiedostonsiirto"
+
+msgid "Transfer options"
+msgstr "Siirto asetukset"
+
+msgid "Files & folders"
+msgstr "Tiedostot ja kansiot"
+
+msgid "Data"
+msgstr "Tiedot"
+
+msgid "Attributes"
+msgstr "Attribuutit"
+
+msgid "Timestamps"
+msgstr "Aikaleimat"
+
+msgid "Streams"
+msgstr "Virrat"
+
+msgid "Security"
+msgstr "Tietoturva"
+
+msgid "ACL"
+msgstr "ACL"
+
+msgid "Owner"
+msgstr "Omistaja"
+
+msgid "Audit"
+msgstr "Auditointi"
+
+msgid "Test options"
+msgstr "Testaus asetukset"
+
+msgid "Store/verify checksum in ADS"
+msgstr "Tallenna/varmista tarkistussumma ADS:ssä"
+
+msgid "Save as default"
+msgstr "Tallenna oletukseksi"
+
+msgid "Reset to default"
+msgstr "Palauta oletukset"
+
+msgid "Done"
+msgstr "Valmis"
+

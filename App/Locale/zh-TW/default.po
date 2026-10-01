@@ -1,0 +1,924 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-06-04 07:22\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: zh-TW\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Chinese Traditional\n"
+"Language: zh_TW\n"
+
+#. mode
+msgid "Copying"
+msgstr "複製中"
+
+msgid "Moving"
+msgstr "移動中"
+
+msgid "Testing"
+msgstr "測試中"
+
+msgid "Verifying"
+msgstr "驗證中"
+
+msgid "Deleting"
+msgstr "刪除中"
+
+#. results
+msgid "Added"
+msgstr "已增加"
+
+msgid "OK"
+msgstr "確定"
+
+msgid "Verified"
+msgstr "已驗證"
+
+msgid "Error"
+msgstr "錯誤"
+
+#. File list filter
+msgid "Skipped"
+msgstr "已略過"
+
+msgid "Deleted"
+msgstr "已刪除"
+
+msgid "Moved"
+msgstr "已移動"
+
+msgid "Absent"
+msgstr "缺少"
+
+#. File list filter
+msgid "Ignored"
+msgstr "已忽略"
+
+msgid "File list"
+msgstr "檔案清單"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "目標"
+
+msgid "Options"
+msgstr "選項"
+
+msgid "Status"
+msgstr "狀態"
+
+msgid "Log"
+msgstr "日誌"
+
+#. File list filter
+msgid "All items"
+msgstr "全部項目"
+
+#. File list filter
+msgid "Successful"
+msgstr "成功"
+
+#. File list filter
+msgid "Failed"
+msgstr "失敗"
+
+msgid "No files added"
+msgstr "未添加檔案"
+
+msgid "No target"
+msgstr "沒有目標"
+
+#. foder
+msgid "Folder"
+msgstr "資料夾"
+
+msgid "Category"
+msgstr "分類"
+
+msgid "Files"
+msgstr "檔案"
+
+msgid "Bytes"
+msgstr "位元組"
+
+msgid "Time"
+msgstr "時間"
+
+msgid "Total"
+msgstr "總共"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "天"
+
+msgid "hours"
+msgstr "時"
+
+#. minutes
+msgid "min"
+msgstr "分"
+
+#. seconds
+msgid "s"
+msgstr "秒"
+
+#. millions
+msgid "m"
+msgstr "百萬"
+
+msgid "Prompt on filename collision"
+msgstr "檔名衝突時提示"
+
+msgid "Overwrite"
+msgstr "覆蓋"
+
+msgid "Overwrite all"
+msgstr "全部覆蓋"
+
+msgid "Skip"
+msgstr "略過"
+
+msgid "Skip all"
+msgstr "全部略過"
+
+msgid "Keep both"
+msgstr "兩者皆保存"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "覆蓋全部舊檔"
+
+msgid "Replace all smaller files"
+msgstr "取代全部較小的檔案"
+
+msgid "Replace all files if size different"
+msgstr "檔案大小不同時覆蓋所有檔案"
+
+msgid "Rename all copied files"
+msgstr "更名全部已複製的檔案"
+
+msgid "Rename all target files"
+msgstr "更名全部目的檔案名"
+
+msgid "Rename all older target files"
+msgstr "將目標較舊的檔案全部更名"
+
+#. replace dialog
+msgid "More"
+msgstr "更多"
+
+#. tooltips
+msgid "Select target path"
+msgstr "選擇目標路徑"
+
+msgid "Add files or folders"
+msgstr "添加檔案或資料夾"
+
+msgid "Expanded view"
+msgstr "擴展檢視"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "從清單中刪除所有檔案"
+
+msgid "Read target files and compare checksums"
+msgstr "讀取目標檔案並檢查總和檢驗碼"
+
+msgid "Read source files and create checksums"
+msgstr "讀取來源檔案並產生總和檢驗碼"
+
+msgid "Create a new list"
+msgstr "新建一個清單"
+
+msgid "Transfers history"
+msgstr "傳輸紀錄"
+
+msgid "Running with administrator priviledges"
+msgstr "以系統管理員權限執行中"
+
+msgid "Run as administrator"
+msgstr "以系統管理員執行"
+
+#. export dialog
+msgid "Print/export"
+msgstr "列印/導出"
+
+msgid "Preferences"
+msgstr "偏好設定"
+
+msgid "About"
+msgstr "關於"
+
+msgid "Order license"
+msgstr "訂購授權"
+
+msgid "Enter key"
+msgstr "輸入註冊碼"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(這需要提升的權限)"
+
+msgid "Toggle row"
+msgstr "切換行模式"
+
+msgid "Create folders"
+msgstr "建立資料夾"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "保留資料夾屬性 (唯讀, 壓縮...)"
+
+msgid "Keep folder timestamps"
+msgstr "保留資料夾時間戳記"
+
+msgid "Keep folder alternate data streams"
+msgstr "保留資料夾替代資料流"
+
+msgid "Copy files"
+msgstr "複製檔案"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "保留檔案屬性 (唯讀, 壓縮...)"
+
+msgid "Keep file timestamps"
+msgstr "保留檔案時間戳記"
+
+msgid "Keep file alternate data streams"
+msgstr "保留檔案替代資料流"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "保留資料夾的存取控制清單 ACL"
+
+msgid "Keep owner information for folders"
+msgstr "保留資料夾的所有者資訊"
+
+msgid "Keep audit information for folders"
+msgstr "保留資料夾的稽核資訊"
+
+msgid "Keep ACLs for files"
+msgstr "保留檔案的存取控制清單 ACL"
+
+msgid "Keep owner information for files"
+msgstr "保留檔案的所有者資訊"
+
+msgid "Keep audit information for files"
+msgstr "保留檔案的稽核資訊"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "所有動作的緩衝區大小"
+
+msgid "Action to take on filename conflict"
+msgstr "當檔名衝突時所採取的動作"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "當傳輸或是測試時計算總和檢驗碼的方法"
+
+msgid "Save the checksum file to the target folder"
+msgstr "儲存含有總和檢驗碼的檔案到目標資料夾"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "儲存含有總和檢驗碼的檔案到來源資料夾"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "將已計算好的總和檢驗碼使用替代資料流儲存在檔案中"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "停止所有動作"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "關閉應用程式"
+
+msgid "Keep app open"
+msgstr "保持應用程式開啟"
+
+msgid "Shutdown"
+msgstr "關機"
+
+msgid "Sleep"
+msgstr "睡眠"
+
+msgid "Hibernate"
+msgstr "休眠"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "完成後: %s"
+
+msgid "Always On Top"
+msgstr "總在最前方"
+
+msgid "Shell integration"
+msgstr "右鍵選單整合"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "處理滑鼠左鍵托放檔案, 和在檔案總管的複製和貼上指令."
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "增加複製和移動按鈕至 Total Commander 預設按鈕列"
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "閱讀如何增加複製和移動按鈕至目錄中"
+
+msgid "Misc"
+msgstr "雜項"
+
+msgid "Interface"
+msgstr "介面"
+
+msgid "Register Copy Handler"
+msgstr "註冊複製處理器"
+
+msgid "Unregister Copy Handler"
+msgstr "註銷複製處理器"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "使用 TeraCopy 作為預設複製處理器"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "僅在 Scroll Lock 關閉時"
+
+msgid "Add to Explorer context menu"
+msgstr "增加至右鍵選單"
+
+msgid "Play sound"
+msgstr "播放音效"
+
+msgid "Check free space"
+msgstr "檢查可用空間"
+
+msgid "Always test after copy"
+msgstr "複製後總是測試"
+
+msgid "Disable asynchronous file transfer"
+msgstr "關閉非同步檔案傳輸"
+
+msgid "Use system write cache"
+msgstr "使用系統寫入暫存區"
+
+msgid "Confirm drag and drop"
+msgstr "確認托放動作"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "使用剪貼簿中的總和檢驗碼比較單一檔案"
+
+#. / file managers
+msgid "File managers"
+msgstr "檔案管理器"
+
+msgid "Window"
+msgstr "視窗"
+
+msgid "Show notifications"
+msgstr "顯示通知"
+
+msgid "Automatic updates"
+msgstr "自動更新"
+
+msgid "Cancel"
+msgstr "取消"
+
+#. Window mode
+msgid "Expanded"
+msgstr "展開"
+
+msgid "Stacks"
+msgstr "堆疊"
+
+msgid "Auto"
+msgstr "自動"
+
+msgid "Not registered for Commercial Use"
+msgstr "未註冊為商業使用"
+
+msgid "Free for Home Users"
+msgstr "一般家庭使用者免費"
+
+#. cancel timer
+msgid "Close"
+msgstr "關閉"
+
+msgid "Check for updates"
+msgstr "檢查更新"
+
+#. history options
+msgid "Never keep history"
+msgstr "永遠不要保存紀錄"
+
+msgid "Keep history for 1 day"
+msgstr "僅保存一天的紀錄"
+
+msgid "Keep history for 1 week"
+msgstr "僅保存一週的紀錄"
+
+msgid "Keep history permanently"
+msgstr "永久保留傳輸歷史"
+
+msgid "Clean history now"
+msgstr "立刻清除紀錄"
+
+msgid "Delete"
+msgstr "刪除"
+
+#. date
+msgid "Created"
+msgstr "已建立"
+
+msgid "Unattended"
+msgstr "無人值守"
+
+msgid "Hash"
+msgstr "雜湊值"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "來源"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "檔案"
+
+msgid "Not calculated"
+msgstr "未計算"
+
+msgid "Modified"
+msgstr "已修改"
+
+msgid "File info"
+msgstr "檔案資訊"
+
+#. select
+msgid "This item"
+msgstr "此項目"
+
+#. space bar key
+msgid "Space"
+msgstr "空格鍵"
+
+msgid "Inverse selection"
+msgstr "反選"
+
+#. select
+msgid "Same folder"
+msgstr "同一資料夾"
+
+#. select
+msgid "Same extension"
+msgstr "相同附檔名"
+
+msgid "Deselect all"
+msgstr "取消所有選定"
+
+msgid "Select"
+msgstr "選擇"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "移除已選定"
+
+#. ignore
+msgid "Ignore"
+msgstr "忽略"
+
+msgid "Extension"
+msgstr "附加元件"
+
+msgid "Select ignore list"
+msgstr "選擇忽略清單"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "新增到: %s"
+
+msgid "New file list"
+msgstr "新檔案清單"
+
+msgid "Close all panels"
+msgstr "關閉所有面板"
+
+msgid "Add files"
+msgstr "新增檔案"
+
+msgid "Add folders"
+msgstr "新增資料夾"
+
+msgid "Save checksums"
+msgstr "儲存總和檢驗碼"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "取得專業版"
+
+msgid "Export as"
+msgstr "導出為"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (包含可排序的欄位)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (可在Excel中導入)"
+
+msgid "Export only"
+msgstr "僅有導出"
+
+msgid "Reset list"
+msgstr "重置清單"
+
+#. ignore always
+msgid "Empty"
+msgstr "空"
+
+#. always
+msgid "Edit"
+msgstr "編輯"
+
+msgid "Download"
+msgstr "下載"
+
+msgid "On every operation"
+msgstr "在每次動作後"
+
+msgid "Browse"
+msgstr "瀏覽"
+
+msgid "Favorites & recent"
+msgstr "收藏與最近項目"
+
+msgid "No open windows"
+msgstr "沒有打開的視窗"
+
+msgid "Checksum copied"
+msgstr "已複製總和檢驗碼"
+
+msgid "Copy"
+msgstr "複製"
+
+msgid "Move"
+msgstr "移動"
+
+#. 3rd line
+msgid "Filter"
+msgstr "篩選器"
+
+msgid "Process files:"
+msgstr "處理檔案:"
+
+msgid "Start Now"
+msgstr "立刻開始"
+
+msgid "Adding files..."
+msgstr "新增檔案..."
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Pause"
+msgstr "暫停"
+
+msgid "Resume"
+msgstr "繼續"
+
+msgid "Applying attributes and removing folders..."
+msgstr "套用屬性並移除資料夾…"
+
+msgid "Applying folder attributes..."
+msgstr "套用資料夾屬性…"
+
+#. result
+msgid "Result"
+msgstr "結果"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: 已完成"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Verify"
+msgstr "驗證"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "儲存雜湊值"
+
+#. operation buttons
+msgid "Test"
+msgstr "測試"
+
+msgid "Opening via service:"
+msgstr "正經由服務開啟："
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "%s 雜湊檔案已儲存"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "沒有可用的總和檢驗碼, 請先複製或測試檔案."
+
+#. check sizes before
+msgid "No target file"
+msgstr "沒有目標檔案"
+
+msgid "Sizes mismatch"
+msgstr "檔案大小不相符"
+
+msgid "Hashes mismatch"
+msgstr "雜湊值有異"
+
+msgid "Waiting for other transfers..."
+msgstr "等待其它傳輸..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "重置已完成且處理所有新增加的檔案?"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "需要更多儲存空間：%s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "來源與目標相同"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "目標的資料夾是來源資料夾的子目錄!"
+
+msgid "Destination File Already Exists"
+msgstr "目標檔案已存在"
+
+msgid "Open file"
+msgstr "開啟檔案"
+
+msgid "Open folder"
+msgstr "開啟資料夾"
+
+msgid "Bigger"
+msgstr "大於"
+
+msgid "Smaller"
+msgstr "小於"
+
+msgid "Same size"
+msgstr "相同大小"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "%d 秒後自動全部略過"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "更多選項, 適用於所有檔案"
+
+msgid "Older"
+msgstr "較舊"
+
+msgid "Newer"
+msgstr "較新"
+
+msgid "Same date"
+msgstr "相同日期"
+
+msgid "File is offline, waiting..."
+msgstr "檔案離線, 等待中…"
+
+msgid "Cancelled"
+msgstr "已取消"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "檔案已可用, 恢復續傳…"
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "硬碟已滿, 請始放 %s 的空間"
+
+msgid "File is too large for this file system"
+msgstr "本檔案系統上此檔案太大"
+
+msgid "Error reading file."
+msgstr "讀取檔案發生錯誤."
+
+msgid "Error writing file."
+msgstr "寫入檔案發生錯誤."
+
+msgid "File skipped"
+msgstr "已略過的檔案"
+
+msgid "Stopped"
+msgstr "已停止"
+
+msgid "Error creating folder."
+msgstr "建立資料夾時發生錯誤."
+
+msgid "Edit in Notepad"
+msgstr "在記事本中編輯"
+
+msgid "Remove from favorites"
+msgstr "從收藏中移除"
+
+msgid "Add to favorites"
+msgstr "新增到收藏"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d 個項目"
+
+msgid "Skip requested by user"
+msgstr "使用者要求略過的"
+
+msgid "Stop requested by user"
+msgstr "使用者要求停止的"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "從硬碟上刪除 %d 個檔案嗎?"
+
+msgid "Move to Recycle Bin"
+msgstr "移到資源回收桶"
+
+msgid "Delete from disk"
+msgstr "從磁碟中刪除"
+
+msgid "Wipe data"
+msgstr "抹除資料"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "較慢, 容易還原."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "較快, 不易還原."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "非常慢, 一次性寫入隨機資料, 對固態硬碟沒有效果"
+
+msgid "Delete ALL files in the list?"
+msgstr "刪除清單中的全部檔案？"
+
+msgid "Folder not found"
+msgstr "找不到資料夾"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "與剪貼簿的雜湊值 %s 相符: #10%s"
+
+msgid "Error opening file."
+msgstr "開啟檔案時發生錯誤."
+
+msgid "Error deleting file."
+msgstr "刪除檔案時發生錯誤."
+
+msgid "Paused"
+msgstr "暫停"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "錯誤：%d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "跳過: %d"
+
+msgid "Append path"
+msgstr "附加路徑"
+
+msgid "File list is empty"
+msgstr "檔案清單是空的"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "可用空間: %s"
+
+msgid "Unavailable"
+msgstr "無法取得"
+
+msgid "Querying..."
+msgstr "查詢中..."
+
+msgid "Drag files or folders here"
+msgstr "拖拉檔案或資料夾到此處"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "沒有項目可顯示. 移除篩選器來檢視所有檔案."
+
+msgid "Verify files after transfer"
+msgstr "在傳輸後驗證檔案"
+
+msgid "Save checksum file on finish"
+msgstr "完成時儲存總和檢驗碼檔案"
+
+msgid "Auto-scroll"
+msgstr "自動捲動清單"
+
+#. menu
+msgid "Menu"
+msgstr "功能選單"
+
+msgid "Shared options"
+msgstr "通用選項"
+
+msgid "buffer size"
+msgstr "緩衝區大小"
+
+#. captions
+msgid "Transfer"
+msgstr "傳輸"
+
+msgid "Transfer options"
+msgstr "傳輸選項"
+
+msgid "Files & folders"
+msgstr "檔案和資料夾"
+
+msgid "Data"
+msgstr "資料"
+
+msgid "Attributes"
+msgstr "屬性"
+
+msgid "Timestamps"
+msgstr "時間戳記"
+
+msgid "Streams"
+msgstr "串流"
+
+msgid "Security"
+msgstr "安全"
+
+msgid "ACL"
+msgstr "存取控制清單"
+
+msgid "Owner"
+msgstr "所有者"
+
+msgid "Audit"
+msgstr "稽核"
+
+msgid "Test options"
+msgstr "測試選項"
+
+msgid "Store/verify checksum in ADS"
+msgstr "在替代資料流中 儲存/驗證 總和檢驗碼"
+
+msgid "Save as default"
+msgstr "保存為預設值"
+
+msgid "Reset to default"
+msgstr "還原至預設值"
+
+msgid "Done"
+msgstr "已完成"
+

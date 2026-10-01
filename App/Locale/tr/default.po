@@ -1,0 +1,926 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-06-04 07:22\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+
+#. mode
+msgid "Copying"
+msgstr "Kopyalanıyor"
+
+msgid "Moving"
+msgstr "Taşınıyor"
+
+msgid "Testing"
+msgstr "Test ediliyor"
+
+msgid "Verifying"
+msgstr "Doğrulanıyor"
+
+msgid "Deleting"
+msgstr "Siliniyor"
+
+#. results
+msgid "Added"
+msgstr "Eklendi"
+
+msgid "OK"
+msgstr "TAMAM"
+
+msgid "Verified"
+msgstr "Doğrulandı"
+
+msgid "Error"
+msgstr "Hata"
+
+#. File list filter
+msgid "Skipped"
+msgstr "Atlandı"
+
+msgid "Deleted"
+msgstr "Silindi"
+
+msgid "Moved"
+msgstr "Taşındı"
+
+msgid "Absent"
+msgstr "Yok"
+
+#. File list filter
+msgid "Ignored"
+msgstr "Yok sayıldı"
+
+msgid "File list"
+msgstr "Dosya listesi"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "Hedef"
+
+msgid "Options"
+msgstr "Özellikler"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "Log"
+msgstr "Günlük"
+
+#. File list filter
+msgid "All items"
+msgstr "Tüm öğeler"
+
+#. File list filter
+msgid "Successful"
+msgstr "Başarılı"
+
+#. File list filter
+msgid "Failed"
+msgstr "Başarısız"
+
+msgid "No files added"
+msgstr "Dosya eklenmedi"
+
+msgid "No target"
+msgstr "Hedef yok"
+
+#. foder
+msgid "Folder"
+msgstr "Klasör"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Files"
+msgstr "Dosyalar"
+
+msgid "Bytes"
+msgstr "Byte"
+
+msgid "Time"
+msgstr "Süre"
+
+msgid "Total"
+msgstr "Toplam"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "gün"
+
+msgid "hours"
+msgstr "saat"
+
+#. minutes
+msgid "min"
+msgstr "dk"
+
+#. seconds
+msgid "s"
+msgstr "sn"
+
+#. millions
+msgid "m"
+msgstr "dk"
+
+msgid "Prompt on filename collision"
+msgstr "Dosya adı çakışması"
+
+msgid "Overwrite"
+msgstr "Üzerine Yaz"
+
+msgid "Overwrite all"
+msgstr "Tümünün Üzerine Yaz"
+
+msgid "Skip"
+msgstr "Atla"
+
+msgid "Skip all"
+msgstr "Tümünü Atla"
+
+msgid "Keep both"
+msgstr "İki Dosyayı da Tut"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "Eski dosyaların üzerine yaz"
+
+msgid "Replace all smaller files"
+msgstr "Daha küçük tüm dosyaları değiştirin"
+
+msgid "Replace all files if size different"
+msgstr "Farklıysa tüm dosyaları değiştirin"
+
+msgid "Rename all copied files"
+msgstr "Kopyalanan tüm dosyaları yeniden adlandırın"
+
+msgid "Rename all target files"
+msgstr "Tüm hedef dosyaları yeniden adlandır"
+
+msgid "Rename all older target files"
+msgstr "Eski hedef dosyaların tümünü yeniden adlandırın"
+
+#. replace dialog
+msgid "More"
+msgstr "Daha Fazla"
+
+#. tooltips
+msgid "Select target path"
+msgstr "Hedef dizini seçin"
+
+msgid "Add files or folders"
+msgstr "Dosya ve klasörleri ekleyin"
+
+msgid "Expanded view"
+msgstr "Genişletilmiş görünüm"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "Listedeki tüm dosyaları sil"
+
+msgid "Read target files and compare checksums"
+msgstr "Hedef dosyalar oku ve sağlamaları karşılaştır"
+
+msgid "Read source files and create checksums"
+msgstr "Kaynak dosyaları oku ve sağlamaları oluştur"
+
+msgid "Create a new list"
+msgstr "Yeni liste oluştur"
+
+msgid "Transfers history"
+msgstr "Transfer geçmişi"
+
+msgid "Running with administrator priviledges"
+msgstr "Yönetici ayrıcalıklarıyla çalıştırma"
+
+msgid "Run as administrator"
+msgstr "Yönetici olarak çalıştır"
+
+#. export dialog
+msgid "Print/export"
+msgstr "Dışarıya Aktar / Yazdır"
+
+msgid "Preferences"
+msgstr "Tercihler"
+
+msgid "About"
+msgstr "Hakkında"
+
+msgid "Order license"
+msgstr "Lisans siparişi"
+
+msgid "Enter key"
+msgstr "Anahtar girin"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(yükseltilmiş ayrıcalıklar gerektirir)"
+
+msgid "Toggle row"
+msgstr "Satıra geçiş yap"
+
+msgid "Create folders"
+msgstr "Klasörleri oluştur"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "Klasör niteliklerini koru (Salt okunur, Arşiv...)"
+
+msgid "Keep folder timestamps"
+msgstr "Klasör zaman damgalarını koru"
+
+msgid "Keep folder alternate data streams"
+msgstr "Klasör alternatif veri akışlarını koru"
+
+msgid "Copy files"
+msgstr "Dosyaları kopyala"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "Dosya niteliklerini koru (Salt okunur, Arşiv...)"
+
+msgid "Keep file timestamps"
+msgstr "Dosya zaman damgalarını koru"
+
+msgid "Keep file alternate data streams"
+msgstr "Dosya alternatif veri akışlarını koru"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "Klasörler için ACL'leri koru"
+
+msgid "Keep owner information for folders"
+msgstr "Klasörler için sahip bilgilerini koru"
+
+msgid "Keep audit information for folders"
+msgstr "Klasörler için denetim bilgilerini koru"
+
+msgid "Keep ACLs for files"
+msgstr "Dosyalar için ACL'leri koru"
+
+msgid "Keep owner information for files"
+msgstr "Dosyalar için sahip bilgilerini koru"
+
+msgid "Keep audit information for files"
+msgstr "Dosyalar için denetim bilgilerini koru"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "Tüm işlemler için arabellek boyutu"
+
+msgid "Action to take on filename conflict"
+msgstr "Dosya adı çakışması için yapılacak eylem"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "Dosyaları aktarırken veya test ederken sağlama hesaplama yöntemi"
+
+msgid "Save the checksum file to the target folder"
+msgstr "Sağlama t dosyasını hedef klasöre kaydet"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "Sağlama dosyasını kaynak klasöre kaydet"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "Hesaplanan sağlamayı Alternatif Veri Akışlarını kullanan dosyanın içinde saklayın"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "Tüm eylemler durdurulsun mu?"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "Uygulamayı kapat"
+
+msgid "Keep app open"
+msgstr "Uygulamayı açık tut"
+
+msgid "Shutdown"
+msgstr "Bilgisayarı Kapat"
+
+msgid "Sleep"
+msgstr "Uyku"
+
+msgid "Hibernate"
+msgstr "Hazırda bekle"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "Bittiğinde: %s"
+
+msgid "Always On Top"
+msgstr "Her Zaman Üstte"
+
+msgid "Shell integration"
+msgstr "Kabuk bütünleşmesi"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Windows gezgininde kopyala ve yapıştır komutlarının yanı sıra sürükleyip bırakmayı da yönet"
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Total Commander'ın varsayılan butonlar çubuğuna Kopyala ve Taşı butonlarını ekle."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Directory Opus için Kopyala ve Taşı butonları nasıl eklenir okuyun."
+
+msgid "Misc"
+msgstr "Diğer"
+
+msgid "Interface"
+msgstr "Arayüz"
+
+msgid "Register Copy Handler"
+msgstr "Kopyalama İşleyicisini Kaydet"
+
+msgid "Unregister Copy Handler"
+msgstr "Kopyalama İşleyicisi Kaydını Sil"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "TeraCopy'yi varsayılan kopyalama işleyicisi olarak kullan"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "Sadece Scroll Lock kapalı iken"
+
+msgid "Add to Explorer context menu"
+msgstr "Windows gezgininde sağ-tık menüsüne ekle"
+
+msgid "Play sound"
+msgstr "Ses Çal"
+
+msgid "Check free space"
+msgstr "Boş alanı kontrol et"
+
+msgid "Always test after copy"
+msgstr "Kopyalama sonrası her zaman test et"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Eşzamansız dosya aktarımını devre dışı bırak"
+
+msgid "Use system write cache"
+msgstr "Sistem yazma önbelleğini kullan"
+
+msgid "Confirm drag and drop"
+msgstr "Sürükleyip bırakmayı onayla"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "Panoda ki sağlama bilgisine karşı tek dosyaları test et"
+
+#. / file managers
+msgid "File managers"
+msgstr "Dosya yöneticileri"
+
+msgid "Window"
+msgstr "Pencere"
+
+msgid "Show notifications"
+msgstr "Bildirimleri göster"
+
+msgid "Automatic updates"
+msgstr "Otomatik güncellemeler"
+
+msgid "Cancel"
+msgstr "İptal"
+
+#. Window mode
+msgid "Expanded"
+msgstr "Genişletilmiş"
+
+msgid "Stacks"
+msgstr "Yığınlar"
+
+msgid "Auto"
+msgstr "Otomatik"
+
+msgid "Not registered for Commercial Use"
+msgstr "Ticari Kullanım için kayıt edilmemiş"
+
+msgid "Free for Home Users"
+msgstr "Ev Kullanıcıları için ücretsiz"
+
+#. cancel timer
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Check for updates"
+msgstr "Güncellemeleri denetle"
+
+#. history options
+msgid "Never keep history"
+msgstr "Geçmişi saklama"
+
+msgid "Keep history for 1 day"
+msgstr "Geçmişi 1 gün sakla"
+
+msgid "Keep history for 1 week"
+msgstr "Geçmişi 1 hafta sakla"
+
+msgid "Keep history permanently"
+msgstr "Geçmişi kalıcı olarak tut"
+
+msgid "Clean history now"
+msgstr "Geçmişi şimdi temizle"
+
+msgid "Delete"
+msgstr "Sil"
+
+#. date
+msgid "Created"
+msgstr "Oluşturulma"
+
+msgid "Unattended"
+msgstr "Katılımsız"
+
+msgid "Hash"
+msgstr "Hash"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "Kaynak"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "Dosya"
+
+msgid "Not calculated"
+msgstr "Hesaplanmadı"
+
+msgid "Modified"
+msgstr "Değiştirilme"
+
+msgid "File info"
+msgstr "Dosya bilgisi"
+
+#. select
+msgid "This item"
+msgstr "Bu seçim"
+
+#. space bar key
+msgid "Space"
+msgstr "Alan"
+
+msgid "Inverse selection"
+msgstr "Diğerlerini seç"
+
+#. select
+msgid "Same folder"
+msgstr "Aynı klasör"
+
+#. select
+msgid "Same extension"
+msgstr "Aynı uzantı"
+
+msgid "Deselect all"
+msgstr "Hiçbirini seçme"
+
+msgid "Select"
+msgstr "Seç"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "Seçili kaldır"
+
+#. ignore
+msgid "Ignore"
+msgstr "Yoksay"
+
+msgid "Extension"
+msgstr "Uzantı"
+
+msgid "Select ignore list"
+msgstr "Yoksayma listesini seç"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "Ekleme yeri: %s"
+
+msgid "New file list"
+msgstr "Yeni dosya listesi"
+
+msgid "Close all panels"
+msgstr "Tüm panelleri kapat"
+
+msgid "Add files"
+msgstr "Dosya Ekle"
+
+msgid "Add folders"
+msgstr "Klasörler ekle"
+
+msgid "Save checksums"
+msgstr "Sağlamaları kaydet"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "Pro sürümünü alın"
+
+msgid "Export as"
+msgstr "Dışa aktarma"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (sıralama sütunlarıyla birlikte)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (Excel'de içe aktarma vb.)"
+
+msgid "Export only"
+msgstr "Sadece dışa aktar"
+
+msgid "Reset list"
+msgstr "Listeyi sıfırla"
+
+#. ignore always
+msgid "Empty"
+msgstr "Boşalt"
+
+#. always
+msgid "Edit"
+msgstr "Düzenle"
+
+msgid "Download"
+msgstr "İndir"
+
+msgid "On every operation"
+msgstr "Her çalıştırmada"
+
+msgid "Browse"
+msgstr "Gözat"
+
+msgid "Favorites & recent"
+msgstr "Favoriler ve geçmiş"
+
+msgid "No open windows"
+msgstr "Açık pencere yok"
+
+msgid "Checksum copied"
+msgstr "Sağlama kopyalandı"
+
+msgid "Copy"
+msgstr "Kopyala"
+
+msgid "Move"
+msgstr "Taşı"
+
+#. 3rd line
+msgid "Filter"
+msgstr "Filtre"
+
+msgid "Process files:"
+msgstr "İşlenen dosyalar:"
+
+msgid "Start Now"
+msgstr "Şimdi Başla"
+
+msgid "Adding files..."
+msgstr "Dosyalar ekleniyor..."
+
+msgid "Stop"
+msgstr "Dur"
+
+msgid "Pause"
+msgstr "Duraklat"
+
+msgid "Resume"
+msgstr "Devam Et"
+
+msgid "Applying attributes and removing folders..."
+msgstr "Nitelikler uygulanıyor ve klasörler kaldırılıyor ..."
+
+msgid "Applying folder attributes..."
+msgstr "Klasör öznitelikleri uygulanıyor ..."
+
+#. result
+msgid "Result"
+msgstr "Sonuç"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: tamamlandı"
+
+msgid "Next"
+msgstr "Sonraki"
+
+msgid "Verify"
+msgstr "Doğrula"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Hash Kaydet"
+
+#. operation buttons
+msgid "Test"
+msgstr "Test"
+
+msgid "Opening via service:"
+msgstr "Hizmet aracılığıyla açılış:"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "%s hash dosyası kaydedildi"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "Hiçbir sağlama yok, lütfen önce dosyayı kopyala veya test et."
+
+#. check sizes before
+msgid "No target file"
+msgstr "Hedef dosya yok"
+
+msgid "Sizes mismatch"
+msgstr "Boyutlar eşleşmiyor"
+
+msgid "Hashes mismatch"
+msgstr "Hashler eşleşmiyor"
+
+msgid "Waiting for other transfers..."
+msgstr "Diğer transferleri bekliyor ..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "Sıfırlama tamamlandı ve eklenen tüm dosyalar işlensin mi?"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "Daha fazla alan gereklidir: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "Kaynak, hedefle aynı"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "Hedef klasör, kaynak klasörün bir alt klasörüdür!"
+
+msgid "Destination File Already Exists"
+msgstr "Hedef Dosya Zaten Var"
+
+msgid "Open file"
+msgstr "Dosya Aç"
+
+msgid "Open folder"
+msgstr "Klasör Aç"
+
+msgid "Bigger"
+msgstr "Daha büyük"
+
+msgid "Smaller"
+msgstr "Daha küçük"
+
+msgid "Same size"
+msgstr "Aynı boyutta"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "Hepsini atla %d s"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Tüm dosyalar için geçerli daha fazla seçenek"
+
+msgid "Older"
+msgstr "Daha eski"
+
+msgid "Newer"
+msgstr "Daha yeni"
+
+msgid "Same date"
+msgstr "Aynı tarih"
+
+msgid "File is offline, waiting..."
+msgstr "Dosya çevrimdışı, bekliyor ..."
+
+msgid "Cancelled"
+msgstr "İptal edildi"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "Dosya aktarım işlemine yeniden başlanıyor ..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "Disk doldu, lütfen boşaltın %s"
+
+msgid "File is too large for this file system"
+msgstr "Dosya, bu dosya sistemi için çok büyük"
+
+msgid "Error reading file."
+msgstr "Dosya okuma hatası."
+
+msgid "Error writing file."
+msgstr "Dosya yazma hatası."
+
+msgid "File skipped"
+msgstr "Atlanan dosya"
+
+msgid "Stopped"
+msgstr "Durduruldu"
+
+msgid "Error creating folder."
+msgstr "Klasör oluşturma hatası."
+
+msgid "Edit in Notepad"
+msgstr "Not Defteri ile düzenle"
+
+msgid "Remove from favorites"
+msgstr "Favorilerden kaldır"
+
+msgid "Add to favorites"
+msgstr "Sık kullanılanlara ekle"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d öğe"
+msgstr[1] "%d öğe"
+
+msgid "Skip requested by user"
+msgstr "Kullanıcı tarafından atla"
+
+msgid "Stop requested by user"
+msgstr "Kullanıcı tarafından durdur"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "%d dosyalarını diskten sil?"
+msgstr[1] "%d dosya diskten silinsin mi?"
+
+msgid "Move to Recycle Bin"
+msgstr "Geri Dönüşüm Kutusu'na Taşı"
+
+msgid "Delete from disk"
+msgstr "Diskten sil"
+
+msgid "Wipe data"
+msgstr "Verileri silin"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "Daha yavaş, kurtarılması daha kolay."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "Daha hızlı, kurtarılması zor."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Çok yavaş, rasgele verilerle tek geçiş, SSD sürücüler için gereksiz."
+
+msgid "Delete ALL files in the list?"
+msgstr "Listedeki TÜM dosyalar silinsin mi?"
+
+msgid "Folder not found"
+msgstr "Dosya bulunamadı"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "Pano eşleşmelerinde %s hash: #10%s"
+
+msgid "Error opening file."
+msgstr "Dosya açma hatası."
+
+msgid "Error deleting file."
+msgstr "Dosya silme hatası."
+
+msgid "Paused"
+msgstr "Duraklatıldı"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "Hatalar: %d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "Atlanan: %d"
+
+msgid "Append path"
+msgstr "Ekleme dizini"
+
+msgid "File list is empty"
+msgstr "Dosya listesi boş"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "Boş alan: %s"
+
+msgid "Unavailable"
+msgstr "Kullanılamıyor"
+
+msgid "Querying..."
+msgstr "Sorgulanıyor..."
+
+msgid "Drag files or folders here"
+msgstr "Dosyaları veya klasörleri buraya sürükleyin"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "Gösterilecek öğe yok. Tüm dosyaları görmek için filtreleri kaldırın."
+
+msgid "Verify files after transfer"
+msgstr "Aktarımdan sonra dosyaları doğrula"
+
+msgid "Save checksum file on finish"
+msgstr "Bittiğinde sağlama dosyasını kaydet"
+
+msgid "Auto-scroll"
+msgstr "Otomatik kaydırma"
+
+#. menu
+msgid "Menu"
+msgstr "Menü"
+
+msgid "Shared options"
+msgstr "Paylaşılan seçenekler"
+
+msgid "buffer size"
+msgstr "Arabellek boyutu"
+
+#. captions
+msgid "Transfer"
+msgstr "Aktarım"
+
+msgid "Transfer options"
+msgstr "Aktarım seçenekleri"
+
+msgid "Files & folders"
+msgstr "Dosyalar & klasörler"
+
+msgid "Data"
+msgstr "Veri"
+
+msgid "Attributes"
+msgstr "Nitelikler"
+
+msgid "Timestamps"
+msgstr "Zaman damgaları"
+
+msgid "Streams"
+msgstr "Akışlar"
+
+msgid "Security"
+msgstr "Güvenlik"
+
+msgid "ACL"
+msgstr "ACL"
+
+msgid "Owner"
+msgstr "Sahip"
+
+msgid "Audit"
+msgstr "Denetim"
+
+msgid "Test options"
+msgstr "Test seçenekleri"
+
+msgid "Store/verify checksum in ADS"
+msgstr "Sağlama toplamını ADS'de sakla/doğrula"
+
+msgid "Save as default"
+msgstr "Varsayılan olarak kaydet"
+
+msgid "Reset to default"
+msgstr "Varsayılana sıfırla"
+
+msgid "Done"
+msgstr "Tamamladı"
+

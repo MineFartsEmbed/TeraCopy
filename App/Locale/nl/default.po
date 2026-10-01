@@ -1,0 +1,926 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-06-04 07:21\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+
+#. mode
+msgid "Copying"
+msgstr "Kopiëren"
+
+msgid "Moving"
+msgstr "Verplaatsen"
+
+msgid "Testing"
+msgstr "Testen"
+
+msgid "Verifying"
+msgstr "Verifiëren"
+
+msgid "Deleting"
+msgstr "Verwijderen"
+
+#. results
+msgid "Added"
+msgstr "Toegevoegd"
+
+msgid "OK"
+msgstr "Ok"
+
+msgid "Verified"
+msgstr "Geverifieerd"
+
+msgid "Error"
+msgstr "Fout"
+
+#. File list filter
+msgid "Skipped"
+msgstr "Overgeslagen"
+
+msgid "Deleted"
+msgstr "Verwijderd"
+
+msgid "Moved"
+msgstr "Verplaatst"
+
+msgid "Absent"
+msgstr "Afwezig"
+
+#. File list filter
+msgid "Ignored"
+msgstr "Genegeerd"
+
+msgid "File list"
+msgstr "Bestandslijst"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "Doel"
+
+msgid "Options"
+msgstr "Opties"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Log"
+msgstr "Logboek"
+
+#. File list filter
+msgid "All items"
+msgstr "Alle items"
+
+#. File list filter
+msgid "Successful"
+msgstr "Gelukt"
+
+#. File list filter
+msgid "Failed"
+msgstr "Mislukt"
+
+msgid "No files added"
+msgstr "Geen bestanden toegevoegd"
+
+msgid "No target"
+msgstr "Geen doel"
+
+#. foder
+msgid "Folder"
+msgstr "Map"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Files"
+msgstr "Bestanden"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "Time"
+msgstr "Tijd"
+
+msgid "Total"
+msgstr "Totaal"
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "kB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "dagen"
+
+msgid "hours"
+msgstr "uren"
+
+#. minutes
+msgid "min"
+msgstr "min"
+
+#. seconds
+msgid "s"
+msgstr "s"
+
+#. millions
+msgid "m"
+msgstr "m"
+
+msgid "Prompt on filename collision"
+msgstr "Verwittigen bij gelijke bestandsnamen"
+
+msgid "Overwrite"
+msgstr "Overschrijven"
+
+msgid "Overwrite all"
+msgstr "Alles overschrijven"
+
+msgid "Skip"
+msgstr "Overslaan"
+
+msgid "Skip all"
+msgstr "Alles overslaan"
+
+msgid "Keep both"
+msgstr "Beide behouden"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "Alle oudere bestanden overschrijven"
+
+msgid "Replace all smaller files"
+msgstr "Alle kleinere bestanden vervangen"
+
+msgid "Replace all files if size different"
+msgstr "Alle bestanden vervangen als de grootte verschilt"
+
+msgid "Rename all copied files"
+msgstr "Alle gekopieerde bestanden hernoemen"
+
+msgid "Rename all target files"
+msgstr "Alle doelbestanden hernoemen"
+
+msgid "Rename all older target files"
+msgstr "Alle oudere doelbestanden hernoemen"
+
+#. replace dialog
+msgid "More"
+msgstr "Meer"
+
+#. tooltips
+msgid "Select target path"
+msgstr "Doelpad selecteren"
+
+msgid "Add files or folders"
+msgstr "Mappen of bestanden toevoegen"
+
+msgid "Expanded view"
+msgstr "Uitgebreide weergave"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "Alle bestanden in de lijst verwijderen"
+
+msgid "Read target files and compare checksums"
+msgstr "Doelbestanden lezen en controlesommen vergelijken"
+
+msgid "Read source files and create checksums"
+msgstr "Bronbestanden lezen en controlesommen aanmaken"
+
+msgid "Create a new list"
+msgstr "Nieuwe lijst aanmaken"
+
+msgid "Transfers history"
+msgstr "Overdrachtgeschiedenis"
+
+msgid "Running with administrator priviledges"
+msgstr "Uitgevoerd met beheerdersrechten"
+
+msgid "Run as administrator"
+msgstr "Als administrator uitvoeren"
+
+#. export dialog
+msgid "Print/export"
+msgstr "Afdrukken/exporteren"
+
+msgid "Preferences"
+msgstr "Voorkeuren"
+
+msgid "About"
+msgstr "Over"
+
+msgid "Order license"
+msgstr "Licentie bestellen"
+
+msgid "Enter key"
+msgstr "Sleutel ingeven"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr "(hiervoor zijn verhoogde rechten vereist)"
+
+msgid "Toggle row"
+msgstr "Rij aan/uit"
+
+msgid "Create folders"
+msgstr "Mappen aanmaken"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr "Map-attributen behouden (alleen-lezen, archief...)"
+
+msgid "Keep folder timestamps"
+msgstr "Tijdstempels van mappen behouden"
+
+msgid "Keep folder alternate data streams"
+msgstr "Alternate data streams van mappen behouden"
+
+msgid "Copy files"
+msgstr "Bestanden kopiëren"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr "Bestandsattributen behouden (alleen-lezen, archief...)"
+
+msgid "Keep file timestamps"
+msgstr "Tijdstempels van bestanden behouden"
+
+msgid "Keep file alternate data streams"
+msgstr "Alternate data streams van bestanden behouden"
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr "ACL's voor mappen behouden"
+
+msgid "Keep owner information for folders"
+msgstr "Eigenaarsinformatie voor mappen behouden"
+
+msgid "Keep audit information for folders"
+msgstr "Audit-informatie voor mappen behouden"
+
+msgid "Keep ACLs for files"
+msgstr "ACL's voor bestanden behouden"
+
+msgid "Keep owner information for files"
+msgstr "Eigenaarsinformatie voor bestanden behouden"
+
+msgid "Keep audit information for files"
+msgstr "Audit-informatie voor bestanden behouden"
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr "Buffergrootte voor alle bewerkingen"
+
+msgid "Action to take on filename conflict"
+msgstr "Te ondernemen actie bij bestandsnaamconflict"
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr "Methode om controlesommen te berekenen tijdens het overzetten of testen van bestanden"
+
+msgid "Save the checksum file to the target folder"
+msgstr "Het controlesom-bestand opslaan in de doelmap"
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr "Het controlesom-bestand opslaan in de bronmap"
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr "Berekende controlesom in het bestand opslaan met alternate data streams"
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr "Alle bewerkingen stoppen?"
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "App sluiten"
+
+msgid "Keep app open"
+msgstr "App open houden"
+
+msgid "Shutdown"
+msgstr "Afsluiten"
+
+msgid "Sleep"
+msgstr "Slaapstand"
+
+msgid "Hibernate"
+msgstr "Sluimerstand"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr "Wanneer klaar: %s"
+
+msgid "Always On Top"
+msgstr "Altijd bovenaan"
+
+msgid "Shell integration"
+msgstr "Shell-integratie"
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Verwerken van zowel slepen en neerzetten van bestanden met de linkermuisknop als kopieer- en plakopdrachten in verkenner."
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Voegt knoppen voor kopiëren en verplaatsen toe aan de standaard knoppenbalk van Total Commander."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Lezen hoe u knoppen voor kopiëren en verplaatsen kunt toevoegen aan de Directory Opus."
+
+msgid "Misc"
+msgstr "Overige"
+
+msgid "Interface"
+msgstr "Interface"
+
+msgid "Register Copy Handler"
+msgstr "Kopieerafhandeling registreren"
+
+msgid "Unregister Copy Handler"
+msgstr "Kopieerafhandeling de-registreren"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "TeraCopy als standaard kopieerbehandelaar gebruiken"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "Alleen wanneer Scroll Lock UIT staat"
+
+msgid "Add to Explorer context menu"
+msgstr "Aan het contextmenu van verkenner toevoegen"
+
+msgid "Play sound"
+msgstr "Geluid afspelen"
+
+msgid "Check free space"
+msgstr "Vrije ruimte controleren"
+
+msgid "Always test after copy"
+msgstr "Altijd testen na het kopiëren"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Asynchrone bestandsoverdracht uitschakelen"
+
+msgid "Use system write cache"
+msgstr "Schrijfcache van systeem gebruiken"
+
+msgid "Confirm drag and drop"
+msgstr "Slepen en neerzetten bevestigen"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr "Afzonderlijke bestanden testen met een controlesom op het klembord"
+
+#. / file managers
+msgid "File managers"
+msgstr "Bestandsbeheerders"
+
+msgid "Window"
+msgstr "Venster"
+
+msgid "Show notifications"
+msgstr "Meldingen weergeven"
+
+msgid "Automatic updates"
+msgstr "Automatische updates"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+#. Window mode
+msgid "Expanded"
+msgstr "Uitgebreid"
+
+msgid "Stacks"
+msgstr "Gestapeld"
+
+msgid "Auto"
+msgstr "Automatisch"
+
+msgid "Not registered for Commercial Use"
+msgstr "Niet geregistreerd voor commercieel gebruik"
+
+msgid "Free for Home Users"
+msgstr "Gratis voor thuisgebruikers"
+
+#. cancel timer
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "Check for updates"
+msgstr "Op updates controleren"
+
+#. history options
+msgid "Never keep history"
+msgstr "Nooit de geschiedenis bewaren"
+
+msgid "Keep history for 1 day"
+msgstr "Geschiedenis voor 1 dag bijhouden"
+
+msgid "Keep history for 1 week"
+msgstr "Geschiedenis voor 1 week bijhouden"
+
+msgid "Keep history permanently"
+msgstr "Geschiedenis permanent bijhouden"
+
+msgid "Clean history now"
+msgstr "Geschiedenis nu wissen"
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+#. date
+msgid "Created"
+msgstr "Aangemaakt"
+
+msgid "Unattended"
+msgstr "Zonder toezicht"
+
+msgid "Hash"
+msgstr "Hash"
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "Bron"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "Bestand"
+
+msgid "Not calculated"
+msgstr "Niet berekend"
+
+msgid "Modified"
+msgstr "Gewijzigd"
+
+msgid "File info"
+msgstr "Bestandsinformatie"
+
+#. select
+msgid "This item"
+msgstr "Dit item"
+
+#. space bar key
+msgid "Space"
+msgstr "Spatie"
+
+msgid "Inverse selection"
+msgstr "Selectie omkeren"
+
+#. select
+msgid "Same folder"
+msgstr "Zelfde map"
+
+#. select
+msgid "Same extension"
+msgstr "Zelfde extensie"
+
+msgid "Deselect all"
+msgstr "Alles deselecteren"
+
+msgid "Select"
+msgstr "Selecteren"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "Geselecteerde verwijderen"
+
+#. ignore
+msgid "Ignore"
+msgstr "Negeren"
+
+msgid "Extension"
+msgstr "Extensie"
+
+msgid "Select ignore list"
+msgstr "Negeerlijst selecteren"
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr "Toevoegen aan: %s"
+
+msgid "New file list"
+msgstr "Nieuwe bestandslijst"
+
+msgid "Close all panels"
+msgstr "Alle deelvensters sluiten"
+
+msgid "Add files"
+msgstr "Bestanden toevoegen"
+
+msgid "Add folders"
+msgstr "Mappen toevoegen"
+
+msgid "Save checksums"
+msgstr "Controlesommen opslaan"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "Pro-versie verkrijgen"
+
+msgid "Export as"
+msgstr "Exporteren als"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (met sorteerbare kolommen)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (om te importeren in Excel, enz...)"
+
+msgid "Export only"
+msgstr "Alleen exporteren"
+
+msgid "Reset list"
+msgstr "Lijst herstellen"
+
+#. ignore always
+msgid "Empty"
+msgstr "Leeg"
+
+#. always
+msgid "Edit"
+msgstr "Bewerken"
+
+msgid "Download"
+msgstr "Downloaden"
+
+msgid "On every operation"
+msgstr "Bij elke bewerking"
+
+msgid "Browse"
+msgstr "Bladeren"
+
+msgid "Favorites & recent"
+msgstr "Favorieten en recente"
+
+msgid "No open windows"
+msgstr "Geen open vensters"
+
+msgid "Checksum copied"
+msgstr "Controlesom gekopieerd"
+
+msgid "Copy"
+msgstr "Kopiëren"
+
+msgid "Move"
+msgstr "Verplaatsen"
+
+#. 3rd line
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Process files:"
+msgstr "Bestanden verwerken:"
+
+msgid "Start Now"
+msgstr "Nu starten"
+
+msgid "Adding files..."
+msgstr "Bestanden toevoegen..."
+
+msgid "Stop"
+msgstr "Stoppen"
+
+msgid "Pause"
+msgstr "Pauzeren"
+
+msgid "Resume"
+msgstr "Hervatten"
+
+msgid "Applying attributes and removing folders..."
+msgstr "Attributen toepassen en mappen verwijderen..."
+
+msgid "Applying folder attributes..."
+msgstr "Mapattributen toepassen..."
+
+#. result
+msgid "Result"
+msgstr "Resultaat"
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr "%s: voltooid"
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "Verify"
+msgstr "Verifiëren"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Hash opslaan"
+
+#. operation buttons
+msgid "Test"
+msgstr "Testen"
+
+msgid "Opening via service:"
+msgstr "Openen via service:"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr "%s hash-bestand opgeslagen"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "Er zijn geen controlesommen beschikbaar. Kopieer of test de bestanden eerst."
+
+#. check sizes before
+msgid "No target file"
+msgstr "Geen doelbestand"
+
+msgid "Sizes mismatch"
+msgstr "Grootte komt niet overeen"
+
+msgid "Hashes mismatch"
+msgstr "Hash komt niet overeen"
+
+msgid "Waiting for other transfers..."
+msgstr "Wachten op andere overdrachten..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr "Voltooide resetten en alle toegevoegde bestanden verwerken?"
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "Meer ruimte vereist: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "Bron is hetzelfde als doel"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr "De doelmap is een submap van de bronmap!"
+
+msgid "Destination File Already Exists"
+msgstr "Doelbestand bestaat al"
+
+msgid "Open file"
+msgstr "Bestand openen"
+
+msgid "Open folder"
+msgstr "Map openen"
+
+msgid "Bigger"
+msgstr "Groter"
+
+msgid "Smaller"
+msgstr "Kleiner"
+
+msgid "Same size"
+msgstr "Zelfde grootte"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "alles overslaan over %d s"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Meer opties, van toepassing op alle bestanden"
+
+msgid "Older"
+msgstr "Ouder"
+
+msgid "Newer"
+msgstr "Nieuwer"
+
+msgid "Same date"
+msgstr "Zelfde datum"
+
+msgid "File is offline, waiting..."
+msgstr "Bestand is offline, wachten..."
+
+msgid "Cancelled"
+msgstr "Geannuleerd"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "Het bestand is weer beschikbaar, overdracht hervatten..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "Schijf is vol. Maak %s vrij"
+
+msgid "File is too large for this file system"
+msgstr "Bestand is te groot voor dit bestandssysteem"
+
+msgid "Error reading file."
+msgstr "Fout bij lezen van bestand."
+
+msgid "Error writing file."
+msgstr "Fout bij schrijven van bestand."
+
+msgid "File skipped"
+msgstr "Bestand overgeslagen"
+
+msgid "Stopped"
+msgstr "Gestopt"
+
+msgid "Error creating folder."
+msgstr "Fout bij aanmaken map."
+
+msgid "Edit in Notepad"
+msgstr "Bewerken in kladblok"
+
+msgid "Remove from favorites"
+msgstr "Uit favorieten verwijderen"
+
+msgid "Add to favorites"
+msgstr "Aan favorieten toevoegen"
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d item"
+msgstr[1] "%d items"
+
+msgid "Skip requested by user"
+msgstr "Overslaan gevraagd door gebruiker"
+
+msgid "Stop requested by user"
+msgstr "Stop gevraagd door gebruiker"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "%d bestand van schijf verwijderen?"
+msgstr[1] "%d bestanden van schijf verwijderen?"
+
+msgid "Move to Recycle Bin"
+msgstr "Naar prullenbak verplaatsen"
+
+msgid "Delete from disk"
+msgstr "Van schijf verwijderen"
+
+msgid "Wipe data"
+msgstr "Gegevens wissen"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr "Trager, eenvoudig te herstellen."
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr "Sneller, moeilijk te herstellen."
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Zeer traag, één keer met willekeurige gegevens, nutteloos voor solid state drives."
+
+msgid "Delete ALL files in the list?"
+msgstr "ALLE bestanden in de lijst verwijderen?"
+
+msgid "Folder not found"
+msgstr "Map niet gevonden"
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr "%s hash op het klembord komt overeen met: #10%s"
+
+msgid "Error opening file."
+msgstr "Fout bij openen van bestand."
+
+msgid "Error deleting file."
+msgstr "Fout bij verwijderen van bestand."
+
+msgid "Paused"
+msgstr "Gepauzeerd"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr "fouten: %d"
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr "overgeslagen: %d"
+
+msgid "Append path"
+msgstr "Pad toevoegen"
+
+msgid "File list is empty"
+msgstr "Bestandslijst is leeg"
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr "Vrije ruimte: %s"
+
+msgid "Unavailable"
+msgstr "Niet beschikbaar"
+
+msgid "Querying..."
+msgstr "Opvragen..."
+
+msgid "Drag files or folders here"
+msgstr "Bestanden of mappen hier slepen"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr "Geen items om weer te geven. Verwijder filters om alle bestanden te zien."
+
+msgid "Verify files after transfer"
+msgstr "Bestanden verifiëren na overdracht"
+
+msgid "Save checksum file on finish"
+msgstr "Controlesom-bestand opslaan na afloop"
+
+msgid "Auto-scroll"
+msgstr "Automatisch scrollen"
+
+#. menu
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Shared options"
+msgstr "Gedeelde opties"
+
+msgid "buffer size"
+msgstr "buffergrootte"
+
+#. captions
+msgid "Transfer"
+msgstr "Overdragen"
+
+msgid "Transfer options"
+msgstr "Overdracht-opties"
+
+msgid "Files & folders"
+msgstr "Bestanden en mappen"
+
+msgid "Data"
+msgstr "Gegevens"
+
+msgid "Attributes"
+msgstr "Attributen"
+
+msgid "Timestamps"
+msgstr "Tijdstempels"
+
+msgid "Streams"
+msgstr "Streams"
+
+msgid "Security"
+msgstr "Beveiliging"
+
+msgid "ACL"
+msgstr "ACL"
+
+msgid "Owner"
+msgstr "Eigenaar"
+
+msgid "Audit"
+msgstr "Audit"
+
+msgid "Test options"
+msgstr "Test-opties"
+
+msgid "Store/verify checksum in ADS"
+msgstr "Controlesom in ADS opslaan/verifiëren"
+
+msgid "Save as default"
+msgstr "Als standaard opslaan"
+
+msgid "Reset to default"
+msgstr "Standaardinstellingen herstellen"
+
+msgid "Done"
+msgstr "Klaar"
+

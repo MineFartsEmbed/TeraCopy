@@ -1,0 +1,926 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: teracopy\n"
+"POT-Creation-Date: 2022-01-02 17:46\n"
+"PO-Revision-Date: 2022-12-28 05:44\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.3.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: teracopy\n"
+"X-Crowdin-Project-ID: 490081\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: default.po\n"
+"X-Crowdin-File-ID: 5\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+
+#. mode
+msgid "Copying"
+msgstr "Másolás"
+
+msgid "Moving"
+msgstr "Áthelyezés"
+
+msgid "Testing"
+msgstr "Tesztelés"
+
+msgid "Verifying"
+msgstr "Ellenőrzés"
+
+msgid "Deleting"
+msgstr "Törlés"
+
+#. results
+msgid "Added"
+msgstr "Hozzáadva"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Verified"
+msgstr "Ellenőrizve"
+
+msgid "Error"
+msgstr "Hiba"
+
+#. File list filter
+msgid "Skipped"
+msgstr "Kihagyva"
+
+msgid "Deleted"
+msgstr "Törölve"
+
+msgid "Moved"
+msgstr "Áthelyezve"
+
+msgid "Absent"
+msgstr ""
+
+#. File list filter
+msgid "Ignored"
+msgstr ""
+
+msgid "File list"
+msgstr "Fájl lista"
+
+#. target
+#. mode
+#. log
+#. second line
+msgid "Target"
+msgstr "Cél"
+
+msgid "Options"
+msgstr "Opciók"
+
+msgid "Status"
+msgstr "Állapot"
+
+msgid "Log"
+msgstr "Napló"
+
+#. File list filter
+msgid "All items"
+msgstr "Minden elem"
+
+#. File list filter
+msgid "Successful"
+msgstr "Sikeres"
+
+#. File list filter
+msgid "Failed"
+msgstr "Sikertelen"
+
+msgid "No files added"
+msgstr ""
+
+msgid "No target"
+msgstr "Nincs cél"
+
+#. foder
+msgid "Folder"
+msgstr "Mappa"
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "Files"
+msgstr "Fájlok"
+
+msgid "Bytes"
+msgstr ""
+
+msgid "Time"
+msgstr "Idő"
+
+msgid "Total"
+msgstr ""
+
+#. bytes
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "days"
+msgstr "nap"
+
+msgid "hours"
+msgstr "óra"
+
+#. minutes
+msgid "min"
+msgstr "perc"
+
+#. seconds
+msgid "s"
+msgstr "másodperc"
+
+#. millions
+msgid "m"
+msgstr ""
+
+msgid "Prompt on filename collision"
+msgstr "Kérdezzen fájlnév ütközéskor"
+
+msgid "Overwrite"
+msgstr "Felülírás"
+
+msgid "Overwrite all"
+msgstr "Mindet felülírja"
+
+msgid "Skip"
+msgstr "Kihagyás"
+
+msgid "Skip all"
+msgstr "Mindet kihagyja"
+
+msgid "Keep both"
+msgstr "Mindkettőt megtartása"
+
+#. replace dialog
+msgid "Overwrite all older files"
+msgstr "Minden régebbi fájlt felülír"
+
+msgid "Replace all smaller files"
+msgstr "Kicserél minden kisebb fájlt"
+
+msgid "Replace all files if size different"
+msgstr "Kicserél minden fájlt ha a méretük különbözik"
+
+msgid "Rename all copied files"
+msgstr "Átnevez minden másolt fájlt"
+
+msgid "Rename all target files"
+msgstr "Átnevez minden cél fájlt"
+
+msgid "Rename all older target files"
+msgstr "Nevezzen át minden régebbi cél fájlt"
+
+#. replace dialog
+msgid "More"
+msgstr "Több"
+
+#. tooltips
+msgid "Select target path"
+msgstr ""
+
+msgid "Add files or folders"
+msgstr ""
+
+msgid "Expanded view"
+msgstr "Bővített nézet"
+
+#. delete button
+msgid "Delete all files in the list"
+msgstr "Összes fájl eltávolítása a listáról"
+
+msgid "Read target files and compare checksums"
+msgstr ""
+
+msgid "Read source files and create checksums"
+msgstr ""
+
+msgid "Create a new list"
+msgstr "Új lista létrehozása"
+
+msgid "Transfers history"
+msgstr "Másolási előzmények"
+
+msgid "Running with administrator priviledges"
+msgstr "Rendszergazdai jogokkal fut"
+
+msgid "Run as administrator"
+msgstr "Futtatás rendszergazdaként"
+
+#. export dialog
+msgid "Print/export"
+msgstr "Nyomtatás/exportálás"
+
+msgid "Preferences"
+msgstr "Beállítások"
+
+msgid "About"
+msgstr "Névjegy"
+
+msgid "Order license"
+msgstr ""
+
+msgid "Enter key"
+msgstr "Kulcs megadása"
+
+#. options
+msgid "(this requires elevated privileges)"
+msgstr ""
+
+msgid "Toggle row"
+msgstr ""
+
+msgid "Create folders"
+msgstr "Mappák létrehozása"
+
+msgid "Keep folder attributes (Read only, Archive...)"
+msgstr ""
+
+msgid "Keep folder timestamps"
+msgstr "Tartsa meg a mappák időbélyegeit"
+
+msgid "Keep folder alternate data streams"
+msgstr ""
+
+msgid "Copy files"
+msgstr "Fájlok másolása"
+
+msgid "Keep file attributes (Read only, Archive...)"
+msgstr ""
+
+msgid "Keep file timestamps"
+msgstr "Tartsa meg a fájlok időbélyegeit"
+
+msgid "Keep file alternate data streams"
+msgstr ""
+
+#. security
+msgid "Keep ACLs for folders"
+msgstr ""
+
+msgid "Keep owner information for folders"
+msgstr "Tartsa meg a mappák tulajdonosadatait"
+
+msgid "Keep audit information for folders"
+msgstr ""
+
+msgid "Keep ACLs for files"
+msgstr ""
+
+msgid "Keep owner information for files"
+msgstr "Tartsa meg a fájlok tulajdonosadatait"
+
+msgid "Keep audit information for files"
+msgstr ""
+
+#. trasfer options
+msgid "Buffer size for all operations"
+msgstr ""
+
+msgid "Action to take on filename conflict"
+msgstr ""
+
+msgid "Method to calculate checksums while transferring or testing files"
+msgstr ""
+
+msgid "Save the checksum file to the target folder"
+msgstr ""
+
+#. testing options
+msgid "Save the checksum file to the source folder"
+msgstr ""
+
+msgid "Store calculated checksum inside the file using Alternate Data Streams"
+msgstr ""
+
+#. all idle, closing
+msgid "Stop all operations?"
+msgstr ""
+
+#. text
+#. text := _('On finish') + ': ' + _(text).ToLower;
+msgid "Close app"
+msgstr "Alkalmazás bezárása"
+
+msgid "Keep app open"
+msgstr "Alkalmazás nyitva tartása"
+
+msgid "Shutdown"
+msgstr "Kikapcsolás"
+
+msgid "Sleep"
+msgstr "Alvás"
+
+msgid "Hibernate"
+msgstr "Hibernálás"
+
+#. Close app / shutdown
+#, object-pascal-format
+msgid "On finish: %s"
+msgstr ""
+
+msgid "Always On Top"
+msgstr "Mindig felül"
+
+msgid "Shell integration"
+msgstr ""
+
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Használja a Fogd és vidd módszert az egér bal gombjával, vagy a Másolás és Beillesztés parancsokat a Fájlkezelőben."
+
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Másolás és Áthelyezés gombok hozzáadása a Total Commander alapértelmezett gombjaihoz."
+
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Olvasd el, hogyan adhatod a Directory Opus-hoz a Másolás és Mozgatás gombokat."
+
+msgid "Misc"
+msgstr "Egyéb"
+
+msgid "Interface"
+msgstr "Felület"
+
+msgid "Register Copy Handler"
+msgstr "Másoláskezelő regisztrálása"
+
+msgid "Unregister Copy Handler"
+msgstr "Másoláskezelő regisztrálásának törlése"
+
+msgid "Use TeraCopy as default copy handler"
+msgstr "Használd a TeraCopy-t mint alapértelmezett másoláskezelő"
+
+msgid "Only when Scroll Lock is OFF"
+msgstr "Csak ha a Scroll Lock kikapcsolva"
+
+msgid "Add to Explorer context menu"
+msgstr "Hozzáadás az Explorer (Fájlkezelő) helyi menüjéhez."
+
+msgid "Play sound"
+msgstr ""
+
+msgid "Check free space"
+msgstr "Szabad hely ellenőrzése"
+
+msgid "Always test after copy"
+msgstr "Mindig ellenőrizze a másolatot"
+
+msgid "Disable asynchronous file transfer"
+msgstr "Aszinkron másolás tiltása"
+
+msgid "Use system write cache"
+msgstr ""
+
+msgid "Confirm drag and drop"
+msgstr "Fogd és vidd megerősítése"
+
+msgid "Test single files against a checksum in Clipboard"
+msgstr ""
+
+#. / file managers
+msgid "File managers"
+msgstr "Fájlkezelõk"
+
+msgid "Window"
+msgstr ""
+
+msgid "Show notifications"
+msgstr ""
+
+msgid "Automatic updates"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Mégsem"
+
+#. Window mode
+msgid "Expanded"
+msgstr ""
+
+msgid "Stacks"
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Not registered for Commercial Use"
+msgstr "Nincs regisztrálva kereskedelmi használatra"
+
+msgid "Free for Home Users"
+msgstr "Otthoni használatra ingyenes"
+
+#. cancel timer
+msgid "Close"
+msgstr "Bezárás"
+
+msgid "Check for updates"
+msgstr ""
+
+#. history options
+msgid "Never keep history"
+msgstr "Soha ne tartsa meg az előzményeket"
+
+msgid "Keep history for 1 day"
+msgstr "Előzmények megtartása 1 napig"
+
+msgid "Keep history for 1 week"
+msgstr "Előzmények megtartása 1 hétig"
+
+msgid "Keep history permanently"
+msgstr ""
+
+msgid "Clean history now"
+msgstr "Előzmények törlése most"
+
+msgid "Delete"
+msgstr "Törlés"
+
+#. date
+msgid "Created"
+msgstr ""
+
+msgid "Unattended"
+msgstr "Felügyelet nélkül"
+
+msgid "Hash"
+msgstr ""
+
+#. source
+#. mode
+#. add busy drives
+#. add busy drives
+msgid "Source"
+msgstr "Forrás"
+
+#. file - use target if renamed
+msgid "File"
+msgstr "Fájl"
+
+msgid "Not calculated"
+msgstr "Nincs kiszámítva"
+
+msgid "Modified"
+msgstr ""
+
+msgid "File info"
+msgstr "Fájl információ"
+
+#. select
+msgid "This item"
+msgstr "Ez az elem"
+
+#. space bar key
+msgid "Space"
+msgstr "Szóköz"
+
+msgid "Inverse selection"
+msgstr "Fordított kijelölés"
+
+#. select
+msgid "Same folder"
+msgstr "Ugyanazon könyvtár"
+
+#. select
+msgid "Same extension"
+msgstr "Ugyanazon kiterjesztés"
+
+msgid "Deselect all"
+msgstr "Összes kijelölés törlése"
+
+msgid "Select"
+msgstr "Kiválasztás"
+
+#. remove selected items from list
+msgid "Remove selected"
+msgstr "Kijelöltek eltávolítása"
+
+#. ignore
+msgid "Ignore"
+msgstr "Mellőz"
+
+msgid "Extension"
+msgstr ""
+
+msgid "Select ignore list"
+msgstr ""
+
+#, object-pascal-format
+msgid "Add to: %s"
+msgstr ""
+
+msgid "New file list"
+msgstr "Új fájl lista"
+
+msgid "Close all panels"
+msgstr "Minden panel bezárása"
+
+msgid "Add files"
+msgstr "Fájlok hozzáadása"
+
+msgid "Add folders"
+msgstr "Mappa hozzáadása"
+
+msgid "Save checksums"
+msgstr "Ellenőrzőösszeg mentése"
+
+#. Buy Pro version
+msgid "Get Pro version"
+msgstr "A Pro verzió megvásárlása"
+
+msgid "Export as"
+msgstr "Exportálás"
+
+msgid "HTML (with sortable columns)"
+msgstr "HTML (csoportosítható oszlopokkal)"
+
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (Excel-be történő importáláshoz stb.)"
+
+msgid "Export only"
+msgstr "Csak exportálás"
+
+msgid "Reset list"
+msgstr ""
+
+#. ignore always
+msgid "Empty"
+msgstr ""
+
+#. always
+msgid "Edit"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "On every operation"
+msgstr ""
+
+msgid "Browse"
+msgstr "Tallózás"
+
+msgid "Favorites & recent"
+msgstr "Kedvencek & legutóbb használt"
+
+msgid "No open windows"
+msgstr ""
+
+msgid "Checksum copied"
+msgstr ""
+
+msgid "Copy"
+msgstr "Másolás"
+
+msgid "Move"
+msgstr "Áthelyezés"
+
+#. 3rd line
+msgid "Filter"
+msgstr ""
+
+msgid "Process files:"
+msgstr ""
+
+msgid "Start Now"
+msgstr "Indítás most"
+
+msgid "Adding files..."
+msgstr ""
+
+msgid "Stop"
+msgstr "Állj"
+
+msgid "Pause"
+msgstr "Szünet"
+
+msgid "Resume"
+msgstr "Folytatás"
+
+msgid "Applying attributes and removing folders..."
+msgstr "Attribútumok alkalmazása és mappák eltávolítása..."
+
+msgid "Applying folder attributes..."
+msgstr "Mappa attribútumok alkalmazása..."
+
+#. result
+msgid "Result"
+msgstr ""
+
+#. e.g. Testing: completed
+#. copy: completed
+#, object-pascal-format
+msgid "%s: completed"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Verify"
+msgstr "Ellenőrzés"
+
+#. save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Hash mentése"
+
+#. operation buttons
+msgid "Test"
+msgstr "Teszt"
+
+msgid "Opening via service:"
+msgstr "Szolgáltatás megnyitása:"
+
+#, object-pascal-format
+msgid "%s hash file saved"
+msgstr ""
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "Nincsenek ellenőrző összegek, először másolja át, vagy ellenőrizze a fájlokat."
+
+#. check sizes before
+msgid "No target file"
+msgstr ""
+
+msgid "Sizes mismatch"
+msgstr "Eltérő méretek"
+
+msgid "Hashes mismatch"
+msgstr "Nem egyező hash"
+
+msgid "Waiting for other transfers..."
+msgstr "Másik másolásra várás..."
+
+#. ask to merge
+msgid "Reset completed and process all added files?"
+msgstr ""
+
+#, object-pascal-format
+msgid "More space is required: %s"
+msgstr "Több hely szükséges: %s"
+
+#. Moving within the same folder
+msgid "Source is the same as target"
+msgstr "A forrás és a cél egyezik"
+
+#. Source is inside the target?
+#. Source is inside the target?
+msgid "The destination folder is a subfolder of the source folder!"
+msgstr ""
+
+msgid "Destination File Already Exists"
+msgstr "A célfájl már létezik"
+
+msgid "Open file"
+msgstr "Fájl megnyitása"
+
+msgid "Open folder"
+msgstr "Könyvtár megnyitása"
+
+msgid "Bigger"
+msgstr "Nagyobb"
+
+msgid "Smaller"
+msgstr "Kisebb"
+
+msgid "Same size"
+msgstr "Ugyanolyan méret"
+
+#. replace dialog, auto-select Skip all button in N seconds
+#, object-pascal-format
+msgid "skip all in %d s"
+msgstr "Mindet kihagy %d másodperc múlva"
+
+#. more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "További beállítások, mely minden fájlra érvényes"
+
+msgid "Older"
+msgstr "Régebbi"
+
+msgid "Newer"
+msgstr "Újabb"
+
+msgid "Same date"
+msgstr "Egyező dátum"
+
+msgid "File is offline, waiting..."
+msgstr "A fájl offline állapotban van, várakozás..."
+
+msgid "Cancelled"
+msgstr "Törölve"
+
+msgid "The file is available again, resuming transfer..."
+msgstr "A fájl újra elérhető, folytatom az átvitelt..."
+
+#, object-pascal-format
+msgid "Disk is full, please free up %s"
+msgstr "A lemez megtelt, kérjük szabadítson fel %s helyet"
+
+msgid "File is too large for this file system"
+msgstr "A fájl túl nagy erre a fájlrendszerre"
+
+msgid "Error reading file."
+msgstr ""
+
+msgid "Error writing file."
+msgstr ""
+
+msgid "File skipped"
+msgstr "Fájl kihagyva"
+
+msgid "Stopped"
+msgstr "Megállított"
+
+msgid "Error creating folder."
+msgstr ""
+
+msgid "Edit in Notepad"
+msgstr ""
+
+msgid "Remove from favorites"
+msgstr ""
+
+msgid "Add to favorites"
+msgstr ""
+
+#, object-pascal-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Skip requested by user"
+msgstr "Felhasználó által kért kihagyás"
+
+msgid "Stop requested by user"
+msgstr "Felhasználó által kért megállítás"
+
+#, object-pascal-format
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Move to Recycle Bin"
+msgstr "Áthelyezés a kukába"
+
+msgid "Delete from disk"
+msgstr "Törlés a lemezről"
+
+msgid "Wipe data"
+msgstr "Adat megsemmisítés"
+
+#. Move to Recycle Bin
+msgid "Slower, easy to recover."
+msgstr ""
+
+#. Delete from disk
+msgid "Faster, hard to recover."
+msgstr ""
+
+#. Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Nagyon lassú, egymenetes felülírás véletlen generált adattal, nem alkalmazható SSD és flash meghajtón."
+
+msgid "Delete ALL files in the list?"
+msgstr "Eltávolítja az összes fájlt a listából?"
+
+msgid "Folder not found"
+msgstr ""
+
+#. compare with hash in clipboard
+#, object-pascal-format
+msgid "%s hash in Clipboard matches: #10%s"
+msgstr ""
+
+msgid "Error opening file."
+msgstr ""
+
+msgid "Error deleting file."
+msgstr ""
+
+msgid "Paused"
+msgstr "Szüneteltetve"
+
+#. errors count
+#, object-pascal-format
+msgid "errors: %d"
+msgstr ""
+
+#. skipped files count
+#, object-pascal-format
+msgid "skipped: %d"
+msgstr ""
+
+msgid "Append path"
+msgstr ""
+
+msgid "File list is empty"
+msgstr ""
+
+#, object-pascal-format
+msgid "Free space: %s"
+msgstr ""
+
+msgid "Unavailable"
+msgstr ""
+
+msgid "Querying..."
+msgstr ""
+
+msgid "Drag files or folders here"
+msgstr "Húzza a fájlokat vagy mappákat ide"
+
+msgid "No items to show. Remove filters to see all files."
+msgstr ""
+
+msgid "Verify files after transfer"
+msgstr ""
+
+msgid "Save checksum file on finish"
+msgstr "Az ellenőrzőösszegfájl mentése befejeződött"
+
+msgid "Auto-scroll"
+msgstr "Automatikus görgetés"
+
+#. menu
+msgid "Menu"
+msgstr "Menü"
+
+msgid "Shared options"
+msgstr ""
+
+msgid "buffer size"
+msgstr ""
+
+#. captions
+msgid "Transfer"
+msgstr "Átvitel"
+
+msgid "Transfer options"
+msgstr ""
+
+msgid "Files & folders"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "Attributes"
+msgstr ""
+
+msgid "Timestamps"
+msgstr ""
+
+msgid "Streams"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "ACL"
+msgstr ""
+
+msgid "Owner"
+msgstr ""
+
+msgid "Audit"
+msgstr ""
+
+msgid "Test options"
+msgstr ""
+
+msgid "Store/verify checksum in ADS"
+msgstr ""
+
+msgid "Save as default"
+msgstr ""
+
+msgid "Reset to default"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
